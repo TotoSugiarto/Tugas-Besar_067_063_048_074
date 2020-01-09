@@ -1,0 +1,6455 @@
+state,year,month,number
+Acre,1998,1,0
+Acre,1999,1,0
+Acre,2000,1,0
+Acre,2001,1,0
+Acre,2002,1,0
+Acre,2003,1,10
+Acre,2004,1,0
+Acre,2005,1,12
+Acre,2006,1,4
+Acre,2007,1,0
+Acre,2008,1,0
+Acre,2009,1,0
+Acre,2010,1,1
+Acre,2011,1,0
+Acre,2012,1,0
+Acre,2013,1,0
+Acre,2014,1,0
+Acre,2015,1,1
+Acre,2016,1,12
+Acre,2017,1,0
+Acre,1998,2,0
+Acre,1999,2,0
+Acre,2000,2,0
+Acre,2001,2,0
+Acre,2002,2,1
+Acre,2003,2,0
+Acre,2004,2,3
+Acre,2005,2,0
+Acre,2006,2,0
+Acre,2007,2,5
+Acre,2008,2,0
+Acre,2009,2,2
+Acre,2010,2,0
+Acre,2011,2,0
+Acre,2012,2,0
+Acre,2013,2,0
+Acre,2014,2,0
+Acre,2015,2,2
+Acre,2016,2,5
+Acre,2017,2,1
+Acre,1998,3,0
+Acre,1999,3,0
+Acre,2000,3,11
+Acre,2001,3,0
+Acre,2002,3,0
+Acre,2003,3,0
+Acre,2004,3,0
+Acre,2005,3,3
+Acre,2006,3,0
+Acre,2007,3,2
+Acre,2008,3,0
+Acre,2009,3,1
+Acre,2010,3,0
+Acre,2011,3,0
+Acre,2012,3,1
+Acre,2013,3,2
+Acre,2014,3,1
+Acre,2015,3,2
+Acre,2016,3,0
+Acre,2017,3,0
+Acre,1998,4,0
+Acre,1999,4,0
+Acre,2000,4,1
+Acre,2001,4,0
+Acre,2002,4,0
+Acre,2003,4,1
+Acre,2004,4,2
+Acre,2005,4,1
+Acre,2006,4,0
+Acre,2007,4,0
+Acre,2008,4,0
+Acre,2009,4,0
+Acre,2010,4,3
+Acre,2011,4,2
+Acre,2012,4,1
+Acre,2013,4,19
+Acre,2014,4,7
+Acre,2015,4,3
+Acre,2016,4,0
+Acre,2017,4,1
+Acre,1998,5,0
+Acre,1999,5,0
+Acre,2000,5,1
+Acre,2001,5,0
+Acre,2002,5,0
+Acre,2003,5,6
+Acre,2004,5,7
+Acre,2005,5,2
+Acre,2006,5,8
+Acre,2007,5,1
+Acre,2008,5,0
+Acre,2009,5,3
+Acre,2010,5,9
+Acre,2011,5,3
+Acre,2012,5,3
+Acre,2013,5,4
+Acre,2014,5,1
+Acre,2015,5,2
+Acre,2016,5,21
+Acre,2017,5,10
+Acre,1998,6,3
+Acre,1999,6,0
+Acre,2000,6,1
+Acre,2001,6,1
+Acre,2002,6,0
+Acre,2003,6,0
+Acre,2004,6,5
+Acre,2005,6,27
+Acre,2006,6,1
+Acre,2007,6,4
+Acre,2008,6,0
+Acre,2009,6,0
+Acre,2010,6,1
+Acre,2011,6,10
+Acre,2012,6,7
+Acre,2013,6,8
+Acre,2014,6,17
+Acre,2015,6,40
+Acre,2016,6,87
+Acre,2017,6,45
+Acre,1998,7,37
+Acre,1999,7,1
+Acre,2000,7,1
+Acre,2001,7,3
+Acre,2002,7,39
+Acre,2003,7,168
+Acre,2004,7,42
+Acre,2005,7,368
+Acre,2006,7,33
+Acre,2007,7,29
+Acre,2008,7,41
+Acre,2009,7,31
+Acre,2010,7,126
+Acre,2011,7,93
+Acre,2012,7,71
+Acre,2013,7,54
+Acre,2014,7,60
+Acre,2015,7,109
+Acre,2016,7,533
+Acre,2017,7,457
+Acre,1998,8,130
+Acre,1999,8,63
+Acre,2000,8,136
+Acre,2001,8,396
+Acre,2002,8,728
+Acre,2003,8,1.976
+Acre,2004,8,645
+Acre,2005,8,4.198
+Acre,2006,8,839
+Acre,2007,8,960
+Acre,2008,8,445
+Acre,2009,8,194
+Acre,2010,8,1.682
+Acre,2011,8,425
+Acre,2012,8,739
+Acre,2013,8,679
+Acre,2014,8,1.1
+Acre,2015,8,1.397
+Acre,2016,8,2.188
+Acre,2017,8,1.493
+Acre,1998,9,509
+Acre,1999,9,209
+Acre,2000,9,265
+Acre,2001,9,290
+Acre,2002,9,1.949
+Acre,2003,9,3.942
+Acre,2004,9,1.978
+Acre,2005,9,4.253
+Acre,2006,9,2.37
+Acre,2007,9,2.08
+Acre,2008,9,1.666
+Acre,2009,9,1.265
+Acre,2010,9,2.531
+Acre,2011,9,1.204
+Acre,2012,9,1.996
+Acre,2013,9,2.136
+Acre,2014,9,2.175
+Acre,2015,9,2.928
+Acre,2016,9,3.586
+Acre,2017,9,3.429
+Acre,1998,10,44
+Acre,1999,10,60
+Acre,2000,10,18
+Acre,2001,10,137
+Acre,2002,10,687
+Acre,2003,10,740
+Acre,2004,10,461
+Acre,2005,10,547
+Acre,2006,10,316
+Acre,2007,10,203
+Acre,2008,10,652
+Acre,2009,10,565
+Acre,2010,10,292
+Acre,2011,10,97
+Acre,2012,10,348
+Acre,2013,10,258
+Acre,2014,10,406
+Acre,2015,10,905
+Acre,2016,10,509
+Acre,2017,10,1.508
+Acre,1998,11,0
+Acre,1999,11,0
+Acre,2000,11,0
+Acre,2001,11,1
+Acre,2002,11,86
+Acre,2003,11,15
+Acre,2004,11,10
+Acre,2005,11,14
+Acre,2006,11,18
+Acre,2007,11,7
+Acre,2008,11,4
+Acre,2009,11,33
+Acre,2010,11,39
+Acre,2011,11,74
+Acre,2012,11,13
+Acre,2013,11,79
+Acre,2014,11,56
+Acre,2015,11,115
+Acre,2016,11,46
+Acre,2017,11,98
+Acre,1998,12,7
+Acre,1999,12,0
+Acre,2000,12,0
+Acre,2001,12,0
+Acre,2002,12,1
+Acre,2003,12,1
+Acre,2004,12,7
+Acre,2005,12,2
+Acre,2006,12,0
+Acre,2007,12,0
+Acre,2008,12,0
+Acre,2009,12,1
+Acre,2010,12,0
+Acre,2011,12,4
+Acre,2012,12,1
+Acre,2013,12,3
+Acre,2014,12,6
+Acre,2015,12,8
+Acre,2016,12,6
+Alagoas,1998,1,0
+Alagoas,1999,1,58
+Alagoas,2000,1,11
+Alagoas,2001,1,5
+Alagoas,2002,1,12
+Alagoas,2003,1,150
+Alagoas,2004,1,9
+Alagoas,2005,1,83
+Alagoas,2006,1,29
+Alagoas,2007,1,33
+Alagoas,2008,1,55
+Alagoas,2009,1,104
+Alagoas,2010,1,23
+Alagoas,2011,1,41
+Alagoas,2012,1,36
+Alagoas,2013,1,49
+Alagoas,2014,1,54
+Alagoas,2015,1,81
+Alagoas,2016,1,24
+Alagoas,2017,1,38
+Alagoas,2017,1,38
+Alagoas,1998,2,0
+Alagoas,1999,2,20
+Alagoas,2000,2,16
+Alagoas,2001,2,4
+Alagoas,2002,2,15
+Alagoas,2003,2,33
+Alagoas,2004,2,7
+Alagoas,2005,2,31
+Alagoas,2006,2,14
+Alagoas,2007,2,28
+Alagoas,2008,2,74
+Alagoas,2009,2,32
+Alagoas,2010,2,26
+Alagoas,2011,2,33
+Alagoas,2012,2,41
+Alagoas,2013,2,19
+Alagoas,2014,2,29
+Alagoas,2015,2,46
+Alagoas,2016,2,14
+Alagoas,2017,2,21
+Alagoas,1998,3,0
+Alagoas,1999,3,52
+Alagoas,2000,3,32
+Alagoas,2001,3,0
+Alagoas,2002,3,27
+Alagoas,2003,3,15
+Alagoas,2004,3,16
+Alagoas,2005,3,35
+Alagoas,2006,3,37
+Alagoas,2007,3,7
+Alagoas,2008,3,31
+Alagoas,2009,3,31
+Alagoas,2010,3,70
+Alagoas,2011,3,34
+Alagoas,2012,3,44
+Alagoas,2013,3,31
+Alagoas,2014,3,28
+Alagoas,2015,3,32
+Alagoas,2016,3,9
+Alagoas,2017,3,23
+Alagoas,1998,4,0
+Alagoas,1999,4,4
+Alagoas,2000,4,20
+Alagoas,2001,4,0
+Alagoas,2002,4,6
+Alagoas,2003,4,20
+Alagoas,2004,4,6
+Alagoas,2005,4,1
+Alagoas,2006,4,2
+Alagoas,2007,4,1
+Alagoas,2008,4,18
+Alagoas,2009,4,5
+Alagoas,2010,4,3
+Alagoas,2011,4,17
+Alagoas,2012,4,18
+Alagoas,2013,4,25
+Alagoas,2014,4,16
+Alagoas,2015,4,63
+Alagoas,2016,4,13
+Alagoas,2017,4,7
+Alagoas,1998,5,0
+Alagoas,1999,5,1
+Alagoas,2000,5,1
+Alagoas,2001,5,2
+Alagoas,2002,5,1
+Alagoas,2003,5,1
+Alagoas,2004,5,3
+Alagoas,2005,5,0
+Alagoas,2006,5,0
+Alagoas,2007,5,0
+Alagoas,2008,5,0
+Alagoas,2009,5,0
+Alagoas,2010,5,0
+Alagoas,2011,5,0
+Alagoas,2012,5,21
+Alagoas,2013,5,2
+Alagoas,2014,5,1
+Alagoas,2015,5,18
+Alagoas,2016,5,4
+Alagoas,2017,5,1
+Alagoas,1998,6,0
+Alagoas,1999,6,0
+Alagoas,2000,6,0
+Alagoas,2001,6,2
+Alagoas,2002,6,0
+Alagoas,2003,6,0
+Alagoas,2004,6,0
+Alagoas,2005,6,0
+Alagoas,2006,6,0
+Alagoas,2007,6,0
+Alagoas,2008,6,0
+Alagoas,2009,6,0
+Alagoas,2010,6,0
+Alagoas,2011,6,2
+Alagoas,2012,6,4
+Alagoas,2013,6,1
+Alagoas,2014,6,2
+Alagoas,2015,6,2
+Alagoas,2016,6,5
+Alagoas,2017,6,2
+Alagoas,1998,7,0
+Alagoas,1999,7,0
+Alagoas,2000,7,0
+Alagoas,2001,7,0
+Alagoas,2002,7,5
+Alagoas,2003,7,0
+Alagoas,2004,7,0
+Alagoas,2005,7,0
+Alagoas,2006,7,0
+Alagoas,2007,7,0
+Alagoas,2008,7,0
+Alagoas,2009,7,0
+Alagoas,2010,7,2
+Alagoas,2011,7,0
+Alagoas,2012,7,0
+Alagoas,2013,7,0
+Alagoas,2014,7,1
+Alagoas,2015,7,0
+Alagoas,2016,7,3
+Alagoas,2017,7,0
+Alagoas,1998,8,1
+Alagoas,1999,8,3
+Alagoas,2000,8,4
+Alagoas,2001,8,1
+Alagoas,2002,8,3
+Alagoas,2003,8,2
+Alagoas,2004,8,2
+Alagoas,2005,8,2
+Alagoas,2006,8,1
+Alagoas,2007,8,3
+Alagoas,2008,8,1
+Alagoas,2009,8,0
+Alagoas,2010,8,1
+Alagoas,2011,8,4
+Alagoas,2012,8,0
+Alagoas,2013,8,0
+Alagoas,2014,8,3
+Alagoas,2015,8,3
+Alagoas,2016,8,5
+Alagoas,2017,8,1
+Alagoas,1998,9,14
+Alagoas,1999,9,3
+Alagoas,2000,9,22
+Alagoas,2001,9,5
+Alagoas,2002,9,14
+Alagoas,2003,9,8
+Alagoas,2004,9,5
+Alagoas,2005,9,7
+Alagoas,2006,9,4
+Alagoas,2007,9,2
+Alagoas,2008,9,9
+Alagoas,2009,9,13
+Alagoas,2010,9,5
+Alagoas,2011,9,5
+Alagoas,2012,9,6
+Alagoas,2013,9,4
+Alagoas,2014,9,11
+Alagoas,2015,9,7
+Alagoas,2016,9,18
+Alagoas,2017,9,4
+Alagoas,1998,10,20
+Alagoas,1999,10,4
+Alagoas,2000,10,13
+Alagoas,2001,10,15
+Alagoas,2002,10,30
+Alagoas,2003,10,10
+Alagoas,2004,10,12
+Alagoas,2005,10,17
+Alagoas,2006,10,32
+Alagoas,2007,10,6
+Alagoas,2008,10,18
+Alagoas,2009,10,30
+Alagoas,2010,10,16
+Alagoas,2011,10,23
+Alagoas,2012,10,28
+Alagoas,2013,10,25
+Alagoas,2014,10,7
+Alagoas,2015,10,40
+Alagoas,2016,10,74
+Alagoas,2017,10,14
+Alagoas,1998,11,19
+Alagoas,1999,11,15
+Alagoas,2000,11,2
+Alagoas,2001,11,22
+Alagoas,2002,11,50
+Alagoas,2003,11,17
+Alagoas,2004,11,28
+Alagoas,2005,11,25
+Alagoas,2006,11,12
+Alagoas,2007,11,15
+Alagoas,2008,11,37
+Alagoas,2009,11,55
+Alagoas,2010,11,31
+Alagoas,2011,11,23
+Alagoas,2012,11,95
+Alagoas,2013,11,10
+Alagoas,2014,11,14
+Alagoas,2015,11,162
+Alagoas,2016,11,76
+Alagoas,2017,11,10
+Alagoas,1998,12,32
+Alagoas,1999,12,12
+Alagoas,2000,12,2
+Alagoas,2001,12,30
+Alagoas,2002,12,95
+Alagoas,2003,12,43
+Alagoas,2004,12,71
+Alagoas,2005,12,16
+Alagoas,2006,12,30
+Alagoas,2007,12,33
+Alagoas,2008,12,34
+Alagoas,2009,12,55
+Alagoas,2010,12,45
+Alagoas,2011,12,50
+Alagoas,2012,12,59
+Alagoas,2013,12,42
+Alagoas,2014,12,24
+Alagoas,2015,12,136
+Alagoas,2016,12,155
+Amapa,1998,1,0
+Amapa,1999,1,0
+Amapa,2000,1,2
+Amapa,2001,1,0
+Amapa,2002,1,7
+Amapa,2003,1,31
+Amapa,2004,1,38
+Amapa,2005,1,109
+Amapa,2006,1,6
+Amapa,2007,1,0
+Amapa,2008,1,2
+Amapa,2009,1,4
+Amapa,2010,1,2
+Amapa,2011,1,0
+Amapa,2012,1,30
+Amapa,2013,1,3
+Amapa,2014,1,10
+Amapa,2015,1,14
+Amapa,2016,1,19
+Amapa,2017,1,2
+Amapa,1998,2,0
+Amapa,1999,2,1
+Amapa,2000,2,0
+Amapa,2001,2,0
+Amapa,2002,2,2
+Amapa,2003,2,0
+Amapa,2004,2,2
+Amapa,2005,2,1
+Amapa,2006,2,2
+Amapa,2007,2,0
+Amapa,2008,2,0
+Amapa,2009,2,0
+Amapa,2010,2,0
+Amapa,2011,2,3
+Amapa,2012,2,5
+Amapa,2013,2,0
+Amapa,2014,2,2
+Amapa,2015,2,1
+Amapa,2016,2,1
+Amapa,2017,2,0
+Amapa,1998,3,0
+Amapa,1999,3,2
+Amapa,2000,3,0
+Amapa,2001,3,0
+Amapa,2002,3,0
+Amapa,2003,3,1
+Amapa,2004,3,0
+Amapa,2005,3,0
+Amapa,2006,3,0
+Amapa,2007,3,0
+Amapa,2008,3,1
+Amapa,2009,3,1
+Amapa,2010,3,2
+Amapa,2011,3,0
+Amapa,2012,3,1
+Amapa,2013,3,0
+Amapa,2014,3,1
+Amapa,2015,3,2
+Amapa,2016,3,5
+Amapa,2017,3,0
+Amapa,1998,4,0
+Amapa,1999,4,0
+Amapa,2000,4,0
+Amapa,2001,4,0
+Amapa,2002,4,0
+Amapa,2003,4,2
+Amapa,2004,4,0
+Amapa,2005,4,0
+Amapa,2006,4,0
+Amapa,2007,4,0
+Amapa,2008,4,2
+Amapa,2009,4,0
+Amapa,2010,4,2
+Amapa,2011,4,0
+Amapa,2012,4,2
+Amapa,2013,4,2
+Amapa,2014,4,0
+Amapa,2015,4,0
+Amapa,2016,4,0
+Amapa,2017,4,3
+Amapa,1998,5,0
+Amapa,1999,5,0
+Amapa,2000,5,0
+Amapa,2001,5,0
+Amapa,2002,5,3
+Amapa,2003,5,0
+Amapa,2004,5,0
+Amapa,2005,5,0
+Amapa,2006,5,0
+Amapa,2007,5,0
+Amapa,2008,5,0
+Amapa,2009,5,2
+Amapa,2010,5,2
+Amapa,2011,5,2
+Amapa,2012,5,2
+Amapa,2013,5,0
+Amapa,2014,5,0
+Amapa,2015,5,0
+Amapa,2016,5,1
+Amapa,2017,5,1
+Amapa,1998,6,0
+Amapa,1999,6,2
+Amapa,2000,6,0
+Amapa,2001,6,0
+Amapa,2002,6,0
+Amapa,2003,6,0
+Amapa,2004,6,5
+Amapa,2005,6,2
+Amapa,2006,6,0
+Amapa,2007,6,0
+Amapa,2008,6,0
+Amapa,2009,6,1
+Amapa,2010,6,0
+Amapa,2011,6,0
+Amapa,2012,6,7
+Amapa,2013,6,1
+Amapa,2014,6,0
+Amapa,2015,6,3
+Amapa,2016,6,2
+Amapa,2017,6,2
+Amapa,1998,7,0
+Amapa,1999,7,0
+Amapa,2000,7,0
+Amapa,2001,7,1
+Amapa,2002,7,1
+Amapa,2003,7,0
+Amapa,2004,7,2
+Amapa,2005,7,0
+Amapa,2006,7,0
+Amapa,2007,7,0
+Amapa,2008,7,0
+Amapa,2009,7,4
+Amapa,2010,7,2
+Amapa,2011,7,5
+Amapa,2012,7,3
+Amapa,2013,7,1
+Amapa,2014,7,4
+Amapa,2015,7,5
+Amapa,2016,7,1
+Amapa,2017,7,3
+Amapa,1998,8,1
+Amapa,1999,8,0
+Amapa,2000,8,3
+Amapa,2001,8,12
+Amapa,2002,8,18
+Amapa,2003,8,14
+Amapa,2004,8,9
+Amapa,2005,8,4
+Amapa,2006,8,11
+Amapa,2007,8,5
+Amapa,2008,8,4
+Amapa,2009,8,20
+Amapa,2010,8,1
+Amapa,2011,8,16
+Amapa,2012,8,19
+Amapa,2013,8,9
+Amapa,2014,8,18
+Amapa,2015,8,40
+Amapa,2016,8,37
+Amapa,2017,8,33
+Amapa,1998,9,20
+Amapa,1999,9,4
+Amapa,2000,9,19
+Amapa,2001,9,95
+Amapa,2002,9,73
+Amapa,2003,9,88
+Amapa,2004,9,67
+Amapa,2005,9,97
+Amapa,2006,9,112
+Amapa,2007,9,61
+Amapa,2008,9,83
+Amapa,2009,9,188
+Amapa,2010,9,63
+Amapa,2011,9,128
+Amapa,2012,9,168
+Amapa,2013,9,85
+Amapa,2014,9,137
+Amapa,2015,9,192
+Amapa,2016,9,142
+Amapa,2017,9,95
+Amapa,1998,10,42
+Amapa,1999,10,25
+Amapa,2000,10,42
+Amapa,2001,10,194
+Amapa,2002,10,557
+Amapa,2003,10,355
+Amapa,2004,10,412
+Amapa,2005,10,335
+Amapa,2006,10,405
+Amapa,2007,10,162
+Amapa,2008,10,395
+Amapa,2009,10,765
+Amapa,2010,10,265
+Amapa,2011,10,304
+Amapa,2012,10,475
+Amapa,2013,10,385
+Amapa,2014,10,480
+Amapa,2015,10,827
+Amapa,2016,10,793
+Amapa,2017,10,468
+Amapa,1998,11,131
+Amapa,1999,11,26
+Amapa,2000,11,157
+Amapa,2001,11,406
+Amapa,2002,11,1.096
+Amapa,2003,11,750
+Amapa,2004,11,949
+Amapa,2005,11,685
+Amapa,2006,11,207
+Amapa,2007,11,198
+Amapa,2008,11,266
+Amapa,2009,11,1.019
+Amapa,2010,11,339
+Amapa,2011,11,282
+Amapa,2012,11,969
+Amapa,2013,11,341
+Amapa,2014,11,484
+Amapa,2015,11,1.3
+Amapa,2016,11,1.161
+Amapa,2017,11,858
+Amapa,1998,12,84
+Amapa,1999,12,41
+Amapa,2000,12,30
+Amapa,2001,12,593
+Amapa,2002,12,200
+Amapa,2003,12,411
+Amapa,2004,12,777
+Amapa,2005,12,38
+Amapa,2006,12,74
+Amapa,2007,12,14
+Amapa,2008,12,32
+Amapa,2009,12,123
+Amapa,2010,12,43
+Amapa,2011,12,360
+Amapa,2012,12,422
+Amapa,2013,12,148
+Amapa,2014,12,354
+Amapa,2015,12,269
+Amapa,2016,12,491
+Amazonas,1998,1,0
+Amazonas,1999,1,3
+Amazonas,2000,1,7
+Amazonas,2001,1,3
+Amazonas,2002,1,17
+Amazonas,2003,1,158
+Amazonas,2004,1,123
+Amazonas,2005,1,44
+Amazonas,2006,1,20
+Amazonas,2007,1,37
+Amazonas,2008,1,16
+Amazonas,2009,1,9
+Amazonas,2010,1,82
+Amazonas,2011,1,53
+Amazonas,2012,1,6
+Amazonas,2013,1,37
+Amazonas,2014,1,46
+Amazonas,2015,1,35
+Amazonas,2016,1,770
+Amazonas,2017,1,65
+Amazonas,1998,2,0
+Amazonas,1999,2,43
+Amazonas,2000,2,62
+Amazonas,2001,2,8
+Amazonas,2002,2,2
+Amazonas,2003,2,62
+Amazonas,2004,2,92
+Amazonas,2005,2,6
+Amazonas,2006,2,10
+Amazonas,2007,2,92
+Amazonas,2008,2,32
+Amazonas,2009,2,3
+Amazonas,2010,2,81
+Amazonas,2011,2,30
+Amazonas,2012,2,25
+Amazonas,2013,2,16
+Amazonas,2014,2,49
+Amazonas,2015,2,107
+Amazonas,2016,2,275
+Amazonas,2017,2,52
+Amazonas,1998,3,0
+Amazonas,1999,3,7
+Amazonas,2000,3,69
+Amazonas,2001,3,6
+Amazonas,2002,3,5
+Amazonas,2003,3,64
+Amazonas,2004,3,6
+Amazonas,2005,3,12
+Amazonas,2006,3,20
+Amazonas,2007,3,6
+Amazonas,2008,3,10
+Amazonas,2009,3,11
+Amazonas,2010,3,116
+Amazonas,2011,3,49
+Amazonas,2012,3,17
+Amazonas,2013,3,49
+Amazonas,2014,3,50
+Amazonas,2015,3,46
+Amazonas,2016,3,140
+Amazonas,2017,3,45
+Amazonas,1998,4,0
+Amazonas,1999,4,2
+Amazonas,2000,4,18
+Amazonas,2001,4,1
+Amazonas,2002,4,2
+Amazonas,2003,4,11
+Amazonas,2004,4,4
+Amazonas,2005,4,5
+Amazonas,2006,4,5
+Amazonas,2007,4,0
+Amazonas,2008,4,13
+Amazonas,2009,4,1
+Amazonas,2010,4,11
+Amazonas,2011,4,5
+Amazonas,2012,4,3
+Amazonas,2013,4,20
+Amazonas,2014,4,25
+Amazonas,2015,4,24
+Amazonas,2016,4,22
+Amazonas,2017,4,20
+Amazonas,1998,5,0
+Amazonas,1999,5,0
+Amazonas,2000,5,51
+Amazonas,2001,5,0
+Amazonas,2002,5,8
+Amazonas,2003,5,2
+Amazonas,2004,5,0
+Amazonas,2005,5,8
+Amazonas,2006,5,4
+Amazonas,2007,5,0
+Amazonas,2008,5,1
+Amazonas,2009,5,3
+Amazonas,2010,5,13
+Amazonas,2011,5,6
+Amazonas,2012,5,12
+Amazonas,2013,5,19
+Amazonas,2014,5,12
+Amazonas,2015,5,10
+Amazonas,2016,5,30
+Amazonas,2017,5,40
+Amazonas,1998,6,2
+Amazonas,1999,6,7
+Amazonas,2000,6,6
+Amazonas,2001,6,5
+Amazonas,2002,6,5
+Amazonas,2003,6,3
+Amazonas,2004,6,12
+Amazonas,2005,6,78
+Amazonas,2006,6,9
+Amazonas,2007,6,23
+Amazonas,2008,6,7
+Amazonas,2009,6,13
+Amazonas,2010,6,9
+Amazonas,2011,6,22
+Amazonas,2012,6,45
+Amazonas,2013,6,56
+Amazonas,2014,6,74
+Amazonas,2015,6,33
+Amazonas,2016,6,90
+Amazonas,2017,6,119
+Amazonas,1998,7,71
+Amazonas,1999,7,11
+Amazonas,2000,7,39
+Amazonas,2001,7,9
+Amazonas,2002,7,146
+Amazonas,2003,7,180
+Amazonas,2004,7,177
+Amazonas,2005,7,676
+Amazonas,2006,7,123
+Amazonas,2007,7,116
+Amazonas,2008,7,108
+Amazonas,2009,7,199
+Amazonas,2010,7,640
+Amazonas,2011,7,271
+Amazonas,2012,7,234
+Amazonas,2013,7,248
+Amazonas,2014,7,202
+Amazonas,2015,7,356
+Amazonas,2016,7,1.137
+Amazonas,2017,7,1.975
+Amazonas,1998,8,321
+Amazonas,1999,8,259
+Amazonas,2000,8,180
+Amazonas,2001,8,501
+Amazonas,2002,8,741
+Amazonas,2003,8,1.867
+Amazonas,2004,8,1.207
+Amazonas,2005,8,2.316
+Amazonas,2006,8,1.422
+Amazonas,2007,8,2.241
+Amazonas,2008,8,861
+Amazonas,2009,8,1.321
+Amazonas,2010,8,3.727
+Amazonas,2011,8,1.243
+Amazonas,2012,8,3.011
+Amazonas,2013,8,1.276
+Amazonas,2014,8,3.852
+Amazonas,2015,8,4.564
+Amazonas,2016,8,3.611
+Amazonas,2017,8,6.316
+Amazonas,1998,9,267
+Amazonas,1999,9,216
+Amazonas,2000,9,189
+Amazonas,2001,9,166
+Amazonas,2002,9,928
+Amazonas,2003,9,1.401
+Amazonas,2004,9,911
+Amazonas,2005,9,2.812
+Amazonas,2006,9,2.218
+Amazonas,2007,9,1.36
+Amazonas,2008,9,998
+Amazonas,2009,9,3.091
+Amazonas,2010,9,2.781
+Amazonas,2011,9,1.295
+Amazonas,2012,9,2.392
+Amazonas,2013,9,1.739
+Amazonas,2014,9,3.057
+Amazonas,2015,9,5.882
+Amazonas,2016,9,3.119
+Amazonas,2017,9,4.033
+Amazonas,1998,10,83
+Amazonas,1999,10,479
+Amazonas,2000,10,145
+Amazonas,2001,10,332
+Amazonas,2002,10,695
+Amazonas,2003,10,725
+Amazonas,2004,10,710
+Amazonas,2005,10,545
+Amazonas,2006,10,721
+Amazonas,2007,10,215
+Amazonas,2008,10,632
+Amazonas,2009,10,2.189
+Amazonas,2010,10,889
+Amazonas,2011,10,694
+Amazonas,2012,10,1.238
+Amazonas,2013,10,1.202
+Amazonas,2014,10,952
+Amazonas,2015,10,2.494
+Amazonas,2016,10,2.105
+Amazonas,2017,10,1.581
+Amazonas,1998,11,6
+Amazonas,1999,11,32
+Amazonas,2000,11,27
+Amazonas,2001,11,244
+Amazonas,2002,11,259
+Amazonas,2003,11,169
+Amazonas,2004,11,209
+Amazonas,2005,11,261
+Amazonas,2006,11,59
+Amazonas,2007,11,90
+Amazonas,2008,11,39
+Amazonas,2009,11,973
+Amazonas,2010,11,354
+Amazonas,2011,11,399
+Amazonas,2012,11,682
+Amazonas,2013,11,220
+Amazonas,2014,11,676
+Amazonas,2015,11,1.054
+Amazonas,2016,11,591
+Amazonas,2017,11,552
+Amazonas,1998,12,196
+Amazonas,1999,12,2
+Amazonas,2000,12,60
+Amazonas,2001,12,22
+Amazonas,2002,12,44
+Amazonas,2003,12,147
+Amazonas,2004,12,53
+Amazonas,2005,12,17
+Amazonas,2006,12,23
+Amazonas,2007,12,7
+Amazonas,2008,12,0
+Amazonas,2009,12,102
+Amazonas,2010,12,123
+Amazonas,2011,12,121
+Amazonas,2012,12,80
+Amazonas,2013,12,236
+Amazonas,2014,12,293
+Amazonas,2015,12,565
+Amazonas,2016,12,133
+Bahia,1998,1,0
+Bahia,1999,1,114
+Bahia,2000,1,31
+Bahia,2001,1,24
+Bahia,2002,1,125
+Bahia,2003,1,439
+Bahia,2004,1,158
+Bahia,2005,1,303
+Bahia,2006,1,225
+Bahia,2007,1,373
+Bahia,2008,1,314
+Bahia,2009,1,177
+Bahia,2010,1,297
+Bahia,2011,1,101
+Bahia,2012,1,179
+Bahia,2013,1,125
+Bahia,2014,1,132
+Bahia,2015,1,256
+Bahia,2016,1,285
+Bahia,2017,1,154
+Bahia,1998,2,0
+Bahia,1999,2,157
+Bahia,2000,2,32
+Bahia,2001,2,101
+Bahia,2002,2,204
+Bahia,2003,2,223
+Bahia,2004,2,122
+Bahia,2005,2,143
+Bahia,2006,2,277
+Bahia,2007,2,113
+Bahia,2008,2,235
+Bahia,2009,2,117
+Bahia,2010,2,206
+Bahia,2011,2,156
+Bahia,2012,2,200
+Bahia,2013,2,231
+Bahia,2014,2,107
+Bahia,2015,2,143
+Bahia,2016,2,418
+Bahia,2017,2,100
+Bahia,1998,3,0
+Bahia,1999,3,83
+Bahia,2000,3,65
+Bahia,2001,3,4
+Bahia,2002,3,146
+Bahia,2003,3,274
+Bahia,2004,3,115
+Bahia,2005,3,158
+Bahia,2006,3,199
+Bahia,2007,3,141
+Bahia,2008,3,135
+Bahia,2009,3,249
+Bahia,2010,3,156
+Bahia,2011,3,90
+Bahia,2012,3,404
+Bahia,2013,3,363
+Bahia,2014,3,148
+Bahia,2015,3,229
+Bahia,2016,3,281
+Bahia,2017,3,163
+Bahia,1998,4,0
+Bahia,1999,4,55
+Bahia,2000,4,23
+Bahia,2001,4,26
+Bahia,2002,4,110
+Bahia,2003,4,376
+Bahia,2004,4,89
+Bahia,2005,4,76
+Bahia,2006,4,60
+Bahia,2007,4,64
+Bahia,2008,4,151
+Bahia,2009,4,40
+Bahia,2010,4,103
+Bahia,2011,4,149
+Bahia,2012,4,396
+Bahia,2013,4,108
+Bahia,2014,4,183
+Bahia,2015,4,190
+Bahia,2016,4,217
+Bahia,2017,4,94
+Bahia,1998,5,0
+Bahia,1999,5,76
+Bahia,2000,5,71
+Bahia,2001,5,85
+Bahia,2002,5,166
+Bahia,2003,5,106
+Bahia,2004,5,124
+Bahia,2005,5,120
+Bahia,2006,5,43
+Bahia,2007,5,161
+Bahia,2008,5,56
+Bahia,2009,5,34
+Bahia,2010,5,198
+Bahia,2011,5,189
+Bahia,2012,5,326
+Bahia,2013,5,141
+Bahia,2014,5,224
+Bahia,2015,5,144
+Bahia,2016,5,259
+Bahia,2017,5,121
+Bahia,1998,6,55
+Bahia,1999,6,64
+Bahia,2000,6,178
+Bahia,2001,6,98
+Bahia,2002,6,118
+Bahia,2003,6,140
+Bahia,2004,6,289
+Bahia,2005,6,211
+Bahia,2006,6,68
+Bahia,2007,6,270
+Bahia,2008,6,72
+Bahia,2009,6,92
+Bahia,2010,6,192
+Bahia,2011,6,345
+Bahia,2012,6,385
+Bahia,2013,6,208
+Bahia,2014,6,243
+Bahia,2015,6,242
+Bahia,2016,6,416
+Bahia,2017,6,329
+Bahia,1998,7,219
+Bahia,1999,7,107
+Bahia,2000,7,202
+Bahia,2001,7,248
+Bahia,2002,7,549
+Bahia,2003,7,261
+Bahia,2004,7,310
+Bahia,2005,7,269
+Bahia,2006,7,229
+Bahia,2007,7,811
+Bahia,2008,7,271
+Bahia,2009,7,321
+Bahia,2010,7,519
+Bahia,2011,7,578
+Bahia,2012,7,906
+Bahia,2013,7,362
+Bahia,2014,7,249
+Bahia,2015,7,306
+Bahia,2016,7,345
+Bahia,2017,7,300
+Bahia,1998,8,815
+Bahia,1999,8,453
+Bahia,2000,8,633
+Bahia,2001,8,979
+Bahia,2002,8,1.827
+Bahia,2003,8,1.039
+Bahia,2004,8,1.43
+Bahia,2005,8,948
+Bahia,2006,8,995
+Bahia,2007,8,3.734
+Bahia,2008,8,611
+Bahia,2009,8,439
+Bahia,2010,8,2.423
+Bahia,2011,8,1.795
+Bahia,2012,8,1.835
+Bahia,2013,8,610
+Bahia,2014,8,674
+Bahia,2015,8,829
+Bahia,2016,8,724
+Bahia,2017,8,1.018
+Bahia,1998,9,2.718
+Bahia,1999,9,1.275
+Bahia,2000,9,2.285
+Bahia,2001,9,3.964
+Bahia,2002,9,6.439
+Bahia,2003,9,8.847
+Bahia,2004,9,6.433
+Bahia,2005,9,4.066
+Bahia,2006,9,3.006
+Bahia,2007,9,7.438
+Bahia,2008,9,4.837
+Bahia,2009,9,3.61
+Bahia,2010,9,5.323
+Bahia,2011,9,7.086
+Bahia,2012,9,7.495
+Bahia,2013,9,2.681
+Bahia,2014,9,2.604
+Bahia,2015,9,7.956
+Bahia,2016,9,1.819
+Bahia,2017,9,1.791
+Bahia,1998,10,1.969
+Bahia,1999,10,1.307
+Bahia,2000,10,3.35
+Bahia,2001,10,1.687
+Bahia,2002,10,5.414
+Bahia,2003,10,4.264
+Bahia,2004,10,4.81
+Bahia,2005,10,8.405
+Bahia,2006,10,2.079
+Bahia,2007,10,4.981
+Bahia,2008,10,7.691
+Bahia,2009,10,2.552
+Bahia,2010,10,5.264
+Bahia,2011,10,2.166
+Bahia,2012,10,4.607
+Bahia,2013,10,1.969
+Bahia,2014,10,2.763
+Bahia,2015,10,4.989
+Bahia,2016,10,1.415
+Bahia,2017,10,4.005
+Bahia,1998,11,49
+Bahia,1999,11,49
+Bahia,2000,11,114
+Bahia,2001,11,699
+Bahia,2002,11,1.02
+Bahia,2003,11,533
+Bahia,2004,11,1.736
+Bahia,2005,11,1.595
+Bahia,2006,11,239
+Bahia,2007,11,2.126
+Bahia,2008,11,3.175
+Bahia,2009,11,402
+Bahia,2010,11,605
+Bahia,2011,11,176
+Bahia,2012,11,168
+Bahia,2013,11,288
+Bahia,2014,11,348
+Bahia,2015,11,1.705
+Bahia,2016,11,408
+Bahia,2017,11,174
+Bahia,1998,12,82
+Bahia,1999,12,37
+Bahia,2000,12,24
+Bahia,2001,12,158
+Bahia,2002,12,848
+Bahia,2003,12,710
+Bahia,2004,12,423
+Bahia,2005,12,116
+Bahia,2006,12,169
+Bahia,2007,12,259
+Bahia,2008,12,52
+Bahia,2009,12,308
+Bahia,2010,12,226
+Bahia,2011,12,230
+Bahia,2012,12,477
+Bahia,2013,12,131
+Bahia,2014,12,144
+Bahia,2015,12,1.408
+Bahia,2016,12,164
+Ceara,1998,1,0
+Ceara,1999,1,47
+Ceara,2000,1,1
+Ceara,2001,1,11
+Ceara,2002,1,33
+Ceara,2003,1,264
+Ceara,2004,1,143
+Ceara,2005,1,384
+Ceara,2006,1,211
+Ceara,2007,1,304
+Ceara,2008,1,166
+Ceara,2009,1,347
+Ceara,2010,1,288
+Ceara,2011,1,32
+Ceara,2012,1,273
+Ceara,2013,1,103
+Ceara,2014,1,115
+Ceara,2015,1,207
+Ceara,2016,1,100
+Ceara,2017,1,91
+Ceara,1998,2,0
+Ceara,1999,2,16
+Ceara,2000,2,6
+Ceara,2001,2,0
+Ceara,2002,2,75
+Ceara,2003,2,9
+Ceara,2004,2,5
+Ceara,2005,2,25
+Ceara,2006,2,23
+Ceara,2007,2,3
+Ceara,2008,2,12
+Ceara,2009,2,8
+Ceara,2010,2,63
+Ceara,2011,2,2
+Ceara,2012,2,41
+Ceara,2013,2,49
+Ceara,2014,2,18
+Ceara,2015,2,25
+Ceara,2016,2,13
+Ceara,2017,2,9
+Ceara,1998,3,0
+Ceara,1999,3,30
+Ceara,2000,3,9
+Ceara,2001,3,0
+Ceara,2002,3,17
+Ceara,2003,3,3
+Ceara,2004,3,1
+Ceara,2005,3,5
+Ceara,2006,3,3
+Ceara,2007,3,2
+Ceara,2008,3,2
+Ceara,2009,3,3
+Ceara,2010,3,40
+Ceara,2011,3,6
+Ceara,2012,3,10
+Ceara,2013,3,17
+Ceara,2014,3,6
+Ceara,2015,3,20
+Ceara,2016,3,4
+Ceara,2017,3,4
+Ceara,1998,4,0
+Ceara,1999,4,6
+Ceara,2000,4,15
+Ceara,2001,4,2
+Ceara,2002,4,5
+Ceara,2003,4,3
+Ceara,2004,4,2
+Ceara,2005,4,4
+Ceara,2006,4,1
+Ceara,2007,4,1
+Ceara,2008,4,0
+Ceara,2009,4,0
+Ceara,2010,4,7
+Ceara,2011,4,1
+Ceara,2012,4,2
+Ceara,2013,4,4
+Ceara,2014,4,4
+Ceara,2015,4,3
+Ceara,2016,4,10
+Ceara,2017,4,6
+Ceara,1998,5,0
+Ceara,1999,5,5
+Ceara,2000,5,7
+Ceara,2001,5,81
+Ceara,2002,5,10
+Ceara,2003,5,0
+Ceara,2004,5,3
+Ceara,2005,5,1
+Ceara,2006,5,0
+Ceara,2007,5,0
+Ceara,2008,5,0
+Ceara,2009,5,0
+Ceara,2010,5,2
+Ceara,2011,5,0
+Ceara,2012,5,19
+Ceara,2013,5,4
+Ceara,2014,5,4
+Ceara,2015,5,17
+Ceara,2016,5,8
+Ceara,2017,5,9
+Ceara,1998,6,1
+Ceara,1999,6,16
+Ceara,2000,6,16
+Ceara,2001,6,38
+Ceara,2002,6,13
+Ceara,2003,6,2
+Ceara,2004,6,1
+Ceara,2005,6,6
+Ceara,2006,6,0
+Ceara,2007,6,1
+Ceara,2008,6,1
+Ceara,2009,6,0
+Ceara,2010,6,3
+Ceara,2011,6,5
+Ceara,2012,6,28
+Ceara,2013,6,5
+Ceara,2014,6,19
+Ceara,2015,6,22
+Ceara,2016,6,45
+Ceara,2017,6,23
+Ceara,1998,7,76
+Ceara,1999,7,83
+Ceara,2000,7,18
+Ceara,2001,7,146
+Ceara,2002,7,12
+Ceara,2003,7,14
+Ceara,2004,7,16
+Ceara,2005,7,14
+Ceara,2006,7,1
+Ceara,2007,7,11
+Ceara,2008,7,3
+Ceara,2009,7,7
+Ceara,2010,7,44
+Ceara,2011,7,18
+Ceara,2012,7,50
+Ceara,2013,7,4
+Ceara,2014,7,47
+Ceara,2015,7,25
+Ceara,2016,7,124
+Ceara,2017,7,26
+Ceara,1998,8,93
+Ceara,1999,8,131
+Ceara,2000,8,79
+Ceara,2001,8,219
+Ceara,2002,8,111
+Ceara,2003,8,109
+Ceara,2004,8,61
+Ceara,2005,8,51
+Ceara,2006,8,50
+Ceara,2007,8,182
+Ceara,2008,8,32
+Ceara,2009,8,26
+Ceara,2010,8,202
+Ceara,2011,8,53
+Ceara,2012,8,278
+Ceara,2013,8,32
+Ceara,2014,8,155
+Ceara,2015,8,127
+Ceara,2016,8,293
+Ceara,2017,8,121
+Ceara,1998,9,590
+Ceara,1999,9,124
+Ceara,2000,9,127
+Ceara,2001,9,801
+Ceara,2002,9,172
+Ceara,2003,9,384
+Ceara,2004,9,144
+Ceara,2005,9,185
+Ceara,2006,9,237
+Ceara,2007,9,241
+Ceara,2008,9,177
+Ceara,2009,9,101
+Ceara,2010,9,357
+Ceara,2011,9,239
+Ceara,2012,9,609
+Ceara,2013,9,177
+Ceara,2014,9,155
+Ceara,2015,9,214
+Ceara,2016,9,370
+Ceara,2017,9,505
+Ceara,1998,10,1.014
+Ceara,1999,10,309
+Ceara,2000,10,875
+Ceara,2001,10,2.045
+Ceara,2002,10,1.606
+Ceara,2003,10,1.761
+Ceara,2004,10,1.217
+Ceara,2005,10,1.378
+Ceara,2006,10,581
+Ceara,2007,10,964
+Ceara,2008,10,816
+Ceara,2009,10,435
+Ceara,2010,10,502
+Ceara,2011,10,415
+Ceara,2012,10,1.104
+Ceara,2013,10,466
+Ceara,2014,10,517
+Ceara,2015,10,658
+Ceara,2016,10,1.31
+Ceara,2017,10,949
+Ceara,1998,11,575
+Ceara,1999,11,524
+Ceara,2000,11,669
+Ceara,2001,11,2.456
+Ceara,2002,11,2.715
+Ceara,2003,11,3.327
+Ceara,2004,11,2.9
+Ceara,2005,11,2.483
+Ceara,2006,11,1.012
+Ceara,2007,11,1.443
+Ceara,2008,11,1.753
+Ceara,2009,11,1.653
+Ceara,2010,11,1.652
+Ceara,2011,11,1.561
+Ceara,2012,11,995
+Ceara,2013,11,1.081
+Ceara,2014,11,829
+Ceara,2015,11,1.081
+Ceara,2016,11,1.328
+Ceara,2017,11,812
+Ceara,1998,12,276
+Ceara,1999,12,397
+Ceara,2000,12,389
+Ceara,2001,12,545
+Ceara,2002,12,1.787
+Ceara,2003,12,2.436
+Ceara,2004,12,3.158
+Ceara,2005,12,1.36
+Ceara,2006,12,1.161
+Ceara,2007,12,1.177
+Ceara,2008,12,1.655
+Ceara,2009,12,1.987
+Ceara,2010,12,578
+Ceara,2011,12,1.441
+Ceara,2012,12,631
+Ceara,2013,12,956
+Ceara,2014,12,643
+Ceara,2015,12,1.021
+Ceara,2016,12,819
+Distrito Federal,1998,1,0
+Distrito Federal,1999,1,0
+Distrito Federal,2000,1,0
+Distrito Federal,2001,1,0
+Distrito Federal,2002,1,0
+Distrito Federal,2003,1,0
+Distrito Federal,2004,1,0
+Distrito Federal,2005,1,0
+Distrito Federal,2006,1,0
+Distrito Federal,2007,1,0
+Distrito Federal,2008,1,0
+Distrito Federal,2009,1,1
+Distrito Federal,2010,1,2
+Distrito Federal,2011,1,2
+Distrito Federal,2012,1,0
+Distrito Federal,2013,1,0
+Distrito Federal,2014,1,0
+Distrito Federal,2015,1,1
+Distrito Federal,2016,1,1
+Distrito Federal,2017,1,1
+Distrito Federal,1998,2,0
+Distrito Federal,1999,2,2
+Distrito Federal,2000,2,0
+Distrito Federal,2001,2,1
+Distrito Federal,2002,2,0
+Distrito Federal,2003,2,1
+Distrito Federal,2004,2,0
+Distrito Federal,2005,2,0
+Distrito Federal,2006,2,0
+Distrito Federal,2007,2,0
+Distrito Federal,2008,2,0
+Distrito Federal,2009,2,0
+Distrito Federal,2010,2,4
+Distrito Federal,2011,2,1
+Distrito Federal,2012,2,0
+Distrito Federal,2013,2,1
+Distrito Federal,2014,2,1
+Distrito Federal,2015,2,0
+Distrito Federal,2016,2,2
+Distrito Federal,2017,2,0
+Distrito Federal,1998,3,0
+Distrito Federal,1999,3,0
+Distrito Federal,2000,3,0
+Distrito Federal,2001,3,0
+Distrito Federal,2002,3,0
+Distrito Federal,2003,3,0
+Distrito Federal,2004,3,0
+Distrito Federal,2005,3,0
+Distrito Federal,2006,3,0
+Distrito Federal,2007,3,1
+Distrito Federal,2008,3,2
+Distrito Federal,2009,3,0
+Distrito Federal,2010,3,0
+Distrito Federal,2011,3,0
+Distrito Federal,2012,3,0
+Distrito Federal,2013,3,1
+Distrito Federal,2014,3,1
+Distrito Federal,2015,3,0
+Distrito Federal,2016,3,1
+Distrito Federal,2017,3,0
+Distrito Federal,1998,4,0
+Distrito Federal,1999,4,0
+Distrito Federal,2000,4,0
+Distrito Federal,2001,4,0
+Distrito Federal,2002,4,1
+Distrito Federal,2003,4,0
+Distrito Federal,2004,4,1
+Distrito Federal,2005,4,0
+Distrito Federal,2006,4,0
+Distrito Federal,2007,4,0
+Distrito Federal,2008,4,1
+Distrito Federal,2009,4,0
+Distrito Federal,2010,4,8
+Distrito Federal,2011,4,1
+Distrito Federal,2012,4,4
+Distrito Federal,2013,4,1
+Distrito Federal,2014,4,2
+Distrito Federal,2015,4,0
+Distrito Federal,2016,4,5
+Distrito Federal,2017,4,1
+Distrito Federal,1998,5,0
+Distrito Federal,1999,5,0
+Distrito Federal,2000,5,2
+Distrito Federal,2001,5,0
+Distrito Federal,2002,5,1
+Distrito Federal,2003,5,0
+Distrito Federal,2004,5,9
+Distrito Federal,2005,5,2
+Distrito Federal,2006,5,3
+Distrito Federal,2007,5,4
+Distrito Federal,2008,5,6
+Distrito Federal,2009,5,9
+Distrito Federal,2010,5,23
+Distrito Federal,2011,5,3
+Distrito Federal,2012,5,0
+Distrito Federal,2013,5,2
+Distrito Federal,2014,5,9
+Distrito Federal,2015,5,2
+Distrito Federal,2016,5,15
+Distrito Federal,2017,5,6
+Distrito Federal,1998,6,2
+Distrito Federal,1999,6,3
+Distrito Federal,2000,6,1
+Distrito Federal,2001,6,3
+Distrito Federal,2002,6,7
+Distrito Federal,2003,6,11
+Distrito Federal,2004,6,6
+Distrito Federal,2005,6,3
+Distrito Federal,2006,6,2
+Distrito Federal,2007,6,21
+Distrito Federal,2008,6,0
+Distrito Federal,2009,6,4
+Distrito Federal,2010,6,21
+Distrito Federal,2011,6,18
+Distrito Federal,2012,6,6
+Distrito Federal,2013,6,4
+Distrito Federal,2014,6,6
+Distrito Federal,2015,6,1
+Distrito Federal,2016,6,42
+Distrito Federal,2017,6,23
+Distrito Federal,1998,7,17
+Distrito Federal,1999,7,4
+Distrito Federal,2000,7,15
+Distrito Federal,2001,7,22
+Distrito Federal,2002,7,33
+Distrito Federal,2003,7,19
+Distrito Federal,2004,7,37
+Distrito Federal,2005,7,24
+Distrito Federal,2006,7,10
+Distrito Federal,2007,7,25
+Distrito Federal,2008,7,12
+Distrito Federal,2009,7,33
+Distrito Federal,2010,7,85
+Distrito Federal,2011,7,53
+Distrito Federal,2012,7,29
+Distrito Federal,2013,7,22
+Distrito Federal,2014,7,27
+Distrito Federal,2015,7,15
+Distrito Federal,2016,7,79
+Distrito Federal,2017,7,44
+Distrito Federal,1998,8,48
+Distrito Federal,1999,8,16
+Distrito Federal,2000,8,9
+Distrito Federal,2001,8,25
+Distrito Federal,2002,8,53
+Distrito Federal,2003,8,36
+Distrito Federal,2004,8,108
+Distrito Federal,2005,8,20
+Distrito Federal,2006,8,40
+Distrito Federal,2007,8,137
+Distrito Federal,2008,8,30
+Distrito Federal,2009,8,37
+Distrito Federal,2010,8,159
+Distrito Federal,2011,8,61
+Distrito Federal,2012,8,55
+Distrito Federal,2013,8,34
+Distrito Federal,2014,8,99
+Distrito Federal,2015,8,53
+Distrito Federal,2016,8,29
+Distrito Federal,2017,8,147
+Distrito Federal,1998,9,33
+Distrito Federal,1999,9,12
+Distrito Federal,2000,9,3
+Distrito Federal,2001,9,12
+Distrito Federal,2002,9,33
+Distrito Federal,2003,9,17
+Distrito Federal,2004,9,100
+Distrito Federal,2005,9,23
+Distrito Federal,2006,9,20
+Distrito Federal,2007,9,73
+Distrito Federal,2008,9,54
+Distrito Federal,2009,9,5
+Distrito Federal,2010,9,196
+Distrito Federal,2011,9,133
+Distrito Federal,2012,9,64
+Distrito Federal,2013,9,31
+Distrito Federal,2014,9,72
+Distrito Federal,2015,9,76
+Distrito Federal,2016,9,58
+Distrito Federal,2017,9,122
+Distrito Federal,1998,10,3
+Distrito Federal,1999,10,8
+Distrito Federal,2000,10,18
+Distrito Federal,2001,10,0
+Distrito Federal,2002,10,19
+Distrito Federal,2003,10,12
+Distrito Federal,2004,10,18
+Distrito Federal,2005,10,18
+Distrito Federal,2006,10,1
+Distrito Federal,2007,10,13
+Distrito Federal,2008,10,6
+Distrito Federal,2009,10,3
+Distrito Federal,2010,10,6
+Distrito Federal,2011,10,0
+Distrito Federal,2012,10,15
+Distrito Federal,2013,10,3
+Distrito Federal,2014,10,34
+Distrito Federal,2015,10,21
+Distrito Federal,2016,10,9
+Distrito Federal,2017,10,66
+Distrito Federal,1998,11,0
+Distrito Federal,1999,11,1
+Distrito Federal,2000,11,0
+Distrito Federal,2001,11,0
+Distrito Federal,2002,11,1
+Distrito Federal,2003,11,0
+Distrito Federal,2004,11,0
+Distrito Federal,2005,11,2
+Distrito Federal,2006,11,0
+Distrito Federal,2007,11,0
+Distrito Federal,2008,11,4
+Distrito Federal,2009,11,0
+Distrito Federal,2010,11,0
+Distrito Federal,2011,11,1
+Distrito Federal,2012,11,0
+Distrito Federal,2013,11,0
+Distrito Federal,2014,11,0
+Distrito Federal,2015,11,3
+Distrito Federal,2016,11,1
+Distrito Federal,2017,11,0
+Distrito Federal,1998,12,0
+Distrito Federal,1999,12,0
+Distrito Federal,2000,12,0
+Distrito Federal,2001,12,1
+Distrito Federal,2002,12,1
+Distrito Federal,2003,12,0
+Distrito Federal,2004,12,0
+Distrito Federal,2005,12,0
+Distrito Federal,2006,12,0
+Distrito Federal,2007,12,0
+Distrito Federal,2008,12,0
+Distrito Federal,2009,12,0
+Distrito Federal,2010,12,1
+Distrito Federal,2011,12,0
+Distrito Federal,2012,12,0
+Distrito Federal,2013,12,2
+Distrito Federal,2014,12,0
+Distrito Federal,2015,12,0
+Distrito Federal,2016,12,0
+Espirito Santo,1998,1,0
+Espirito Santo,1999,1,33
+Espirito Santo,2000,1,5
+Espirito Santo,2001,1,1
+Espirito Santo,2002,1,2
+Espirito Santo,2003,1,4
+Espirito Santo,2004,1,1
+Espirito Santo,2005,1,4
+Espirito Santo,2006,1,13
+Espirito Santo,2007,1,0
+Espirito Santo,2008,1,12
+Espirito Santo,2009,1,4
+Espirito Santo,2010,1,52
+Espirito Santo,2011,1,3
+Espirito Santo,2012,1,1
+Espirito Santo,2013,1,10
+Espirito Santo,2014,1,11
+Espirito Santo,2015,1,76
+Espirito Santo,2016,1,43
+Espirito Santo,2017,1,13
+Espirito Santo,1998,2,0
+Espirito Santo,1999,2,10
+Espirito Santo,2000,2,5
+Espirito Santo,2001,2,5
+Espirito Santo,2002,2,4
+Espirito Santo,2003,2,11
+Espirito Santo,2004,2,5
+Espirito Santo,2005,2,1
+Espirito Santo,2006,2,45
+Espirito Santo,2007,2,3
+Espirito Santo,2008,2,20
+Espirito Santo,2009,2,12
+Espirito Santo,2010,2,15
+Espirito Santo,2011,2,42
+Espirito Santo,2012,2,25
+Espirito Santo,2013,2,15
+Espirito Santo,2014,2,17
+Espirito Santo,2015,2,60
+Espirito Santo,2016,2,24
+Espirito Santo,2017,2,8
+Espirito Santo,1998,3,0
+Espirito Santo,1999,3,8
+Espirito Santo,2000,3,1
+Espirito Santo,2001,3,2
+Espirito Santo,2002,3,4
+Espirito Santo,2003,3,28
+Espirito Santo,2004,3,3
+Espirito Santo,2005,3,3
+Espirito Santo,2006,3,14
+Espirito Santo,2007,3,9
+Espirito Santo,2008,3,5
+Espirito Santo,2009,3,11
+Espirito Santo,2010,3,3
+Espirito Santo,2011,3,5
+Espirito Santo,2012,3,35
+Espirito Santo,2013,3,13
+Espirito Santo,2014,3,15
+Espirito Santo,2015,3,25
+Espirito Santo,2016,3,107
+Espirito Santo,2017,3,9
+Espirito Santo,1998,4,0
+Espirito Santo,1999,4,2
+Espirito Santo,2000,4,3
+Espirito Santo,2001,4,2
+Espirito Santo,2002,4,2
+Espirito Santo,2003,4,22
+Espirito Santo,2004,4,0
+Espirito Santo,2005,4,4
+Espirito Santo,2006,4,1
+Espirito Santo,2007,4,2
+Espirito Santo,2008,4,8
+Espirito Santo,2009,4,8
+Espirito Santo,2010,4,7
+Espirito Santo,2011,4,3
+Espirito Santo,2012,4,74
+Espirito Santo,2013,4,16
+Espirito Santo,2014,4,15
+Espirito Santo,2015,4,33
+Espirito Santo,2016,4,57
+Espirito Santo,2017,4,7
+Espirito Santo,1998,5,0
+Espirito Santo,1999,5,16
+Espirito Santo,2000,5,2
+Espirito Santo,2001,5,8
+Espirito Santo,2002,5,5
+Espirito Santo,2003,5,1
+Espirito Santo,2004,5,0
+Espirito Santo,2005,5,5
+Espirito Santo,2006,5,0
+Espirito Santo,2007,5,1
+Espirito Santo,2008,5,2
+Espirito Santo,2009,5,7
+Espirito Santo,2010,5,3
+Espirito Santo,2011,5,2
+Espirito Santo,2012,5,20
+Espirito Santo,2013,5,14
+Espirito Santo,2014,5,18
+Espirito Santo,2015,5,17
+Espirito Santo,2016,5,48
+Espirito Santo,2017,5,10
+Espirito Santo,1998,6,6
+Espirito Santo,1999,6,6
+Espirito Santo,2000,6,9
+Espirito Santo,2001,6,9
+Espirito Santo,2002,6,18
+Espirito Santo,2003,6,19
+Espirito Santo,2004,6,3
+Espirito Santo,2005,6,8
+Espirito Santo,2006,6,5
+Espirito Santo,2007,6,4
+Espirito Santo,2008,6,4
+Espirito Santo,2009,6,12
+Espirito Santo,2010,6,3
+Espirito Santo,2011,6,7
+Espirito Santo,2012,6,15
+Espirito Santo,2013,6,22
+Espirito Santo,2014,6,9
+Espirito Santo,2015,6,18
+Espirito Santo,2016,6,49
+Espirito Santo,2017,6,37
+Espirito Santo,1998,7,37
+Espirito Santo,1999,7,9
+Espirito Santo,2000,7,16
+Espirito Santo,2001,7,12
+Espirito Santo,2002,7,9
+Espirito Santo,2003,7,27
+Espirito Santo,2004,7,4
+Espirito Santo,2005,7,9
+Espirito Santo,2006,7,11
+Espirito Santo,2007,7,13
+Espirito Santo,2008,7,5
+Espirito Santo,2009,7,25
+Espirito Santo,2010,7,5
+Espirito Santo,2011,7,18
+Espirito Santo,2012,7,35
+Espirito Santo,2013,7,20
+Espirito Santo,2014,7,17
+Espirito Santo,2015,7,30
+Espirito Santo,2016,7,42
+Espirito Santo,2017,7,3
+Espirito Santo,1998,8,38
+Espirito Santo,1999,8,60
+Espirito Santo,2000,8,26
+Espirito Santo,2001,8,30
+Espirito Santo,2002,8,60
+Espirito Santo,2003,8,118
+Espirito Santo,2004,8,12
+Espirito Santo,2005,8,12
+Espirito Santo,2006,8,29
+Espirito Santo,2007,8,82
+Espirito Santo,2008,8,13
+Espirito Santo,2009,8,17
+Espirito Santo,2010,8,39
+Espirito Santo,2011,8,93
+Espirito Santo,2012,8,12
+Espirito Santo,2013,8,53
+Espirito Santo,2014,8,47
+Espirito Santo,2015,8,35
+Espirito Santo,2016,8,78
+Espirito Santo,2017,8,30
+Espirito Santo,1998,9,108
+Espirito Santo,1999,9,64
+Espirito Santo,2000,9,14
+Espirito Santo,2001,9,38
+Espirito Santo,2002,9,46
+Espirito Santo,2003,9,252
+Espirito Santo,2004,9,47
+Espirito Santo,2005,9,8
+Espirito Santo,2006,9,87
+Espirito Santo,2007,9,63
+Espirito Santo,2008,9,78
+Espirito Santo,2009,9,57
+Espirito Santo,2010,9,53
+Espirito Santo,2011,9,108
+Espirito Santo,2012,9,48
+Espirito Santo,2013,9,30
+Espirito Santo,2014,9,61
+Espirito Santo,2015,9,228
+Espirito Santo,2016,9,128
+Espirito Santo,2017,9,58
+Espirito Santo,1998,10,20
+Espirito Santo,1999,10,23
+Espirito Santo,2000,10,88
+Espirito Santo,2001,10,19
+Espirito Santo,2002,10,113
+Espirito Santo,2003,10,159
+Espirito Santo,2004,10,48
+Espirito Santo,2005,10,62
+Espirito Santo,2006,10,10
+Espirito Santo,2007,10,79
+Espirito Santo,2008,10,100
+Espirito Santo,2009,10,13
+Espirito Santo,2010,10,32
+Espirito Santo,2011,10,38
+Espirito Santo,2012,10,62
+Espirito Santo,2013,10,37
+Espirito Santo,2014,10,89
+Espirito Santo,2015,10,307
+Espirito Santo,2016,10,58
+Espirito Santo,2017,10,56
+Espirito Santo,1998,11,4
+Espirito Santo,1999,11,9
+Espirito Santo,2000,11,3
+Espirito Santo,2001,11,3
+Espirito Santo,2002,11,22
+Espirito Santo,2003,11,49
+Espirito Santo,2004,11,42
+Espirito Santo,2005,11,0
+Espirito Santo,2006,11,0
+Espirito Santo,2007,11,112
+Espirito Santo,2008,11,3
+Espirito Santo,2009,11,18
+Espirito Santo,2010,11,3
+Espirito Santo,2011,11,6
+Espirito Santo,2012,11,7
+Espirito Santo,2013,11,11
+Espirito Santo,2014,11,20
+Espirito Santo,2015,11,141
+Espirito Santo,2016,11,8
+Espirito Santo,2017,11,3
+Espirito Santo,1998,12,5
+Espirito Santo,1999,12,0
+Espirito Santo,2000,12,3
+Espirito Santo,2001,12,1
+Espirito Santo,2002,12,12
+Espirito Santo,2003,12,18
+Espirito Santo,2004,12,9
+Espirito Santo,2005,12,5
+Espirito Santo,2006,12,0
+Espirito Santo,2007,12,14
+Espirito Santo,2008,12,1
+Espirito Santo,2009,12,32
+Espirito Santo,2010,12,10
+Espirito Santo,2011,12,1
+Espirito Santo,2012,12,18
+Espirito Santo,2013,12,9
+Espirito Santo,2014,12,28
+Espirito Santo,2015,12,61
+Espirito Santo,2016,12,12
+Goias,1998,1,0
+Goias,1999,1,14
+Goias,2000,1,10
+Goias,2001,1,29
+Goias,2002,1,12
+Goias,2003,1,14
+Goias,2004,1,10
+Goias,2005,1,27
+Goias,2006,1,85
+Goias,2007,1,28
+Goias,2008,1,23
+Goias,2009,1,30
+Goias,2010,1,59
+Goias,2011,1,39
+Goias,2012,1,21
+Goias,2013,1,33
+Goias,2014,1,80
+Goias,2015,1,118
+Goias,2016,1,52
+Goias,2017,1,53
+Goias,1998,2,0
+Goias,1999,2,334
+Goias,2000,2,11
+Goias,2001,2,9
+Goias,2002,2,9
+Goias,2003,2,47
+Goias,2004,2,11
+Goias,2005,2,84
+Goias,2006,2,21
+Goias,2007,2,13
+Goias,2008,2,25
+Goias,2009,2,29
+Goias,2010,2,86
+Goias,2011,2,45
+Goias,2012,2,37
+Goias,2013,2,86
+Goias,2014,2,44
+Goias,2015,2,53
+Goias,2016,2,117
+Goias,2017,2,75
+Goias,1998,3,0
+Goias,1999,3,1
+Goias,2000,3,4
+Goias,2001,3,10
+Goias,2002,3,48
+Goias,2003,3,29
+Goias,2004,3,36
+Goias,2005,3,36
+Goias,2006,3,29
+Goias,2007,3,49
+Goias,2008,3,20
+Goias,2009,3,32
+Goias,2010,3,65
+Goias,2011,3,19
+Goias,2012,3,57
+Goias,2013,3,79
+Goias,2014,3,80
+Goias,2015,3,76
+Goias,2016,3,136
+Goias,2017,3,115
+Goias,1998,4,0
+Goias,1999,4,25
+Goias,2000,4,16
+Goias,2001,4,49
+Goias,2002,4,78
+Goias,2003,4,87
+Goias,2004,4,32
+Goias,2005,4,55
+Goias,2006,4,22
+Goias,2007,4,17
+Goias,2008,4,36
+Goias,2009,4,11
+Goias,2010,4,105
+Goias,2011,4,71
+Goias,2012,4,89
+Goias,2013,4,42
+Goias,2014,4,138
+Goias,2015,4,89
+Goias,2016,4,167
+Goias,2017,4,60
+Goias,1998,5,0
+Goias,1999,5,99
+Goias,2000,5,58
+Goias,2001,5,85
+Goias,2002,5,171
+Goias,2003,5,57
+Goias,2004,5,157
+Goias,2005,5,164
+Goias,2006,5,33
+Goias,2007,5,94
+Goias,2008,5,41
+Goias,2009,5,104
+Goias,2010,5,239
+Goias,2011,5,136
+Goias,2012,5,103
+Goias,2013,5,150
+Goias,2014,5,210
+Goias,2015,5,129
+Goias,2016,5,233
+Goias,2017,5,135
+Goias,1998,6,172
+Goias,1999,6,250
+Goias,2000,6,222
+Goias,2001,6,212
+Goias,2002,6,302
+Goias,2003,6,321
+Goias,2004,6,422
+Goias,2005,6,189
+Goias,2006,6,70
+Goias,2007,6,186
+Goias,2008,6,55
+Goias,2009,6,179
+Goias,2010,6,278
+Goias,2011,6,314
+Goias,2012,6,245
+Goias,2013,6,192
+Goias,2014,6,318
+Goias,2015,6,277
+Goias,2016,6,289
+Goias,2017,6,442
+Goias,1998,7,512
+Goias,1999,7,311
+Goias,2000,7,332
+Goias,2001,7,371
+Goias,2002,7,686
+Goias,2003,7,322
+Goias,2004,7,778
+Goias,2005,7,363
+Goias,2006,7,169
+Goias,2007,7,399
+Goias,2008,7,193
+Goias,2009,7,470
+Goias,2010,7,941
+Goias,2011,7,607
+Goias,2012,7,564
+Goias,2013,7,350
+Goias,2014,7,446
+Goias,2015,7,347
+Goias,2016,7,837
+Goias,2017,7,577
+Goias,1998,8,2.218
+Goias,1999,8,1.198
+Goias,2000,8,925
+Goias,2001,8,787
+Goias,2002,8,1.428
+Goias,2003,8,902
+Goias,2004,8,1.498
+Goias,2005,8,639
+Goias,2006,8,588
+Goias,2007,8,2.382
+Goias,2008,8,568
+Goias,2009,8,647
+Goias,2010,8,2.914
+Goias,2011,8,1.613
+Goias,2012,8,912
+Goias,2013,8,488
+Goias,2014,8,1.255
+Goias,2015,8,943
+Goias,2016,8,1.032
+Goias,2017,8,1.492
+Goias,1998,9,2.867
+Goias,1999,9,1.898
+Goias,2000,9,1.293
+Goias,2001,9,1.863
+Goias,2002,9,3.52
+Goias,2003,9,1.662
+Goias,2004,9,2.965
+Goias,2005,9,1.341
+Goias,2006,9,1.463
+Goias,2007,9,3.745
+Goias,2008,9,1.255
+Goias,2009,9,685
+Goias,2010,9,5.075
+Goias,2011,9,2.259
+Goias,2012,9,2.452
+Goias,2013,9,684
+Goias,2014,9,1.687
+Goias,2015,9,2.296
+Goias,2016,9,1.703
+Goias,2017,9,3.238
+Goias,1998,10,1.034
+Goias,1999,10,743
+Goias,2000,10,905
+Goias,2001,10,479
+Goias,2002,10,1.367
+Goias,2003,10,1.183
+Goias,2004,10,1.275
+Goias,2005,10,1.717
+Goias,2006,10,178
+Goias,2007,10,1.195
+Goias,2008,10,1.231
+Goias,2009,10,367
+Goias,2010,10,1.227
+Goias,2011,10,476
+Goias,2012,10,1.524
+Goias,2013,10,606
+Goias,2014,10,1.947
+Goias,2015,10,1.807
+Goias,2016,10,522
+Goias,2017,10,2.401
+Goias,1998,11,47
+Goias,1999,11,110
+Goias,2000,11,26
+Goias,2001,11,15
+Goias,2002,11,192
+Goias,2003,11,168
+Goias,2004,11,291
+Goias,2005,11,144
+Goias,2006,11,91
+Goias,2007,11,79
+Goias,2008,11,90
+Goias,2009,11,89
+Goias,2010,11,67
+Goias,2011,11,59
+Goias,2012,11,57
+Goias,2013,11,183
+Goias,2014,11,181
+Goias,2015,11,547
+Goias,2016,11,123
+Goias,2017,11,117
+Goias,1998,12,13
+Goias,1999,12,20
+Goias,2000,12,6
+Goias,2001,12,18
+Goias,2002,12,115
+Goias,2003,12,129
+Goias,2004,12,56
+Goias,2005,12,5
+Goias,2006,12,7
+Goias,2007,12,16
+Goias,2008,12,6
+Goias,2009,12,39
+Goias,2010,12,48
+Goias,2011,12,39
+Goias,2012,12,93
+Goias,2013,12,86
+Goias,2014,12,68
+Goias,2015,12,179
+Goias,2016,12,64
+Maranhao,1998,1,0
+Maranhao,1999,1,54
+Maranhao,2000,1,19
+Maranhao,2001,1,29
+Maranhao,2002,1,48
+Maranhao,2003,1,436
+Maranhao,2004,1,241
+Maranhao,2005,1,450
+Maranhao,2006,1,221
+Maranhao,2007,1,428
+Maranhao,2008,1,121
+Maranhao,2009,1,240
+Maranhao,2010,1,319
+Maranhao,2011,1,124
+Maranhao,2012,1,326
+Maranhao,2013,1,209
+Maranhao,2014,1,195
+Maranhao,2015,1,494
+Maranhao,2016,1,412
+Maranhao,2017,1,187
+Maranhao,1998,2,0
+Maranhao,1999,2,6
+Maranhao,2000,2,11
+Maranhao,2001,2,1
+Maranhao,2002,2,116
+Maranhao,2003,2,11
+Maranhao,2004,2,22
+Maranhao,2005,2,56
+Maranhao,2006,2,22
+Maranhao,2007,2,13
+Maranhao,2008,2,45
+Maranhao,2009,2,20
+Maranhao,2010,2,93
+Maranhao,2011,2,9
+Maranhao,2012,2,46
+Maranhao,2013,2,62
+Maranhao,2014,2,29
+Maranhao,2015,2,95
+Maranhao,2016,2,318
+Maranhao,2017,2,47
+Maranhao,1998,3,0
+Maranhao,1999,3,17
+Maranhao,2000,3,6
+Maranhao,2001,3,0
+Maranhao,2002,3,16
+Maranhao,2003,3,16
+Maranhao,2004,3,18
+Maranhao,2005,3,9
+Maranhao,2006,3,14
+Maranhao,2007,3,52
+Maranhao,2008,3,4
+Maranhao,2009,3,33
+Maranhao,2010,3,82
+Maranhao,2011,3,22
+Maranhao,2012,3,49
+Maranhao,2013,3,30
+Maranhao,2014,3,59
+Maranhao,2015,3,53
+Maranhao,2016,3,113
+Maranhao,2017,3,32
+Maranhao,1998,4,0
+Maranhao,1999,4,4
+Maranhao,2000,4,6
+Maranhao,2001,4,2
+Maranhao,2002,4,28
+Maranhao,2003,4,79
+Maranhao,2004,4,44
+Maranhao,2005,4,43
+Maranhao,2006,4,9
+Maranhao,2007,4,5
+Maranhao,2008,4,26
+Maranhao,2009,4,14
+Maranhao,2010,4,128
+Maranhao,2011,4,37
+Maranhao,2012,4,97
+Maranhao,2013,4,62
+Maranhao,2014,4,78
+Maranhao,2015,4,119
+Maranhao,2016,4,113
+Maranhao,2017,4,91
+Maranhao,1998,5,0
+Maranhao,1999,5,3
+Maranhao,2000,5,28
+Maranhao,2001,5,21
+Maranhao,2002,5,71
+Maranhao,2003,5,60
+Maranhao,2004,5,145
+Maranhao,2005,5,74
+Maranhao,2006,5,5
+Maranhao,2007,5,73
+Maranhao,2008,5,26
+Maranhao,2009,5,19
+Maranhao,2010,5,273
+Maranhao,2011,5,73
+Maranhao,2012,5,286
+Maranhao,2013,5,100
+Maranhao,2014,5,148
+Maranhao,2015,5,194
+Maranhao,2016,5,206
+Maranhao,2017,5,142
+Maranhao,1998,6,78
+Maranhao,1999,6,32
+Maranhao,2000,6,94
+Maranhao,2001,6,100
+Maranhao,2002,6,230
+Maranhao,2003,6,338
+Maranhao,2004,6,706
+Maranhao,2005,6,529
+Maranhao,2006,6,131
+Maranhao,2007,6,515
+Maranhao,2008,6,235
+Maranhao,2009,6,279
+Maranhao,2010,6,494
+Maranhao,2011,6,602
+Maranhao,2012,6,915
+Maranhao,2013,6,498
+Maranhao,2014,6,812
+Maranhao,2015,6,887
+Maranhao,2016,6,709
+Maranhao,2017,6,885
+Maranhao,1998,7,274
+Maranhao,1999,7,258
+Maranhao,2000,7,233
+Maranhao,2001,7,549
+Maranhao,2002,7,1.271
+Maranhao,2003,7,1.103
+Maranhao,2004,7,1.366
+Maranhao,2005,7,1.152
+Maranhao,2006,7,512
+Maranhao,2007,7,1.205
+Maranhao,2008,7,502
+Maranhao,2009,7,972
+Maranhao,2010,7,2.323
+Maranhao,2011,7,1.024
+Maranhao,2012,7,3.548
+Maranhao,2013,7,1.111
+Maranhao,2014,7,2.068
+Maranhao,2015,7,1.642
+Maranhao,2016,7,2.096
+Maranhao,2017,7,2.521
+Maranhao,1998,8,1.176
+Maranhao,1999,8,895
+Maranhao,2000,8,839
+Maranhao,2001,8,2.037
+Maranhao,2002,8,3.481
+Maranhao,2003,8,2.023
+Maranhao,2004,8,1.889
+Maranhao,2005,8,2.239
+Maranhao,2006,8,1.382
+Maranhao,2007,8,8.409
+Maranhao,2008,8,713
+Maranhao,2009,8,1.766
+Maranhao,2010,8,6.353
+Maranhao,2011,8,2.138
+Maranhao,2012,8,10.395
+Maranhao,2013,8,2.098
+Maranhao,2014,8,5.592
+Maranhao,2015,8,5.428
+Maranhao,2016,8,3.723
+Maranhao,2017,8,3.875
+Maranhao,1998,9,3.935
+Maranhao,1999,9,1.739
+Maranhao,2000,9,1.365
+Maranhao,2001,9,4.618
+Maranhao,2002,9,3.181
+Maranhao,2003,9,5.878
+Maranhao,2004,9,4.673
+Maranhao,2005,9,6.292
+Maranhao,2006,9,2.907
+Maranhao,2007,9,8.524
+Maranhao,2008,9,2.761
+Maranhao,2009,9,2.404
+Maranhao,2010,9,9.795
+Maranhao,2011,9,4.632
+Maranhao,2012,9,7.626
+Maranhao,2013,9,3.88
+Maranhao,2014,9,4.373
+Maranhao,2015,9,6.423
+Maranhao,2016,9,3.166
+Maranhao,2017,9,14.825
+Maranhao,1998,10,5.137
+Maranhao,1999,10,3.208
+Maranhao,2000,10,2.654
+Maranhao,2001,10,6.661
+Maranhao,2002,10,5.182
+Maranhao,2003,10,6.085
+Maranhao,2004,10,3.604
+Maranhao,2005,10,6.472
+Maranhao,2006,10,3.024
+Maranhao,2007,10,4.772
+Maranhao,2008,10,3.498
+Maranhao,2009,10,1.861
+Maranhao,2010,10,3.228
+Maranhao,2011,10,2.404
+Maranhao,2012,10,5
+Maranhao,2013,10,2.918
+Maranhao,2014,10,5.812
+Maranhao,2015,10,6.746
+Maranhao,2016,10,5.351
+Maranhao,2017,10,6.011
+Maranhao,1998,11,2.237
+Maranhao,1999,11,1.494
+Maranhao,2000,11,2.267
+Maranhao,2001,11,3.525
+Maranhao,2002,11,5.83
+Maranhao,2003,11,4.929
+Maranhao,2004,11,6.398
+Maranhao,2005,11,4.769
+Maranhao,2006,11,2.004
+Maranhao,2007,11,2.297
+Maranhao,2008,11,2.331
+Maranhao,2009,11,5
+Maranhao,2010,11,4.005
+Maranhao,2011,11,2.261
+Maranhao,2012,11,2.01
+Maranhao,2013,11,2.529
+Maranhao,2014,11,3.869
+Maranhao,2015,11,4.35
+Maranhao,2016,11,3.982
+Maranhao,2017,11,2.3
+Maranhao,1998,12,1.399
+Maranhao,1999,12,1.001
+Maranhao,2000,12,1.461
+Maranhao,2001,12,1.296
+Maranhao,2002,12,2.165
+Maranhao,2003,12,2.424
+Maranhao,2004,12,3.255
+Maranhao,2005,12,1.66
+Maranhao,2006,12,1.052
+Maranhao,2007,12,800
+Maranhao,2008,12,1.101
+Maranhao,2009,12,1.768
+Maranhao,2010,12,1.803
+Maranhao,2011,12,1.629
+Maranhao,2012,12,1.296
+Maranhao,2013,12,2.692
+Maranhao,2014,12,2.4
+Maranhao,2015,12,3.706
+Maranhao,2016,12,1.577
+Mato Grosso,1998,1,0
+Mato Grosso,1999,1,39
+Mato Grosso,2000,1,44
+Mato Grosso,2001,1,44
+Mato Grosso,2002,1,172
+Mato Grosso,2003,1,896
+Mato Grosso,2004,1,301
+Mato Grosso,2005,1,438
+Mato Grosso,2006,1,947
+Mato Grosso,2007,1,476
+Mato Grosso,2008,1,245
+Mato Grosso,2009,1,527
+Mato Grosso,2010,1,298
+Mato Grosso,2011,1,171
+Mato Grosso,2012,1,166
+Mato Grosso,2013,1,269
+Mato Grosso,2014,1,315
+Mato Grosso,2015,1,960
+Mato Grosso,2016,1,374
+Mato Grosso,2017,1,482
+Mato Grosso,1998,2,0
+Mato Grosso,1999,2,28
+Mato Grosso,2000,2,35
+Mato Grosso,2001,2,54
+Mato Grosso,2002,2,22
+Mato Grosso,2003,2,592
+Mato Grosso,2004,2,272
+Mato Grosso,2005,2,871
+Mato Grosso,2006,2,383
+Mato Grosso,2007,2,213
+Mato Grosso,2008,2,180
+Mato Grosso,2009,2,248
+Mato Grosso,2010,2,431
+Mato Grosso,2011,2,119
+Mato Grosso,2012,2,193
+Mato Grosso,2013,2,375
+Mato Grosso,2014,2,199
+Mato Grosso,2015,2,542
+Mato Grosso,2016,2,1.05
+Mato Grosso,2017,2,337
+Mato Grosso,1998,3,0
+Mato Grosso,1999,3,18
+Mato Grosso,2000,3,60
+Mato Grosso,2001,3,24
+Mato Grosso,2002,3,103
+Mato Grosso,2003,3,554
+Mato Grosso,2004,3,743
+Mato Grosso,2005,3,362
+Mato Grosso,2006,3,448
+Mato Grosso,2007,3,476
+Mato Grosso,2008,3,180
+Mato Grosso,2009,3,325
+Mato Grosso,2010,3,605
+Mato Grosso,2011,3,252
+Mato Grosso,2012,3,423
+Mato Grosso,2013,3,563
+Mato Grosso,2014,3,655
+Mato Grosso,2015,3,705
+Mato Grosso,2016,3,1.085
+Mato Grosso,2017,3,719
+Mato Grosso,1998,4,0
+Mato Grosso,1999,4,76
+Mato Grosso,2000,4,59
+Mato Grosso,2001,4,309
+Mato Grosso,2002,4,641
+Mato Grosso,2003,4,903
+Mato Grosso,2004,4,441
+Mato Grosso,2005,4,372
+Mato Grosso,2006,4,161
+Mato Grosso,2007,4,79
+Mato Grosso,2008,4,274
+Mato Grosso,2009,4,169
+Mato Grosso,2010,4,769
+Mato Grosso,2011,4,345
+Mato Grosso,2012,4,521
+Mato Grosso,2013,4,338
+Mato Grosso,2014,4,859
+Mato Grosso,2015,4,947
+Mato Grosso,2016,4,1.77
+Mato Grosso,2017,4,606
+Mato Grosso,1998,5,0
+Mato Grosso,1999,5,731
+Mato Grosso,2000,5,1.194
+Mato Grosso,2001,5,1.193
+Mato Grosso,2002,5,2.528
+Mato Grosso,2003,5,942
+Mato Grosso,2004,5,2.413
+Mato Grosso,2005,5,1.641
+Mato Grosso,2006,5,269
+Mato Grosso,2007,5,359
+Mato Grosso,2008,5,119
+Mato Grosso,2009,5,516
+Mato Grosso,2010,5,1.313
+Mato Grosso,2011,5,547
+Mato Grosso,2012,5,812
+Mato Grosso,2013,5,739
+Mato Grosso,2014,5,933
+Mato Grosso,2015,5,541
+Mato Grosso,2016,5,1.081
+Mato Grosso,2017,5,845
+Mato Grosso,1998,6,2.201
+Mato Grosso,1999,6,2.201
+Mato Grosso,2000,6,4.358
+Mato Grosso,2001,6,6.665
+Mato Grosso,2002,6,7.878
+Mato Grosso,2003,6,4.313
+Mato Grosso,2004,6,9.813
+Mato Grosso,2005,6,2.294
+Mato Grosso,2006,6,856
+Mato Grosso,2007,6,1.339
+Mato Grosso,2008,6,403
+Mato Grosso,2009,6,979
+Mato Grosso,2010,6,1.025
+Mato Grosso,2011,6,974
+Mato Grosso,2012,6,1.651
+Mato Grosso,2013,6,1.213
+Mato Grosso,2014,6,1.795
+Mato Grosso,2015,6,1.402
+Mato Grosso,2016,6,1.417
+Mato Grosso,2017,6,2.041
+Mato Grosso,1998,7,3.712
+Mato Grosso,1999,7,3.926
+Mato Grosso,2000,7,1.338
+Mato Grosso,2001,7,1.555
+Mato Grosso,2002,7,5.661
+Mato Grosso,2003,7,5.435
+Mato Grosso,2004,7,11.517
+Mato Grosso,2005,7,4.172
+Mato Grosso,2006,7,1.941
+Mato Grosso,2007,7,1.79
+Mato Grosso,2008,7,1.117
+Mato Grosso,2009,7,1.613
+Mato Grosso,2010,7,3.442
+Mato Grosso,2011,7,1.061
+Mato Grosso,2012,7,2.008
+Mato Grosso,2013,7,1.63
+Mato Grosso,2014,7,2.255
+Mato Grosso,2015,7,1.533
+Mato Grosso,2016,7,3.495
+Mato Grosso,2017,7,2.79
+Mato Grosso,1998,8,15.406
+Mato Grosso,1999,8,18.566
+Mato Grosso,2000,8,6.063
+Mato Grosso,2001,8,7.762
+Mato Grosso,2002,8,14.086
+Mato Grosso,2003,8,11.132
+Mato Grosso,2004,8,13.603
+Mato Grosso,2005,8,11.57
+Mato Grosso,2006,8,6.218
+Mato Grosso,2007,8,14.453
+Mato Grosso,2008,8,2.875
+Mato Grosso,2009,8,2.25
+Mato Grosso,2010,8,14.608
+Mato Grosso,2011,8,2.628
+Mato Grosso,2012,8,6.195
+Mato Grosso,2013,8,3.568
+Mato Grosso,2014,8,7.167
+Mato Grosso,2015,8,5.112
+Mato Grosso,2016,8,6.228
+Mato Grosso,2017,8,6.229
+Mato Grosso,1998,9,10.363
+Mato Grosso,1999,9,11.729
+Mato Grosso,2000,9,6.251
+Mato Grosso,2001,9,8.49
+Mato Grosso,2002,9,11.034
+Mato Grosso,2003,9,15.79
+Mato Grosso,2004,9,24.994
+Mato Grosso,2005,9,20.551
+Mato Grosso,2006,9,12.661
+Mato Grosso,2007,9,25.963
+Mato Grosso,2008,9,7.965
+Mato Grosso,2009,9,3.129
+Mato Grosso,2010,9,18.366
+Mato Grosso,2011,9,6.332
+Mato Grosso,2012,9,10.344
+Mato Grosso,2013,9,5.576
+Mato Grosso,2014,9,7.081
+Mato Grosso,2015,9,11.068
+Mato Grosso,2016,9,8.98
+Mato Grosso,2017,9,23.945
+Mato Grosso,1998,10,2.707
+Mato Grosso,1999,10,6.109
+Mato Grosso,2000,10,6.062
+Mato Grosso,2001,10,6.543
+Mato Grosso,2002,10,9.375
+Mato Grosso,2003,10,5.341
+Mato Grosso,2004,10,9.295
+Mato Grosso,2005,10,7.765
+Mato Grosso,2006,10,2.327
+Mato Grosso,2007,10,4.89
+Mato Grosso,2008,10,6.326
+Mato Grosso,2009,10,2.579
+Mato Grosso,2010,10,4.465
+Mato Grosso,2011,10,2.01
+Mato Grosso,2012,10,2.837
+Mato Grosso,2013,10,1.986
+Mato Grosso,2014,10,5.281
+Mato Grosso,2015,10,6.49
+Mato Grosso,2016,10,2.749
+Mato Grosso,2017,10,4.8
+Mato Grosso,1998,11,182
+Mato Grosso,1999,11,842
+Mato Grosso,2000,11,502
+Mato Grosso,2001,11,373
+Mato Grosso,2002,11,2.905
+Mato Grosso,2003,11,2.097
+Mato Grosso,2004,11,2.405
+Mato Grosso,2005,11,1.368
+Mato Grosso,2006,11,1.031
+Mato Grosso,2007,11,299
+Mato Grosso,2008,11,190
+Mato Grosso,2009,11,588
+Mato Grosso,2010,11,768
+Mato Grosso,2011,11,1.103
+Mato Grosso,2012,11,375
+Mato Grosso,2013,11,1.064
+Mato Grosso,2014,11,1.018
+Mato Grosso,2015,11,1.93
+Mato Grosso,2016,11,918
+Mato Grosso,2017,11,813
+Mato Grosso,1998,12,76
+Mato Grosso,1999,12,47
+Mato Grosso,2000,12,98
+Mato Grosso,2001,12,37
+Mato Grosso,2002,12,1.157
+Mato Grosso,2003,12,1.622
+Mato Grosso,2004,12,1.217
+Mato Grosso,2005,12,246
+Mato Grosso,2006,12,23
+Mato Grosso,2007,12,81
+Mato Grosso,2008,12,159
+Mato Grosso,2009,12,171
+Mato Grosso,2010,12,846
+Mato Grosso,2011,12,431
+Mato Grosso,2012,12,492
+Mato Grosso,2013,12,447
+Mato Grosso,2014,12,466
+Mato Grosso,2015,12,1.777
+Mato Grosso,2016,12,425
+Mato Grosso,1998,1,0
+Mato Grosso,1999,1,239
+Mato Grosso,2000,1,326
+Mato Grosso,2001,1,97
+Mato Grosso,2002,1,304
+Mato Grosso,2003,1,182
+Mato Grosso,2004,1,258
+Mato Grosso,2005,1,59
+Mato Grosso,2006,1,59
+Mato Grosso,2007,1,19
+Mato Grosso,2008,1,63
+Mato Grosso,2009,1,229
+Mato Grosso,2010,1,72
+Mato Grosso,2011,1,129
+Mato Grosso,2012,1,201
+Mato Grosso,2013,1,174
+Mato Grosso,2014,1,197
+Mato Grosso,2015,1,226
+Mato Grosso,2016,1,127
+Mato Grosso,2017,1,355
+Mato Grosso,1998,2,0
+Mato Grosso,1999,2,69
+Mato Grosso,2000,2,81
+Mato Grosso,2001,2,89
+Mato Grosso,2002,2,98
+Mato Grosso,2003,2,108
+Mato Grosso,2004,2,169
+Mato Grosso,2005,2,221
+Mato Grosso,2006,2,104
+Mato Grosso,2007,2,111
+Mato Grosso,2008,2,78
+Mato Grosso,2009,2,164
+Mato Grosso,2010,2,157
+Mato Grosso,2011,2,61
+Mato Grosso,2012,2,112
+Mato Grosso,2013,2,100
+Mato Grosso,2014,2,139
+Mato Grosso,2015,2,148
+Mato Grosso,2016,2,187
+Mato Grosso,2017,2,165
+Mato Grosso,1998,3,0
+Mato Grosso,1999,3,100
+Mato Grosso,2000,3,23
+Mato Grosso,2001,3,39
+Mato Grosso,2002,3,115
+Mato Grosso,2003,3,137
+Mato Grosso,2004,3,225
+Mato Grosso,2005,3,158
+Mato Grosso,2006,3,137
+Mato Grosso,2007,3,137
+Mato Grosso,2008,3,97
+Mato Grosso,2009,3,118
+Mato Grosso,2010,3,149
+Mato Grosso,2011,3,37
+Mato Grosso,2012,3,169
+Mato Grosso,2013,3,158
+Mato Grosso,2014,3,95
+Mato Grosso,2015,3,190
+Mato Grosso,2016,3,143
+Mato Grosso,2017,3,170
+Mato Grosso,1998,4,0
+Mato Grosso,1999,4,97
+Mato Grosso,2000,4,90
+Mato Grosso,2001,4,108
+Mato Grosso,2002,4,230
+Mato Grosso,2003,4,126
+Mato Grosso,2004,4,97
+Mato Grosso,2005,4,126
+Mato Grosso,2006,4,51
+Mato Grosso,2007,4,46
+Mato Grosso,2008,4,72
+Mato Grosso,2009,4,291
+Mato Grosso,2010,4,136
+Mato Grosso,2011,4,23
+Mato Grosso,2012,4,97
+Mato Grosso,2013,4,78
+Mato Grosso,2014,4,129
+Mato Grosso,2015,4,65
+Mato Grosso,2016,4,161
+Mato Grosso,2017,4,59
+Mato Grosso,1998,5,0
+Mato Grosso,1999,5,206
+Mato Grosso,2000,5,127
+Mato Grosso,2001,5,112
+Mato Grosso,2002,5,88
+Mato Grosso,2003,5,74
+Mato Grosso,2004,5,25
+Mato Grosso,2005,5,328
+Mato Grosso,2006,5,99
+Mato Grosso,2007,5,62
+Mato Grosso,2008,5,34
+Mato Grosso,2009,5,927
+Mato Grosso,2010,5,105
+Mato Grosso,2011,5,81
+Mato Grosso,2012,5,157
+Mato Grosso,2013,5,72
+Mato Grosso,2014,5,70
+Mato Grosso,2015,5,58
+Mato Grosso,2016,5,97
+Mato Grosso,2017,5,72
+Mato Grosso,1998,6,82
+Mato Grosso,1999,6,127
+Mato Grosso,2000,6,157
+Mato Grosso,2001,6,249
+Mato Grosso,2002,6,517
+Mato Grosso,2003,6,170
+Mato Grosso,2004,6,394
+Mato Grosso,2005,6,439
+Mato Grosso,2006,6,89
+Mato Grosso,2007,6,141
+Mato Grosso,2008,6,24
+Mato Grosso,2009,6,376
+Mato Grosso,2010,6,149
+Mato Grosso,2011,6,104
+Mato Grosso,2012,6,96
+Mato Grosso,2013,6,35
+Mato Grosso,2014,6,84
+Mato Grosso,2015,6,299
+Mato Grosso,2016,6,120
+Mato Grosso,2017,6,175
+Mato Grosso,1998,7,360
+Mato Grosso,1999,7,1.297
+Mato Grosso,2000,7,160
+Mato Grosso,2001,7,591
+Mato Grosso,2002,7,935
+Mato Grosso,2003,7,182
+Mato Grosso,2004,7,529
+Mato Grosso,2005,7,859
+Mato Grosso,2006,7,289
+Mato Grosso,2007,7,197
+Mato Grosso,2008,7,116
+Mato Grosso,2009,7,354
+Mato Grosso,2010,7,589
+Mato Grosso,2011,7,250
+Mato Grosso,2012,7,538
+Mato Grosso,2013,7,201
+Mato Grosso,2014,7,193
+Mato Grosso,2015,7,371
+Mato Grosso,2016,7,687
+Mato Grosso,2017,7,1.05
+Mato Grosso,1998,8,228
+Mato Grosso,1999,8,4.355
+Mato Grosso,2000,8,530
+Mato Grosso,2001,8,2.484
+Mato Grosso,2002,8,3.984
+Mato Grosso,2003,8,953
+Mato Grosso,2004,8,1.408
+Mato Grosso,2005,8,4.484
+Mato Grosso,2006,8,1.129
+Mato Grosso,2007,8,1.823
+Mato Grosso,2008,8,456
+Mato Grosso,2009,8,816
+Mato Grosso,2010,8,1.721
+Mato Grosso,2011,8,552
+Mato Grosso,2012,8,2.951
+Mato Grosso,2013,8,677
+Mato Grosso,2014,8,312
+Mato Grosso,2015,8,1.293
+Mato Grosso,2016,8,1.481
+Mato Grosso,2017,8,1.488
+Mato Grosso,1998,9,457
+Mato Grosso,1999,9,2.969
+Mato Grosso,2000,9,510
+Mato Grosso,2001,9,1.383
+Mato Grosso,2002,9,2.252
+Mato Grosso,2003,9,1.124
+Mato Grosso,2004,9,2.511
+Mato Grosso,2005,9,1.87
+Mato Grosso,2006,9,1.078
+Mato Grosso,2007,9,4.446
+Mato Grosso,2008,9,1.62
+Mato Grosso,2009,9,1.146
+Mato Grosso,2010,9,1.505
+Mato Grosso,2011,9,1.072
+Mato Grosso,2012,9,2.264
+Mato Grosso,2013,9,1.074
+Mato Grosso,2014,9,365
+Mato Grosso,2015,9,1.482
+Mato Grosso,2016,9,2.383
+Mato Grosso,2017,9,2.984
+Mato Grosso,1998,10,576
+Mato Grosso,1999,10,2.053
+Mato Grosso,2000,10,657
+Mato Grosso,2001,10,563
+Mato Grosso,2002,10,2.173
+Mato Grosso,2003,10,541
+Mato Grosso,2004,10,960
+Mato Grosso,2005,10,647
+Mato Grosso,2006,10,244
+Mato Grosso,2007,10,668
+Mato Grosso,2008,10,432
+Mato Grosso,2009,10,854
+Mato Grosso,2010,10,597
+Mato Grosso,2011,10,276
+Mato Grosso,2012,10,652
+Mato Grosso,2013,10,378
+Mato Grosso,2014,10,581
+Mato Grosso,2015,10,507
+Mato Grosso,2016,10,1.2
+Mato Grosso,2017,10,685
+Mato Grosso,1998,11,306
+Mato Grosso,1999,11,1.194
+Mato Grosso,2000,11,274
+Mato Grosso,2001,11,220
+Mato Grosso,2002,11,1.47
+Mato Grosso,2003,11,380
+Mato Grosso,2004,11,208
+Mato Grosso,2005,11,159
+Mato Grosso,2006,11,83
+Mato Grosso,2007,11,82
+Mato Grosso,2008,11,50
+Mato Grosso,2009,11,439
+Mato Grosso,2010,11,259
+Mato Grosso,2011,11,445
+Mato Grosso,2012,11,115
+Mato Grosso,2013,11,423
+Mato Grosso,2014,11,190
+Mato Grosso,2015,11,276
+Mato Grosso,2016,11,258
+Mato Grosso,2017,11,133
+Mato Grosso,1998,12,100
+Mato Grosso,1999,12,306
+Mato Grosso,2000,12,139
+Mato Grosso,2001,12,143
+Mato Grosso,2002,12,376
+Mato Grosso,2003,12,153
+Mato Grosso,2004,12,110
+Mato Grosso,2005,12,46
+Mato Grosso,2006,12,18
+Mato Grosso,2007,12,15
+Mato Grosso,2008,12,208
+Mato Grosso,2009,12,87
+Mato Grosso,2010,12,276
+Mato Grosso,2011,12,577
+Mato Grosso,2012,12,194
+Mato Grosso,2013,12,195
+Mato Grosso,2014,12,84
+Mato Grosso,2015,12,394
+Mato Grosso,2016,12,123
+Minas Gerais,1998,1,0
+Minas Gerais,1999,1,36
+Minas Gerais,2000,1,24
+Minas Gerais,2001,1,18
+Minas Gerais,2002,1,29
+Minas Gerais,2003,1,37
+Minas Gerais,2004,1,22
+Minas Gerais,2005,1,28
+Minas Gerais,2006,1,109
+Minas Gerais,2007,1,91
+Minas Gerais,2008,1,85
+Minas Gerais,2009,1,74
+Minas Gerais,2010,1,118
+Minas Gerais,2011,1,61
+Minas Gerais,2012,1,75
+Minas Gerais,2013,1,75
+Minas Gerais,2014,1,133
+Minas Gerais,2015,1,147
+Minas Gerais,2016,1,61
+Minas Gerais,2017,1,106
+Minas Gerais,1998,2,0
+Minas Gerais,1999,2,112
+Minas Gerais,2000,2,20
+Minas Gerais,2001,2,39
+Minas Gerais,2002,2,62
+Minas Gerais,2003,2,126
+Minas Gerais,2004,2,29
+Minas Gerais,2005,2,79
+Minas Gerais,2006,2,96
+Minas Gerais,2007,2,71
+Minas Gerais,2008,2,59
+Minas Gerais,2009,2,74
+Minas Gerais,2010,2,155
+Minas Gerais,2011,2,111
+Minas Gerais,2012,2,123
+Minas Gerais,2013,2,143
+Minas Gerais,2014,2,157
+Minas Gerais,2015,2,84
+Minas Gerais,2016,2,207
+Minas Gerais,2017,2,61
+Minas Gerais,1998,3,0
+Minas Gerais,1999,3,13
+Minas Gerais,2000,3,24
+Minas Gerais,2001,3,13
+Minas Gerais,2002,3,62
+Minas Gerais,2003,3,81
+Minas Gerais,2004,3,81
+Minas Gerais,2005,3,107
+Minas Gerais,2006,3,69
+Minas Gerais,2007,3,155
+Minas Gerais,2008,3,61
+Minas Gerais,2009,3,106
+Minas Gerais,2010,3,109
+Minas Gerais,2011,3,67
+Minas Gerais,2012,3,152
+Minas Gerais,2013,3,110
+Minas Gerais,2014,3,77
+Minas Gerais,2015,3,80
+Minas Gerais,2016,3,123
+Minas Gerais,2017,3,105
+Minas Gerais,1998,4,0
+Minas Gerais,1999,4,27
+Minas Gerais,2000,4,49
+Minas Gerais,2001,4,60
+Minas Gerais,2002,4,99
+Minas Gerais,2003,4,215
+Minas Gerais,2004,4,48
+Minas Gerais,2005,4,89
+Minas Gerais,2006,4,50
+Minas Gerais,2007,4,35
+Minas Gerais,2008,4,113
+Minas Gerais,2009,4,26
+Minas Gerais,2010,4,112
+Minas Gerais,2011,4,66
+Minas Gerais,2012,4,180
+Minas Gerais,2013,4,61
+Minas Gerais,2014,4,161
+Minas Gerais,2015,4,109
+Minas Gerais,2016,4,172
+Minas Gerais,2017,4,69
+Minas Gerais,1998,5,0
+Minas Gerais,1999,5,51
+Minas Gerais,2000,5,67
+Minas Gerais,2001,5,83
+Minas Gerais,2002,5,98
+Minas Gerais,2003,5,75
+Minas Gerais,2004,5,79
+Minas Gerais,2005,5,134
+Minas Gerais,2006,5,62
+Minas Gerais,2007,5,124
+Minas Gerais,2008,5,50
+Minas Gerais,2009,5,128
+Minas Gerais,2010,5,179
+Minas Gerais,2011,5,151
+Minas Gerais,2012,5,144
+Minas Gerais,2013,5,150
+Minas Gerais,2014,5,224
+Minas Gerais,2015,5,114
+Minas Gerais,2016,5,186
+Minas Gerais,2017,5,125
+Minas Gerais,1998,6,70
+Minas Gerais,1999,6,132
+Minas Gerais,2000,6,135
+Minas Gerais,2001,6,166
+Minas Gerais,2002,6,207
+Minas Gerais,2003,6,245
+Minas Gerais,2004,6,209
+Minas Gerais,2005,6,246
+Minas Gerais,2006,6,73
+Minas Gerais,2007,6,184
+Minas Gerais,2008,6,48
+Minas Gerais,2009,6,173
+Minas Gerais,2010,6,139
+Minas Gerais,2011,6,304
+Minas Gerais,2012,6,219
+Minas Gerais,2013,6,144
+Minas Gerais,2014,6,376
+Minas Gerais,2015,6,200
+Minas Gerais,2016,6,263
+Minas Gerais,2017,6,360
+Minas Gerais,1998,7,232
+Minas Gerais,1999,7,318
+Minas Gerais,2000,7,345
+Minas Gerais,2001,7,266
+Minas Gerais,2002,7,741
+Minas Gerais,2003,7,407
+Minas Gerais,2004,7,625
+Minas Gerais,2005,7,467
+Minas Gerais,2006,7,336
+Minas Gerais,2007,7,446
+Minas Gerais,2008,7,194
+Minas Gerais,2009,7,477
+Minas Gerais,2010,7,707
+Minas Gerais,2011,7,801
+Minas Gerais,2012,7,669
+Minas Gerais,2013,7,462
+Minas Gerais,2014,7,559
+Minas Gerais,2015,7,288
+Minas Gerais,2016,7,1.004
+Minas Gerais,2017,7,610
+Minas Gerais,1998,8,875
+Minas Gerais,1999,8,1.19
+Minas Gerais,2000,8,769
+Minas Gerais,2001,8,858
+Minas Gerais,2002,8,2.041
+Minas Gerais,2003,8,1.955
+Minas Gerais,2004,8,1.642
+Minas Gerais,2005,8,1.029
+Minas Gerais,2006,8,959
+Minas Gerais,2007,8,2.975
+Minas Gerais,2008,8,605
+Minas Gerais,2009,8,685
+Minas Gerais,2010,8,3.353
+Minas Gerais,2011,8,2.742
+Minas Gerais,2012,8,901
+Minas Gerais,2013,8,911
+Minas Gerais,2014,8,1.952
+Minas Gerais,2015,8,1.059
+Minas Gerais,2016,8,1.433
+Minas Gerais,2017,8,2.142
+Minas Gerais,1998,9,1.981
+Minas Gerais,1999,9,2.686
+Minas Gerais,2000,9,1.08
+Minas Gerais,2001,9,1.597
+Minas Gerais,2002,9,3.1
+Minas Gerais,2003,9,7.091
+Minas Gerais,2004,9,4.339
+Minas Gerais,2005,9,2.047
+Minas Gerais,2006,9,2.78
+Minas Gerais,2007,9,5.088
+Minas Gerais,2008,9,2.552
+Minas Gerais,2009,9,1.31
+Minas Gerais,2010,9,5.059
+Minas Gerais,2011,9,5.978
+Minas Gerais,2012,9,3.219
+Minas Gerais,2013,9,1.656
+Minas Gerais,2014,9,3.454
+Minas Gerais,2015,9,3.088
+Minas Gerais,2016,9,2.093
+Minas Gerais,2017,9,4.697
+Minas Gerais,1998,10,1.093
+Minas Gerais,1999,10,1.363
+Minas Gerais,2000,10,1.954
+Minas Gerais,2001,10,528
+Minas Gerais,2002,10,4.788
+Minas Gerais,2003,10,5.391
+Minas Gerais,2004,10,2.736
+Minas Gerais,2005,10,6.546
+Minas Gerais,2006,10,616
+Minas Gerais,2007,10,3.467
+Minas Gerais,2008,10,3.787
+Minas Gerais,2009,10,1.013
+Minas Gerais,2010,10,2.048
+Minas Gerais,2011,10,1.206
+Minas Gerais,2012,10,3.97
+Minas Gerais,2013,10,1.221
+Minas Gerais,2014,10,4.735
+Minas Gerais,2015,10,3.708
+Minas Gerais,2016,10,948
+Minas Gerais,2017,10,3.062
+Minas Gerais,1998,11,32
+Minas Gerais,1999,11,271
+Minas Gerais,2000,11,43
+Minas Gerais,2001,11,62
+Minas Gerais,2002,11,417
+Minas Gerais,2003,11,399
+Minas Gerais,2004,11,914
+Minas Gerais,2005,11,422
+Minas Gerais,2006,11,59
+Minas Gerais,2007,11,1.305
+Minas Gerais,2008,11,892
+Minas Gerais,2009,11,246
+Minas Gerais,2010,11,82
+Minas Gerais,2011,11,153
+Minas Gerais,2012,11,220
+Minas Gerais,2013,11,277
+Minas Gerais,2014,11,398
+Minas Gerais,2015,11,1.453
+Minas Gerais,2016,11,126
+Minas Gerais,2017,11,136
+Minas Gerais,1998,12,21
+Minas Gerais,1999,12,32
+Minas Gerais,2000,12,14
+Minas Gerais,2001,12,44
+Minas Gerais,2002,12,225
+Minas Gerais,2003,12,225
+Minas Gerais,2004,12,125
+Minas Gerais,2005,12,65
+Minas Gerais,2006,12,32
+Minas Gerais,2007,12,95
+Minas Gerais,2008,12,25
+Minas Gerais,2009,12,108
+Minas Gerais,2010,12,105
+Minas Gerais,2011,12,43
+Minas Gerais,2012,12,189
+Minas Gerais,2013,12,98
+Minas Gerais,2014,12,155
+Minas Gerais,2015,12,295
+Minas Gerais,2016,12,91
+Pará,1998,1,0
+Pará,1999,1,87
+Pará,2000,1,30
+Pará,2001,1,34
+Pará,2002,1,144
+Pará,2003,1,900
+Pará,2004,1,579
+Pará,2005,1,1.768
+Pará,2006,1,403
+Pará,2007,1,467
+Pará,2008,1,131
+Pará,2009,1,241
+Pará,2010,1,437
+Pará,2011,1,108
+Pará,2012,1,392
+Pará,2013,1,167
+Pará,2014,1,251
+Pará,2015,1,725
+Pará,2016,1,1.322
+Pará,2017,1,219
+Pará,1998,2,0
+Pará,1999,2,285
+Pará,2000,2,29
+Pará,2001,2,16
+Pará,2002,2,120
+Pará,2003,2,34
+Pará,2004,2,20
+Pará,2005,2,85
+Pará,2006,2,49
+Pará,2007,2,23
+Pará,2008,2,54
+Pará,2009,2,15
+Pará,2010,2,102
+Pará,2011,2,13
+Pará,2012,2,63
+Pará,2013,2,30
+Pará,2014,2,37
+Pará,2015,2,108
+Pará,2016,2,430
+Pará,2017,2,14
+Pará,1998,3,0
+Pará,1999,3,7
+Pará,2000,3,181
+Pará,2001,3,0
+Pará,2002,3,14
+Pará,2003,3,27
+Pará,2004,3,22
+Pará,2005,3,21
+Pará,2006,3,10
+Pará,2007,3,6
+Pará,2008,3,4
+Pará,2009,3,4
+Pará,2010,3,110
+Pará,2011,3,21
+Pará,2012,3,30
+Pará,2013,3,19
+Pará,2014,3,34
+Pará,2015,3,61
+Pará,2016,3,81
+Pará,2017,3,42
+Pará,1998,4,0
+Pará,1999,4,6
+Pará,2000,4,40
+Pará,2001,4,0
+Pará,2002,4,11
+Pará,2003,4,14
+Pará,2004,4,23
+Pará,2005,4,14
+Pará,2006,4,2
+Pará,2007,4,0
+Pará,2008,4,7
+Pará,2009,4,8
+Pará,2010,4,22
+Pará,2011,4,10
+Pará,2012,4,11
+Pará,2013,4,20
+Pará,2014,4,27
+Pará,2015,4,27
+Pará,2016,4,66
+Pará,2017,4,45
+Pará,1998,5,0
+Pará,1999,5,4
+Pará,2000,5,12
+Pará,2001,5,7
+Pará,2002,5,18
+Pará,2003,5,3
+Pará,2004,5,44
+Pará,2005,5,37
+Pará,2006,5,0
+Pará,2007,5,9
+Pará,2008,5,0
+Pará,2009,5,7
+Pará,2010,5,57
+Pará,2011,5,16
+Pará,2012,5,59
+Pará,2013,5,42
+Pará,2014,5,70
+Pará,2015,5,95
+Pará,2016,5,154
+Pará,2017,5,114
+Pará,1998,6,58
+Pará,1999,6,37
+Pará,2000,6,59
+Pará,2001,6,42
+Pará,2002,6,149
+Pará,2003,6,64
+Pará,2004,6,340
+Pará,2005,6,304
+Pará,2006,6,78
+Pará,2007,6,129
+Pará,2008,6,48
+Pará,2009,6,38
+Pará,2010,6,94
+Pará,2011,6,105
+Pará,2012,6,183
+Pará,2013,6,173
+Pará,2014,6,319
+Pará,2015,6,265
+Pará,2016,6,502
+Pará,2017,6,679
+Pará,1998,7,638
+Pará,1999,7,982
+Pará,2000,7,426
+Pará,2001,7,708
+Pará,2002,7,772
+Pará,2003,7,1.571
+Pará,2004,7,4.436
+Pará,2005,7,4.364
+Pará,2006,7,615
+Pará,2007,7,476
+Pará,2008,7,971
+Pará,2009,7,397
+Pará,2010,7,1.432
+Pará,2011,7,632
+Pará,2012,7,661
+Pará,2013,7,447
+Pará,2014,7,825
+Pará,2015,7,906
+Pará,2016,7,1.579
+Pará,2017,7,4.985
+Pará,1998,8,6.815
+Pará,1999,8,6.178
+Pará,2000,8,5.484
+Pará,2001,8,9.043
+Pará,2002,8,15.664
+Pará,2003,8,6.255
+Pará,2004,8,12.812
+Pará,2005,8,13.055
+Pará,2006,8,7.575
+Pará,2007,8,14.352
+Pará,2008,8,4.435
+Pará,2009,8,3.859
+Pará,2010,8,18.13
+Pará,2011,8,2.195
+Pará,2012,8,6.964
+Pará,2013,8,2.161
+Pará,2014,8,8.555
+Pará,2015,8,7.913
+Pará,2016,8,4.863
+Pará,2017,8,11.962
+Pará,1998,9,6.237
+Pará,1999,9,4.419
+Pará,2000,9,2.569
+Pará,2001,9,6.139
+Pará,2002,9,5.609
+Pará,2003,9,8.447
+Pará,2004,9,9.471
+Pará,2005,9,9.032
+Pará,2006,9,8.372
+Pará,2007,9,14.59
+Pará,2008,9,6.294
+Pará,2009,9,6.051
+Pará,2010,9,10.81
+Pará,2011,9,5.185
+Pará,2012,9,6.87
+Pará,2013,9,3.36
+Pará,2014,9,6.787
+Pará,2015,9,11.068
+Pará,2016,9,3.953
+Pará,2017,9,25.004
+Pará,1998,10,3.665
+Pará,1999,10,5.026
+Pará,2000,10,4.313
+Pará,2001,10,5.096
+Pará,2002,10,5.189
+Pará,2003,10,3.803
+Pará,2004,10,4.726
+Pará,2005,10,5.083
+Pará,2006,10,5.964
+Pará,2007,10,2.504
+Pará,2008,10,6.653
+Pará,2009,10,6.342
+Pará,2010,10,3.843
+Pará,2011,10,3.141
+Pará,2012,10,3.714
+Pará,2013,10,4.921
+Pará,2014,10,6.448
+Pará,2015,10,7.781
+Pará,2016,10,5.281
+Pará,2017,10,7.628
+Pará,1998,11,1.861
+Pará,1999,11,2.682
+Pará,2000,11,3.366
+Pará,2001,11,4.938
+Pará,2002,11,7.996
+Pará,2003,11,6.195
+Pará,2004,11,9.842
+Pará,2005,11,4.968
+Pará,2006,11,2.883
+Pará,2007,11,2.89
+Pará,2008,11,2.403
+Pará,2009,11,10.012
+Pará,2010,11,4.417
+Pará,2011,11,3.043
+Pará,2012,11,6.156
+Pará,2013,11,3.688
+Pará,2014,11,7.767
+Pará,2015,11,9.643
+Pará,2016,11,7.879
+Pará,2017,11,9.079
+Pará,1998,12,1.008
+Pará,1999,12,766
+Pará,2000,12,1.698
+Pará,2001,12,2.564
+Pará,2002,12,3.118
+Pará,2003,12,4.787
+Pará,2004,12,5.508
+Pará,2005,12,1.495
+Pará,2006,12,1.417
+Pará,2007,12,689
+Pará,2008,12,684
+Pará,2009,12,2.832
+Pará,2010,12,1.612
+Pará,2011,12,3.218
+Pará,2012,12,1.812
+Pará,2013,12,5.514
+Pará,2014,12,4.828
+Pará,2015,12,6.61
+Pará,2016,12,3.3
+Paraiba,1998,1,0
+Paraiba,1999,1,26
+Paraiba,2000,1,0
+Paraiba,2001,1,11
+Paraiba,2002,1,5
+Paraiba,2003,1,70
+Paraiba,2004,1,33
+Paraiba,2005,1,178
+Paraiba,2006,1,83
+Paraiba,2007,1,69
+Paraiba,2008,1,77
+Paraiba,2009,1,115
+Paraiba,2010,1,46
+Paraiba,2011,1,11
+Paraiba,2012,1,61
+Paraiba,2013,1,38
+Paraiba,2014,1,75
+Paraiba,2015,1,42
+Paraiba,2016,1,18
+Paraiba,2017,1,23
+Paraiba,1998,2,0
+Paraiba,1999,2,2
+Paraiba,2000,2,11
+Paraiba,2001,2,6
+Paraiba,2002,2,18
+Paraiba,2003,2,3
+Paraiba,2004,2,3
+Paraiba,2005,2,15
+Paraiba,2006,2,7
+Paraiba,2007,2,7
+Paraiba,2008,2,20
+Paraiba,2009,2,9
+Paraiba,2010,2,15
+Paraiba,2011,2,5
+Paraiba,2012,2,15
+Paraiba,2013,2,9
+Paraiba,2014,2,6
+Paraiba,2015,2,15
+Paraiba,2016,2,4
+Paraiba,2017,2,8
+Paraiba,1998,3,0
+Paraiba,1999,3,1
+Paraiba,2000,3,5
+Paraiba,2001,3,0
+Paraiba,2002,3,3
+Paraiba,2003,3,0
+Paraiba,2004,3,3
+Paraiba,2005,3,13
+Paraiba,2006,3,4
+Paraiba,2007,3,1
+Paraiba,2008,3,8
+Paraiba,2009,3,2
+Paraiba,2010,3,16
+Paraiba,2011,3,6
+Paraiba,2012,3,4
+Paraiba,2013,3,3
+Paraiba,2014,3,18
+Paraiba,2015,3,7
+Paraiba,2016,3,1
+Paraiba,2017,3,2
+Paraiba,1998,4,0
+Paraiba,1999,4,3
+Paraiba,2000,4,1
+Paraiba,2001,4,0
+Paraiba,2002,4,1
+Paraiba,2003,4,0
+Paraiba,2004,4,3
+Paraiba,2005,4,2
+Paraiba,2006,4,0
+Paraiba,2007,4,0
+Paraiba,2008,4,0
+Paraiba,2009,4,1
+Paraiba,2010,4,2
+Paraiba,2011,4,2
+Paraiba,2012,4,13
+Paraiba,2013,4,6
+Paraiba,2014,4,8
+Paraiba,2015,4,11
+Paraiba,2016,4,1
+Paraiba,2017,4,1
+Paraiba,1998,5,0
+Paraiba,1999,5,0
+Paraiba,2000,5,0
+Paraiba,2001,5,4
+Paraiba,2002,5,1
+Paraiba,2003,5,0
+Paraiba,2004,5,1
+Paraiba,2005,5,0
+Paraiba,2006,5,0
+Paraiba,2007,5,0
+Paraiba,2008,5,0
+Paraiba,2009,5,0
+Paraiba,2010,5,10
+Paraiba,2011,5,0
+Paraiba,2012,5,10
+Paraiba,2013,5,3
+Paraiba,2014,5,1
+Paraiba,2015,5,6
+Paraiba,2016,5,1
+Paraiba,2017,5,1
+Paraiba,1998,6,3
+Paraiba,1999,6,1
+Paraiba,2000,6,2
+Paraiba,2001,6,0
+Paraiba,2002,6,1
+Paraiba,2003,6,0
+Paraiba,2004,6,0
+Paraiba,2005,6,0
+Paraiba,2006,6,0
+Paraiba,2007,6,0
+Paraiba,2008,6,0
+Paraiba,2009,6,0
+Paraiba,2010,6,3
+Paraiba,2011,6,2
+Paraiba,2012,6,5
+Paraiba,2013,6,3
+Paraiba,2014,6,1
+Paraiba,2015,6,0
+Paraiba,2016,6,4
+Paraiba,2017,6,0
+Paraiba,1998,7,0
+Paraiba,1999,7,1
+Paraiba,2000,7,0
+Paraiba,2001,7,8
+Paraiba,2002,7,8
+Paraiba,2003,7,6
+Paraiba,2004,7,1
+Paraiba,2005,7,0
+Paraiba,2006,7,1
+Paraiba,2007,7,1
+Paraiba,2008,7,0
+Paraiba,2009,7,3
+Paraiba,2010,7,7
+Paraiba,2011,7,6
+Paraiba,2012,7,5
+Paraiba,2013,7,1
+Paraiba,2014,7,9
+Paraiba,2015,7,3
+Paraiba,2016,7,22
+Paraiba,2017,7,2
+Paraiba,1998,8,3
+Paraiba,1999,8,4
+Paraiba,2000,8,7
+Paraiba,2001,8,34
+Paraiba,2002,8,38
+Paraiba,2003,8,14
+Paraiba,2004,8,18
+Paraiba,2005,8,0
+Paraiba,2006,8,3
+Paraiba,2007,8,8
+Paraiba,2008,8,1
+Paraiba,2009,8,4
+Paraiba,2010,8,9
+Paraiba,2011,8,12
+Paraiba,2012,8,13
+Paraiba,2013,8,3
+Paraiba,2014,8,30
+Paraiba,2015,8,5
+Paraiba,2016,8,50
+Paraiba,2017,8,3
+Paraiba,1998,9,50
+Paraiba,1999,9,14
+Paraiba,2000,9,9
+Paraiba,2001,9,98
+Paraiba,2002,9,63
+Paraiba,2003,9,81
+Paraiba,2004,9,34
+Paraiba,2005,9,13
+Paraiba,2006,9,27
+Paraiba,2007,9,22
+Paraiba,2008,9,21
+Paraiba,2009,9,28
+Paraiba,2010,9,37
+Paraiba,2011,9,55
+Paraiba,2012,9,71
+Paraiba,2013,9,25
+Paraiba,2014,9,51
+Paraiba,2015,9,48
+Paraiba,2016,9,131
+Paraiba,2017,9,30
+Paraiba,1998,10,179
+Paraiba,1999,10,48
+Paraiba,2000,10,125
+Paraiba,2001,10,279
+Paraiba,2002,10,193
+Paraiba,2003,10,381
+Paraiba,2004,10,190
+Paraiba,2005,10,155
+Paraiba,2006,10,135
+Paraiba,2007,10,111
+Paraiba,2008,10,80
+Paraiba,2009,10,117
+Paraiba,2010,10,150
+Paraiba,2011,10,200
+Paraiba,2012,10,136
+Paraiba,2013,10,58
+Paraiba,2014,10,70
+Paraiba,2015,10,121
+Paraiba,2016,10,304
+Paraiba,2017,10,123
+Paraiba,1998,11,46
+Paraiba,1999,11,38
+Paraiba,2000,11,65
+Paraiba,2001,11,294
+Paraiba,2002,11,238
+Paraiba,2003,11,538
+Paraiba,2004,11,331
+Paraiba,2005,11,280
+Paraiba,2006,11,215
+Paraiba,2007,11,256
+Paraiba,2008,11,175
+Paraiba,2009,11,428
+Paraiba,2010,11,451
+Paraiba,2011,11,359
+Paraiba,2012,11,130
+Paraiba,2013,11,95
+Paraiba,2014,11,111
+Paraiba,2015,11,206
+Paraiba,2016,11,132
+Paraiba,2017,11,101
+Paraiba,1998,12,51
+Paraiba,1999,12,40
+Paraiba,2000,12,34
+Paraiba,2001,12,70
+Paraiba,2002,12,163
+Paraiba,2003,12,288
+Paraiba,2004,12,351
+Paraiba,2005,12,159
+Paraiba,2006,12,196
+Paraiba,2007,12,133
+Paraiba,2008,12,187
+Paraiba,2009,12,270
+Paraiba,2010,12,65
+Paraiba,2011,12,179
+Paraiba,2012,12,62
+Paraiba,2013,12,78
+Paraiba,2014,12,62
+Paraiba,2015,12,122
+Paraiba,2016,12,8
+Paraiba,1998,1,0
+Paraiba,1999,1,7
+Paraiba,2000,1,49
+Paraiba,2001,1,32
+Paraiba,2002,1,47
+Paraiba,2003,1,109
+Paraiba,2004,1,88
+Paraiba,2005,1,55
+Paraiba,2006,1,78
+Paraiba,2007,1,11
+Paraiba,2008,1,35
+Paraiba,2009,1,35
+Paraiba,2010,1,18
+Paraiba,2011,1,35
+Paraiba,2012,1,31
+Paraiba,2013,1,28
+Paraiba,2014,1,86
+Paraiba,2015,1,120
+Paraiba,2016,1,113
+Paraiba,2017,1,55
+Paraiba,1998,2,0
+Paraiba,1999,2,22
+Paraiba,2000,2,67
+Paraiba,2001,2,8
+Paraiba,2002,2,24
+Paraiba,2003,2,46
+Paraiba,2004,2,42
+Paraiba,2005,2,77
+Paraiba,2006,2,60
+Paraiba,2007,2,32
+Paraiba,2008,2,38
+Paraiba,2009,2,21
+Paraiba,2010,2,46
+Paraiba,2011,2,8
+Paraiba,2012,2,40
+Paraiba,2013,2,9
+Paraiba,2014,2,52
+Paraiba,2015,2,58
+Paraiba,2016,2,31
+Paraiba,2017,2,60
+Paraiba,1998,3,0
+Paraiba,1999,3,40
+Paraiba,2000,3,52
+Paraiba,2001,3,12
+Paraiba,2002,3,18
+Paraiba,2003,3,76
+Paraiba,2004,3,83
+Paraiba,2005,3,84
+Paraiba,2006,3,56
+Paraiba,2007,3,54
+Paraiba,2008,3,43
+Paraiba,2009,3,57
+Paraiba,2010,3,22
+Paraiba,2011,3,21
+Paraiba,2012,3,55
+Paraiba,2013,3,18
+Paraiba,2014,3,42
+Paraiba,2015,3,55
+Paraiba,2016,3,63
+Paraiba,2017,3,43
+Paraiba,1998,4,0
+Paraiba,1999,4,39
+Paraiba,2000,4,51
+Paraiba,2001,4,43
+Paraiba,2002,4,84
+Paraiba,2003,4,130
+Paraiba,2004,4,68
+Paraiba,2005,4,22
+Paraiba,2006,4,49
+Paraiba,2007,4,14
+Paraiba,2008,4,62
+Paraiba,2009,4,80
+Paraiba,2010,4,71
+Paraiba,2011,4,38
+Paraiba,2012,4,38
+Paraiba,2013,4,72
+Paraiba,2014,4,38
+Paraiba,2015,4,83
+Paraiba,2016,4,167
+Paraiba,2017,4,77
+Paraiba,1998,5,0
+Paraiba,1999,5,57
+Paraiba,2000,5,43
+Paraiba,2001,5,26
+Paraiba,2002,5,65
+Paraiba,2003,5,115
+Paraiba,2004,5,9
+Paraiba,2005,5,125
+Paraiba,2006,5,90
+Paraiba,2007,5,14
+Paraiba,2008,5,41
+Paraiba,2009,5,117
+Paraiba,2010,5,39
+Paraiba,2011,5,97
+Paraiba,2012,5,86
+Paraiba,2013,5,85
+Paraiba,2014,5,109
+Paraiba,2015,5,77
+Paraiba,2016,5,72
+Paraiba,2017,5,49
+Paraiba,1998,6,36
+Paraiba,1999,6,31
+Paraiba,2000,6,53
+Paraiba,2001,6,43
+Paraiba,2002,6,115
+Paraiba,2003,6,159
+Paraiba,2004,6,147
+Paraiba,2005,6,114
+Paraiba,2006,6,62
+Paraiba,2007,6,57
+Paraiba,2008,6,17
+Paraiba,2009,6,105
+Paraiba,2010,6,55
+Paraiba,2011,6,162
+Paraiba,2012,6,77
+Paraiba,2013,6,52
+Paraiba,2014,6,112
+Paraiba,2015,6,201
+Paraiba,2016,6,238
+Paraiba,2017,6,169
+Paraiba,1998,7,59
+Paraiba,1999,7,94
+Paraiba,2000,7,98
+Paraiba,2001,7,122
+Paraiba,2002,7,172
+Paraiba,2003,7,101
+Paraiba,2004,7,148
+Paraiba,2005,7,155
+Paraiba,2006,7,139
+Paraiba,2007,7,60
+Paraiba,2008,7,87
+Paraiba,2009,7,34
+Paraiba,2010,7,196
+Paraiba,2011,7,262
+Paraiba,2012,7,111
+Paraiba,2013,7,168
+Paraiba,2014,7,215
+Paraiba,2015,7,137
+Paraiba,2016,7,504
+Paraiba,2017,7,891
+Paraiba,1998,8,42
+Paraiba,1999,8,938
+Paraiba,2000,8,849
+Paraiba,2001,8,342
+Paraiba,2002,8,1.593
+Paraiba,2003,8,1.896
+Paraiba,2004,8,1.237
+Paraiba,2005,8,800
+Paraiba,2006,8,844
+Paraiba,2007,8,580
+Paraiba,2008,8,205
+Paraiba,2009,8,844
+Paraiba,2010,8,733
+Paraiba,2011,8,435
+Paraiba,2012,8,522
+Paraiba,2013,8,481
+Paraiba,2014,8,646
+Paraiba,2015,8,651
+Paraiba,2016,8,1.01
+Paraiba,2017,8,987
+Paraiba,1998,9,61
+Paraiba,1999,9,878
+Paraiba,2000,9,381
+Paraiba,2001,9,258
+Paraiba,2002,9,1.071
+Paraiba,2003,9,2.446
+Paraiba,2004,9,1.36
+Paraiba,2005,9,386
+Paraiba,2006,9,866
+Paraiba,2007,9,960
+Paraiba,2008,9,413
+Paraiba,2009,9,149
+Paraiba,2010,9,270
+Paraiba,2011,9,913
+Paraiba,2012,9,459
+Paraiba,2013,9,476
+Paraiba,2014,9,443
+Paraiba,2015,9,599
+Paraiba,2016,9,1.371
+Paraiba,2017,9,1.706
+Paraiba,1998,10,61
+Paraiba,1999,10,452
+Paraiba,2000,10,658
+Paraiba,2001,10,209
+Paraiba,2002,10,399
+Paraiba,2003,10,1.228
+Paraiba,2004,10,666
+Paraiba,2005,10,157
+Paraiba,2006,10,327
+Paraiba,2007,10,194
+Paraiba,2008,10,78
+Paraiba,2009,10,424
+Paraiba,2010,10,230
+Paraiba,2011,10,256
+Paraiba,2012,10,145
+Paraiba,2013,10,233
+Paraiba,2014,10,411
+Paraiba,2015,10,158
+Paraiba,2016,10,193
+Paraiba,2017,10,134
+Paraiba,1998,11,143
+Paraiba,1999,11,447
+Paraiba,2000,11,85
+Paraiba,2001,11,89
+Paraiba,2002,11,425
+Paraiba,2003,11,503
+Paraiba,2004,11,388
+Paraiba,2005,11,597
+Paraiba,2006,11,60
+Paraiba,2007,11,59
+Paraiba,2008,11,39
+Paraiba,2009,11,90
+Paraiba,2010,11,183
+Paraiba,2011,11,138
+Paraiba,2012,11,142
+Paraiba,2013,11,126
+Paraiba,2014,11,68
+Paraiba,2015,11,18
+Paraiba,2016,11,275
+Paraiba,2017,11,292
+Paraiba,1998,12,82
+Paraiba,1999,12,254
+Paraiba,2000,12,159
+Paraiba,2001,12,85
+Paraiba,2002,12,165
+Paraiba,2003,12,171
+Paraiba,2004,12,151
+Paraiba,2005,12,40
+Paraiba,2006,12,6
+Paraiba,2007,12,22
+Paraiba,2008,12,62
+Paraiba,2009,12,30
+Paraiba,2010,12,37
+Paraiba,2011,12,78
+Paraiba,2012,12,54
+Paraiba,2013,12,155
+Paraiba,2014,12,78
+Paraiba,2015,12,30
+Paraiba,2016,12,45
+Pernambuco,1998,1,0
+Pernambuco,1999,1,102
+Pernambuco,2000,1,3
+Pernambuco,2001,1,7
+Pernambuco,2002,1,10
+Pernambuco,2003,1,188
+Pernambuco,2004,1,29
+Pernambuco,2005,1,221
+Pernambuco,2006,1,148
+Pernambuco,2007,1,156
+Pernambuco,2008,1,170
+Pernambuco,2009,1,256
+Pernambuco,2010,1,47
+Pernambuco,2011,1,49
+Pernambuco,2012,1,146
+Pernambuco,2013,1,55
+Pernambuco,2014,1,99
+Pernambuco,2015,1,109
+Pernambuco,2016,1,24
+Pernambuco,2017,1,52
+Pernambuco,1998,2,0
+Pernambuco,1999,2,13
+Pernambuco,2000,2,4
+Pernambuco,2001,2,2
+Pernambuco,2002,2,19
+Pernambuco,2003,2,35
+Pernambuco,2004,2,8
+Pernambuco,2005,2,33
+Pernambuco,2006,2,41
+Pernambuco,2007,2,21
+Pernambuco,2008,2,48
+Pernambuco,2009,2,28
+Pernambuco,2010,2,33
+Pernambuco,2011,2,25
+Pernambuco,2012,2,64
+Pernambuco,2013,2,29
+Pernambuco,2014,2,25
+Pernambuco,2015,2,55
+Pernambuco,2016,2,19
+Pernambuco,2017,2,23
+Pernambuco,1998,3,0
+Pernambuco,1999,3,27
+Pernambuco,2000,3,14
+Pernambuco,2001,3,0
+Pernambuco,2002,3,24
+Pernambuco,2003,3,9
+Pernambuco,2004,3,6
+Pernambuco,2005,3,45
+Pernambuco,2006,3,18
+Pernambuco,2007,3,4
+Pernambuco,2008,3,32
+Pernambuco,2009,3,15
+Pernambuco,2010,3,59
+Pernambuco,2011,3,39
+Pernambuco,2012,3,44
+Pernambuco,2013,3,40
+Pernambuco,2014,3,36
+Pernambuco,2015,3,33
+Pernambuco,2016,3,4
+Pernambuco,2017,3,7
+Pernambuco,1998,4,0
+Pernambuco,1999,4,2
+Pernambuco,2000,4,1
+Pernambuco,2001,4,2
+Pernambuco,2002,4,5
+Pernambuco,2003,4,7
+Pernambuco,2004,4,5
+Pernambuco,2005,4,1
+Pernambuco,2006,4,2
+Pernambuco,2007,4,1
+Pernambuco,2008,4,5
+Pernambuco,2009,4,3
+Pernambuco,2010,4,2
+Pernambuco,2011,4,22
+Pernambuco,2012,4,46
+Pernambuco,2013,4,11
+Pernambuco,2014,4,10
+Pernambuco,2015,4,30
+Pernambuco,2016,4,8
+Pernambuco,2017,4,9
+Pernambuco,1998,5,0
+Pernambuco,1999,5,6
+Pernambuco,2000,5,7
+Pernambuco,2001,5,5
+Pernambuco,2002,5,13
+Pernambuco,2003,5,1
+Pernambuco,2004,5,2
+Pernambuco,2005,5,1
+Pernambuco,2006,5,1
+Pernambuco,2007,5,0
+Pernambuco,2008,5,0
+Pernambuco,2009,5,0
+Pernambuco,2010,5,8
+Pernambuco,2011,5,1
+Pernambuco,2012,5,36
+Pernambuco,2013,5,9
+Pernambuco,2014,5,4
+Pernambuco,2015,5,17
+Pernambuco,2016,5,6
+Pernambuco,2017,5,13
+Pernambuco,1998,6,1
+Pernambuco,1999,6,7
+Pernambuco,2000,6,4
+Pernambuco,2001,6,2
+Pernambuco,2002,6,1
+Pernambuco,2003,6,2
+Pernambuco,2004,6,4
+Pernambuco,2005,6,3
+Pernambuco,2006,6,0
+Pernambuco,2007,6,1
+Pernambuco,2008,6,0
+Pernambuco,2009,6,1
+Pernambuco,2010,6,1
+Pernambuco,2011,6,4
+Pernambuco,2012,6,12
+Pernambuco,2013,6,12
+Pernambuco,2014,6,3
+Pernambuco,2015,6,3
+Pernambuco,2016,6,4
+Pernambuco,2017,6,5
+Pernambuco,1998,7,5
+Pernambuco,1999,7,2
+Pernambuco,2000,7,0
+Pernambuco,2001,7,6
+Pernambuco,2002,7,8
+Pernambuco,2003,7,5
+Pernambuco,2004,7,13
+Pernambuco,2005,7,1
+Pernambuco,2006,7,1
+Pernambuco,2007,7,3
+Pernambuco,2008,7,0
+Pernambuco,2009,7,1
+Pernambuco,2010,7,7
+Pernambuco,2011,7,2
+Pernambuco,2012,7,11
+Pernambuco,2013,7,4
+Pernambuco,2014,7,11
+Pernambuco,2015,7,13
+Pernambuco,2016,7,17
+Pernambuco,2017,7,2
+Pernambuco,1998,8,12
+Pernambuco,1999,8,3
+Pernambuco,2000,8,31
+Pernambuco,2001,8,27
+Pernambuco,2002,8,37
+Pernambuco,2003,8,26
+Pernambuco,2004,8,41
+Pernambuco,2005,8,10
+Pernambuco,2006,8,8
+Pernambuco,2007,8,20
+Pernambuco,2008,8,2
+Pernambuco,2009,8,10
+Pernambuco,2010,8,29
+Pernambuco,2011,8,27
+Pernambuco,2012,8,27
+Pernambuco,2013,8,14
+Pernambuco,2014,8,23
+Pernambuco,2015,8,21
+Pernambuco,2016,8,42
+Pernambuco,2017,8,20
+Pernambuco,1998,9,177
+Pernambuco,1999,9,64
+Pernambuco,2000,9,130
+Pernambuco,2001,9,298
+Pernambuco,2002,9,374
+Pernambuco,2003,9,510
+Pernambuco,2004,9,192
+Pernambuco,2005,9,154
+Pernambuco,2006,9,147
+Pernambuco,2007,9,164
+Pernambuco,2008,9,92
+Pernambuco,2009,9,164
+Pernambuco,2010,9,179
+Pernambuco,2011,9,243
+Pernambuco,2012,9,192
+Pernambuco,2013,9,143
+Pernambuco,2014,9,63
+Pernambuco,2015,9,116
+Pernambuco,2016,9,171
+Pernambuco,2017,9,69
+Pernambuco,1998,10,372
+Pernambuco,1999,10,180
+Pernambuco,2000,10,411
+Pernambuco,2001,10,461
+Pernambuco,2002,10,638
+Pernambuco,2003,10,859
+Pernambuco,2004,10,545
+Pernambuco,2005,10,408
+Pernambuco,2006,10,310
+Pernambuco,2007,10,702
+Pernambuco,2008,10,274
+Pernambuco,2009,10,254
+Pernambuco,2010,10,347
+Pernambuco,2011,10,461
+Pernambuco,2012,10,222
+Pernambuco,2013,10,161
+Pernambuco,2014,10,174
+Pernambuco,2015,10,194
+Pernambuco,2016,10,319
+Pernambuco,2017,10,256
+Pernambuco,1998,11,141
+Pernambuco,1999,11,41
+Pernambuco,2000,11,64
+Pernambuco,2001,11,208
+Pernambuco,2002,11,521
+Pernambuco,2003,11,560
+Pernambuco,2004,11,465
+Pernambuco,2005,11,452
+Pernambuco,2006,11,385
+Pernambuco,2007,11,359
+Pernambuco,2008,11,363
+Pernambuco,2009,11,486
+Pernambuco,2010,11,831
+Pernambuco,2011,11,352
+Pernambuco,2012,11,181
+Pernambuco,2013,11,110
+Pernambuco,2014,11,111
+Pernambuco,2015,11,315
+Pernambuco,2016,11,191
+Pernambuco,2017,11,66
+Pernambuco,1998,12,59
+Pernambuco,1999,12,16
+Pernambuco,2000,12,22
+Pernambuco,2001,12,62
+Pernambuco,2002,12,259
+Pernambuco,2003,12,229
+Pernambuco,2004,12,373
+Pernambuco,2005,12,191
+Pernambuco,2006,12,207
+Pernambuco,2007,12,200
+Pernambuco,2008,12,203
+Pernambuco,2009,12,351
+Pernambuco,2010,12,117
+Pernambuco,2011,12,364
+Pernambuco,2012,12,108
+Pernambuco,2013,12,141
+Pernambuco,2014,12,101
+Pernambuco,2015,12,176
+Pernambuco,2016,12,161
+Piau,1998,1,0
+Piau,1999,1,21
+Piau,2000,1,5
+Piau,2001,1,29
+Piau,2002,1,33
+Piau,2003,1,86
+Piau,2004,1,42
+Piau,2005,1,94
+Piau,2006,1,133
+Piau,2007,1,123
+Piau,2008,1,61
+Piau,2009,1,79
+Piau,2010,1,99
+Piau,2011,1,39
+Piau,2012,1,80
+Piau,2013,1,72
+Piau,2014,1,79
+Piau,2015,1,92
+Piau,2016,1,94
+Piau,2017,1,85
+Piau,1998,2,0
+Piau,1999,2,22
+Piau,2000,2,12
+Piau,2001,2,0
+Piau,2002,2,160
+Piau,2003,2,3
+Piau,2004,2,20
+Piau,2005,2,26
+Piau,2006,2,23
+Piau,2007,2,11
+Piau,2008,2,21
+Piau,2009,2,19
+Piau,2010,2,54
+Piau,2011,2,11
+Piau,2012,2,31
+Piau,2013,2,68
+Piau,2014,2,14
+Piau,2015,2,38
+Piau,2016,2,97
+Piau,2017,2,24
+Piau,1998,3,0
+Piau,1999,3,4
+Piau,2000,3,14
+Piau,2001,3,2
+Piau,2002,3,63
+Piau,2003,3,15
+Piau,2004,3,27
+Piau,2005,3,13
+Piau,2006,3,18
+Piau,2007,3,31
+Piau,2008,3,4
+Piau,2009,3,17
+Piau,2010,3,47
+Piau,2011,3,15
+Piau,2012,3,71
+Piau,2013,3,14
+Piau,2014,3,88
+Piau,2015,3,35
+Piau,2016,3,53
+Piau,2017,3,25
+Piau,1998,4,0
+Piau,1999,4,10
+Piau,2000,4,15
+Piau,2001,4,1
+Piau,2002,4,87
+Piau,2003,4,22
+Piau,2004,4,10
+Piau,2005,4,3
+Piau,2006,4,1
+Piau,2007,4,9
+Piau,2008,4,7
+Piau,2009,4,8
+Piau,2010,4,56
+Piau,2011,4,16
+Piau,2012,4,119
+Piau,2013,4,34
+Piau,2014,4,63
+Piau,2015,4,50
+Piau,2016,4,35
+Piau,2017,4,25
+Piau,1998,5,0
+Piau,1999,5,8
+Piau,2000,5,25
+Piau,2001,5,36
+Piau,2002,5,84
+Piau,2003,5,13
+Piau,2004,5,80
+Piau,2005,5,22
+Piau,2006,5,0
+Piau,2007,5,52
+Piau,2008,5,12
+Piau,2009,5,12
+Piau,2010,5,231
+Piau,2011,5,77
+Piau,2012,5,334
+Piau,2013,5,40
+Piau,2014,5,138
+Piau,2015,5,66
+Piau,2016,5,60
+Piau,2017,5,36
+Piau,1998,6,46
+Piau,1999,6,47
+Piau,2000,6,18
+Piau,2001,6,87
+Piau,2002,6,161
+Piau,2003,6,88
+Piau,2004,6,239
+Piau,2005,6,171
+Piau,2006,6,40
+Piau,2007,6,303
+Piau,2008,6,33
+Piau,2009,6,56
+Piau,2010,6,208
+Piau,2011,6,462
+Piau,2012,6,834
+Piau,2013,6,263
+Piau,2014,6,373
+Piau,2015,6,283
+Piau,2016,6,153
+Piau,2017,6,193
+Piau,1998,7,189
+Piau,1999,7,123
+Piau,2000,7,75
+Piau,2001,7,337
+Piau,2002,7,534
+Piau,2003,7,407
+Piau,2004,7,564
+Piau,2005,7,445
+Piau,2006,7,150
+Piau,2007,7,919
+Piau,2008,7,97
+Piau,2009,7,302
+Piau,2010,7,1.696
+Piau,2011,7,864
+Piau,2012,7,1.755
+Piau,2013,7,361
+Piau,2014,7,1.177
+Piau,2015,7,690
+Piau,2016,7,754
+Piau,2017,7,643
+Piau,1998,8,711
+Piau,1999,8,499
+Piau,2000,8,415
+Piau,2001,8,1.133
+Piau,2002,8,2.28
+Piau,2003,8,864
+Piau,2004,8,1.002
+Piau,2005,8,943
+Piau,2006,8,911
+Piau,2007,8,3.551
+Piau,2008,8,290
+Piau,2009,8,790
+Piau,2010,8,4.035
+Piau,2011,8,1.958
+Piau,2012,8,3.614
+Piau,2013,8,1.015
+Piau,2014,8,2.265
+Piau,2015,8,2.057
+Piau,2016,8,1.647
+Piau,2017,8,1.572
+Piau,1998,9,1.991
+Piau,1999,9,872
+Piau,2000,9,1.099
+Piau,2001,9,2.401
+Piau,2002,9,2.475
+Piau,2003,9,3.399
+Piau,2004,9,2.662
+Piau,2005,9,3.136
+Piau,2006,9,1.618
+Piau,2007,9,4.078
+Piau,2008,9,1.472
+Piau,2009,9,1.709
+Piau,2010,9,5.392
+Piau,2011,9,4.402
+Piau,2012,9,4.479
+Piau,2013,9,2.311
+Piau,2014,9,2.536
+Piau,2015,9,5.828
+Piau,2016,9,1.394
+Piau,2017,9,3.422
+Piau,1998,10,2.586
+Piau,1999,10,1.438
+Piau,2000,10,2.558
+Piau,2001,10,3.742
+Piau,2002,10,2.757
+Piau,2003,10,2.332
+Piau,2004,10,2.144
+Piau,2005,10,3.263
+Piau,2006,10,1.443
+Piau,2007,10,2.331
+Piau,2008,10,1.83
+Piau,2009,10,913
+Piau,2010,10,3.863
+Piau,2011,10,1.484
+Piau,2012,10,2.506
+Piau,2013,10,1.269
+Piau,2014,10,1.788
+Piau,2015,10,4.068
+Piau,2016,10,2.598
+Piau,2017,10,3.004
+Piau,1998,11,424
+Piau,1999,11,334
+Piau,2000,11,450
+Piau,2001,11,1.484
+Piau,2002,11,1.174
+Piau,2003,11,1.248
+Piau,2004,11,1.798
+Piau,2005,11,1.599
+Piau,2006,11,740
+Piau,2007,11,939
+Piau,2008,11,594
+Piau,2009,11,1.336
+Piau,2010,11,1.417
+Piau,2011,11,825
+Piau,2012,11,447
+Piau,2013,11,640
+Piau,2014,11,717
+Piau,2015,11,897
+Piau,2016,11,1.126
+Piau,2017,11,449
+Piau,1998,12,119
+Piau,1999,12,74
+Piau,2000,12,79
+Piau,2001,12,230
+Piau,2002,12,373
+Piau,2003,12,459
+Piau,2004,12,788
+Piau,2005,12,486
+Piau,2006,12,339
+Piau,2007,12,317
+Piau,2008,12,329
+Piau,2009,12,570
+Piau,2010,12,357
+Piau,2011,12,362
+Piau,2012,12,334
+Piau,2013,12,468
+Piau,2014,12,346
+Piau,2015,12,626
+Piau,2016,12,374
+Rio,1998,1,0
+Rio,1999,1,0
+Rio,2000,1,0
+Rio,2001,1,0
+Rio,2002,1,0
+Rio,2003,1,0
+Rio,2004,1,1
+Rio,2005,1,5
+Rio,2006,1,12
+Rio,2007,1,0
+Rio,2008,1,1
+Rio,2009,1,3
+Rio,2010,1,13
+Rio,2011,1,10
+Rio,2012,1,12
+Rio,2013,1,9
+Rio,2014,1,35
+Rio,2015,1,97
+Rio,2016,1,9
+Rio,2017,1,15
+Rio,1998,2,0
+Rio,1999,2,0
+Rio,2000,2,1
+Rio,2001,2,3
+Rio,2002,2,1
+Rio,2003,2,10
+Rio,2004,2,8
+Rio,2005,2,4
+Rio,2006,2,7
+Rio,2007,2,15
+Rio,2008,2,2
+Rio,2009,2,5
+Rio,2010,2,73
+Rio,2011,2,36
+Rio,2012,2,11
+Rio,2013,2,12
+Rio,2014,2,116
+Rio,2015,2,36
+Rio,2016,2,16
+Rio,2017,2,34
+Rio,1998,3,0
+Rio,1999,3,0
+Rio,2000,3,0
+Rio,2001,3,0
+Rio,2002,3,1
+Rio,2003,3,23
+Rio,2004,3,4
+Rio,2005,3,7
+Rio,2006,3,8
+Rio,2007,3,27
+Rio,2008,3,2
+Rio,2009,3,5
+Rio,2010,3,10
+Rio,2011,3,7
+Rio,2012,3,20
+Rio,2013,3,9
+Rio,2014,3,38
+Rio,2015,3,23
+Rio,2016,3,16
+Rio,2017,3,10
+Rio,1998,4,0
+Rio,1999,4,1
+Rio,2000,4,2
+Rio,2001,4,2
+Rio,2002,4,8
+Rio,2003,4,11
+Rio,2004,4,3
+Rio,2005,4,1
+Rio,2006,4,8
+Rio,2007,4,9
+Rio,2008,4,2
+Rio,2009,4,1
+Rio,2010,4,10
+Rio,2011,4,12
+Rio,2012,4,12
+Rio,2013,4,9
+Rio,2014,4,25
+Rio,2015,4,24
+Rio,2016,4,45
+Rio,2017,4,12
+Rio,1998,5,0
+Rio,1999,5,7
+Rio,2000,5,5
+Rio,2001,5,4
+Rio,2002,5,4
+Rio,2003,5,1
+Rio,2004,5,0
+Rio,2005,5,11
+Rio,2006,5,4
+Rio,2007,5,2
+Rio,2008,5,0
+Rio,2009,5,37
+Rio,2010,5,6
+Rio,2011,5,17
+Rio,2012,5,18
+Rio,2013,5,16
+Rio,2014,5,20
+Rio,2015,5,21
+Rio,2016,5,30
+Rio,2017,5,15
+Rio,1998,6,3
+Rio,1999,6,8
+Rio,2000,6,14
+Rio,2001,6,13
+Rio,2002,6,13
+Rio,2003,6,13
+Rio,2004,6,19
+Rio,2005,6,16
+Rio,2006,6,19
+Rio,2007,6,3
+Rio,2008,6,4
+Rio,2009,6,33
+Rio,2010,6,7
+Rio,2011,6,33
+Rio,2012,6,14
+Rio,2013,6,17
+Rio,2014,6,54
+Rio,2015,6,33
+Rio,2016,6,37
+Rio,2017,6,68
+Rio,1998,7,21
+Rio,1999,7,14
+Rio,2000,7,22
+Rio,2001,7,57
+Rio,2002,7,17
+Rio,2003,7,42
+Rio,2004,7,23
+Rio,2005,7,20
+Rio,2006,7,54
+Rio,2007,7,15
+Rio,2008,7,14
+Rio,2009,7,56
+Rio,2010,7,55
+Rio,2011,7,121
+Rio,2012,7,50
+Rio,2013,7,58
+Rio,2014,7,62
+Rio,2015,7,74
+Rio,2016,7,131
+Rio,2017,7,70
+Rio,1998,8,21
+Rio,1999,8,88
+Rio,2000,8,34
+Rio,2001,8,129
+Rio,2002,8,184
+Rio,2003,8,191
+Rio,2004,8,74
+Rio,2005,8,98
+Rio,2006,8,79
+Rio,2007,8,189
+Rio,2008,8,19
+Rio,2009,8,91
+Rio,2010,8,316
+Rio,2011,8,250
+Rio,2012,8,72
+Rio,2013,8,74
+Rio,2014,8,199
+Rio,2015,8,158
+Rio,2016,8,241
+Rio,2017,8,164
+Rio,1998,9,44
+Rio,1999,9,192
+Rio,2000,9,16
+Rio,2001,9,60
+Rio,2002,9,45
+Rio,2003,9,166
+Rio,2004,9,205
+Rio,2005,9,46
+Rio,2006,9,197
+Rio,2007,9,223
+Rio,2008,9,132
+Rio,2009,9,90
+Rio,2010,9,353
+Rio,2011,9,510
+Rio,2012,9,172
+Rio,2013,9,117
+Rio,2014,9,318
+Rio,2015,9,85
+Rio,2016,9,195
+Rio,2017,9,728
+Rio,1998,10,6
+Rio,1999,10,30
+Rio,2000,10,25
+Rio,2001,10,33
+Rio,2002,10,313
+Rio,2003,10,81
+Rio,2004,10,26
+Rio,2005,10,116
+Rio,2006,10,12
+Rio,2007,10,137
+Rio,2008,10,42
+Rio,2009,10,18
+Rio,2010,10,35
+Rio,2011,10,114
+Rio,2012,10,163
+Rio,2013,10,44
+Rio,2014,10,500
+Rio,2015,10,96
+Rio,2016,10,30
+Rio,2017,10,238
+Rio,1998,11,6
+Rio,1999,11,16
+Rio,2000,11,2
+Rio,2001,11,4
+Rio,2002,11,11
+Rio,2003,11,5
+Rio,2004,11,49
+Rio,2005,11,12
+Rio,2006,11,1
+Rio,2007,11,1
+Rio,2008,11,0
+Rio,2009,11,27
+Rio,2010,11,23
+Rio,2011,11,20
+Rio,2012,11,13
+Rio,2013,11,28
+Rio,2014,11,36
+Rio,2015,11,6
+Rio,2016,11,19
+Rio,2017,11,43
+Rio,1998,12,1
+Rio,1999,12,0
+Rio,2000,12,0
+Rio,2001,12,2
+Rio,2002,12,8
+Rio,2003,12,10
+Rio,2004,12,9
+Rio,2005,12,2
+Rio,2006,12,0
+Rio,2007,12,0
+Rio,2008,12,6
+Rio,2009,12,1
+Rio,2010,12,10
+Rio,2011,12,3
+Rio,2012,12,18
+Rio,2013,12,12
+Rio,2014,12,25
+Rio,2015,12,11
+Rio,2016,12,5
+Rio,1998,1,0
+Rio,1999,1,32
+Rio,2000,1,1
+Rio,2001,1,2
+Rio,2002,1,4
+Rio,2003,1,113
+Rio,2004,1,44
+Rio,2005,1,153
+Rio,2006,1,93
+Rio,2007,1,63
+Rio,2008,1,70
+Rio,2009,1,110
+Rio,2010,1,32
+Rio,2011,1,15
+Rio,2012,1,72
+Rio,2013,1,25
+Rio,2014,1,34
+Rio,2015,1,45
+Rio,2016,1,15
+Rio,2017,1,28
+Rio,1998,2,0
+Rio,1999,2,11
+Rio,2000,2,7
+Rio,2001,2,0
+Rio,2002,2,18
+Rio,2003,2,9
+Rio,2004,2,5
+Rio,2005,2,42
+Rio,2006,2,21
+Rio,2007,2,9
+Rio,2008,2,25
+Rio,2009,2,8
+Rio,2010,2,12
+Rio,2011,2,5
+Rio,2012,2,13
+Rio,2013,2,24
+Rio,2014,2,8
+Rio,2015,2,15
+Rio,2016,2,2
+Rio,2017,2,10
+Rio,1998,3,0
+Rio,1999,3,9
+Rio,2000,3,11
+Rio,2001,3,0
+Rio,2002,3,3
+Rio,2003,3,1
+Rio,2004,3,1
+Rio,2005,3,15
+Rio,2006,3,8
+Rio,2007,3,7
+Rio,2008,3,3
+Rio,2009,3,2
+Rio,2010,3,23
+Rio,2011,3,3
+Rio,2012,3,2
+Rio,2013,3,6
+Rio,2014,3,6
+Rio,2015,3,3
+Rio,2016,3,1
+Rio,2017,3,3
+Rio,1998,4,0
+Rio,1999,4,21
+Rio,2000,4,16
+Rio,2001,4,10
+Rio,2002,4,0
+Rio,2003,4,2
+Rio,2004,4,3
+Rio,2005,4,2
+Rio,2006,4,2
+Rio,2007,4,1
+Rio,2008,4,0
+Rio,2009,4,1
+Rio,2010,4,7
+Rio,2011,4,0
+Rio,2012,4,4
+Rio,2013,4,7
+Rio,2014,4,2
+Rio,2015,4,4
+Rio,2016,4,0
+Rio,2017,4,6
+Rio,1998,5,0
+Rio,1999,5,1
+Rio,2000,5,3
+Rio,2001,5,56
+Rio,2002,5,6
+Rio,2003,5,0
+Rio,2004,5,2
+Rio,2005,5,3
+Rio,2006,5,0
+Rio,2007,5,2
+Rio,2008,5,0
+Rio,2009,5,0
+Rio,2010,5,3
+Rio,2011,5,0
+Rio,2012,5,14
+Rio,2013,5,2
+Rio,2014,5,2
+Rio,2015,5,4
+Rio,2016,5,1
+Rio,2017,5,2
+Rio,1998,6,1
+Rio,1999,6,4
+Rio,2000,6,8
+Rio,2001,6,13
+Rio,2002,6,1
+Rio,2003,6,1
+Rio,2004,6,2
+Rio,2005,6,0
+Rio,2006,6,0
+Rio,2007,6,0
+Rio,2008,6,0
+Rio,2009,6,0
+Rio,2010,6,1
+Rio,2011,6,1
+Rio,2012,6,5
+Rio,2013,6,1
+Rio,2014,6,2
+Rio,2015,6,5
+Rio,2016,6,4
+Rio,2017,6,3
+Rio,1998,7,5
+Rio,1999,7,7
+Rio,2000,7,5
+Rio,2001,7,25
+Rio,2002,7,7
+Rio,2003,7,7
+Rio,2004,7,5
+Rio,2005,7,2
+Rio,2006,7,0
+Rio,2007,7,7
+Rio,2008,7,0
+Rio,2009,7,0
+Rio,2010,7,7
+Rio,2011,7,0
+Rio,2012,7,3
+Rio,2013,7,0
+Rio,2014,7,2
+Rio,2015,7,3
+Rio,2016,7,13
+Rio,2017,7,4
+Rio,1998,8,4
+Rio,1999,8,40
+Rio,2000,8,29
+Rio,2001,8,55
+Rio,2002,8,48
+Rio,2003,8,97
+Rio,2004,8,15
+Rio,2005,8,9
+Rio,2006,8,13
+Rio,2007,8,26
+Rio,2008,8,2
+Rio,2009,8,1
+Rio,2010,8,24
+Rio,2011,8,10
+Rio,2012,8,23
+Rio,2013,8,2
+Rio,2014,8,21
+Rio,2015,8,16
+Rio,2016,8,24
+Rio,2017,8,21
+Rio,1998,9,51
+Rio,1999,9,35
+Rio,2000,9,17
+Rio,2001,9,45
+Rio,2002,9,52
+Rio,2003,9,112
+Rio,2004,9,47
+Rio,2005,9,37
+Rio,2006,9,50
+Rio,2007,9,50
+Rio,2008,9,17
+Rio,2009,9,29
+Rio,2010,9,50
+Rio,2011,9,22
+Rio,2012,9,41
+Rio,2013,9,7
+Rio,2014,9,30
+Rio,2015,9,36
+Rio,2016,9,44
+Rio,2017,9,48
+Rio,1998,10,55
+Rio,1999,10,40
+Rio,2000,10,28
+Rio,2001,10,34
+Rio,2002,10,140
+Rio,2003,10,276
+Rio,2004,10,89
+Rio,2005,10,168
+Rio,2006,10,85
+Rio,2007,10,88
+Rio,2008,10,53
+Rio,2009,10,84
+Rio,2010,10,111
+Rio,2011,10,76
+Rio,2012,10,74
+Rio,2013,10,71
+Rio,2014,10,75
+Rio,2015,10,129
+Rio,2016,10,129
+Rio,2017,10,85
+Rio,1998,11,41
+Rio,1999,11,62
+Rio,2000,11,9
+Rio,2001,11,41
+Rio,2002,11,178
+Rio,2003,11,366
+Rio,2004,11,164
+Rio,2005,11,249
+Rio,2006,11,148
+Rio,2007,11,130
+Rio,2008,11,82
+Rio,2009,11,172
+Rio,2010,11,212
+Rio,2011,11,144
+Rio,2012,11,69
+Rio,2013,11,77
+Rio,2014,11,124
+Rio,2015,11,105
+Rio,2016,11,93
+Rio,2017,11,89
+Rio,1998,12,19
+Rio,1999,12,29
+Rio,2000,12,11
+Rio,2001,12,20
+Rio,2002,12,222
+Rio,2003,12,278
+Rio,2004,12,284
+Rio,2005,12,149
+Rio,2006,12,101
+Rio,2007,12,80
+Rio,2008,12,126
+Rio,2009,12,221
+Rio,2010,12,54
+Rio,2011,12,125
+Rio,2012,12,75
+Rio,2013,12,46
+Rio,2014,12,47
+Rio,2015,12,74
+Rio,2016,12,75
+Rio,1998,1,0
+Rio,1999,1,63
+Rio,2000,1,126
+Rio,2001,1,12
+Rio,2002,1,265
+Rio,2003,1,58
+Rio,2004,1,70
+Rio,2005,1,152
+Rio,2006,1,46
+Rio,2007,1,37
+Rio,2008,1,42
+Rio,2009,1,65
+Rio,2010,1,22
+Rio,2011,1,33
+Rio,2012,1,61
+Rio,2013,1,22
+Rio,2014,1,53
+Rio,2015,1,51
+Rio,2016,1,68
+Rio,2017,1,28
+Rio,1998,2,0
+Rio,1999,2,35
+Rio,2000,2,43
+Rio,2001,2,32
+Rio,2002,2,38
+Rio,2003,2,13
+Rio,2004,2,52
+Rio,2005,2,36
+Rio,2006,2,34
+Rio,2007,2,24
+Rio,2008,2,30
+Rio,2009,2,15
+Rio,2010,2,23
+Rio,2011,2,26
+Rio,2012,2,39
+Rio,2013,2,43
+Rio,2014,2,37
+Rio,2015,2,41
+Rio,2016,2,55
+Rio,2017,2,31
+Rio,1998,3,0
+Rio,1999,3,38
+Rio,2000,3,51
+Rio,2001,3,11
+Rio,2002,3,26
+Rio,2003,3,27
+Rio,2004,3,149
+Rio,2005,3,153
+Rio,2006,3,76
+Rio,2007,3,8
+Rio,2008,3,38
+Rio,2009,3,41
+Rio,2010,3,21
+Rio,2011,3,31
+Rio,2012,3,50
+Rio,2013,3,44
+Rio,2014,3,58
+Rio,2015,3,108
+Rio,2016,3,30
+Rio,2017,3,34
+Rio,1998,4,0
+Rio,1999,4,12
+Rio,2000,4,1
+Rio,2001,4,3
+Rio,2002,4,6
+Rio,2003,4,30
+Rio,2004,4,98
+Rio,2005,4,14
+Rio,2006,4,59
+Rio,2007,4,4
+Rio,2008,4,110
+Rio,2009,4,145
+Rio,2010,4,72
+Rio,2011,4,41
+Rio,2012,4,41
+Rio,2013,4,47
+Rio,2014,4,60
+Rio,2015,4,175
+Rio,2016,4,32
+Rio,2017,4,51
+Rio,1998,5,0
+Rio,1999,5,13
+Rio,2000,5,4
+Rio,2001,5,4
+Rio,2002,5,7
+Rio,2003,5,18
+Rio,2004,5,4
+Rio,2005,5,24
+Rio,2006,5,24
+Rio,2007,5,3
+Rio,2008,5,20
+Rio,2009,5,177
+Rio,2010,5,9
+Rio,2011,5,20
+Rio,2012,5,112
+Rio,2013,5,14
+Rio,2014,5,63
+Rio,2015,5,169
+Rio,2016,5,37
+Rio,2017,5,43
+Rio,1998,6,0
+Rio,1999,6,9
+Rio,2000,6,0
+Rio,2001,6,1
+Rio,2002,6,4
+Rio,2003,6,14
+Rio,2004,6,52
+Rio,2005,6,50
+Rio,2006,6,7
+Rio,2007,6,10
+Rio,2008,6,16
+Rio,2009,6,30
+Rio,2010,6,4
+Rio,2011,6,12
+Rio,2012,6,86
+Rio,2013,6,10
+Rio,2014,6,62
+Rio,2015,6,68
+Rio,2016,6,261
+Rio,2017,6,103
+Rio,1998,7,0
+Rio,1999,7,10
+Rio,2000,7,6
+Rio,2001,7,6
+Rio,2002,7,93
+Rio,2003,7,55
+Rio,2004,7,156
+Rio,2005,7,47
+Rio,2006,7,45
+Rio,2007,7,7
+Rio,2008,7,25
+Rio,2009,7,47
+Rio,2010,7,34
+Rio,2011,7,45
+Rio,2012,7,134
+Rio,2013,7,42
+Rio,2014,7,209
+Rio,2015,7,60
+Rio,2016,7,865
+Rio,2017,7,885
+Rio,1998,8,9
+Rio,1999,8,24
+Rio,2000,8,18
+Rio,2001,8,36
+Rio,2002,8,824
+Rio,2003,8,1.419
+Rio,2004,8,403
+Rio,2005,8,120
+Rio,2006,8,642
+Rio,2007,8,258
+Rio,2008,8,56
+Rio,2009,8,1.057
+Rio,2010,8,267
+Rio,2011,8,116
+Rio,2012,8,410
+Rio,2013,8,156
+Rio,2014,8,1.168
+Rio,2015,8,414
+Rio,2016,8,1.111
+Rio,2017,8,819
+Rio,1998,9,60
+Rio,1999,9,19
+Rio,2000,9,27
+Rio,2001,9,2
+Rio,2002,9,226
+Rio,2003,9,828
+Rio,2004,9,431
+Rio,2005,9,189
+Rio,2006,9,444
+Rio,2007,9,573
+Rio,2008,9,97
+Rio,2009,9,39
+Rio,2010,9,250
+Rio,2011,9,449
+Rio,2012,9,113
+Rio,2013,9,290
+Rio,2014,9,224
+Rio,2015,9,222
+Rio,2016,9,628
+Rio,2017,9,343
+Rio,1998,10,169
+Rio,1999,10,56
+Rio,2000,10,10
+Rio,2001,10,13
+Rio,2002,10,10
+Rio,2003,10,360
+Rio,2004,10,680
+Rio,2005,10,83
+Rio,2006,10,160
+Rio,2007,10,21
+Rio,2008,10,135
+Rio,2009,10,148
+Rio,2010,10,95
+Rio,2011,10,74
+Rio,2012,10,91
+Rio,2013,10,104
+Rio,2014,10,110
+Rio,2015,10,70
+Rio,2016,10,93
+Rio,2017,10,101
+Rio,1998,11,28
+Rio,1999,11,103
+Rio,2000,11,18
+Rio,2001,11,49
+Rio,2002,11,117
+Rio,2003,11,121
+Rio,2004,11,161
+Rio,2005,11,227
+Rio,2006,11,27
+Rio,2007,11,13
+Rio,2008,11,14
+Rio,2009,11,4
+Rio,2010,11,90
+Rio,2011,11,117
+Rio,2012,11,74
+Rio,2013,11,110
+Rio,2014,11,68
+Rio,2015,11,30
+Rio,2016,11,105
+Rio,2017,11,137
+Rio,1998,12,605
+Rio,1999,12,1.11
+Rio,2000,12,80
+Rio,2001,12,80
+Rio,2002,12,45
+Rio,2003,12,98
+Rio,2004,12,99
+Rio,2005,12,35
+Rio,2006,12,15
+Rio,2007,12,25
+Rio,2008,12,32
+Rio,2009,12,15
+Rio,2010,12,103
+Rio,2011,12,69
+Rio,2012,12,38
+Rio,2013,12,62
+Rio,2014,12,31
+Rio,2015,12,42
+Rio,2016,12,79
+Rondonia,1998,1,0
+Rondonia,1999,1,1
+Rondonia,2000,1,0
+Rondonia,2001,1,0
+Rondonia,2002,1,6
+Rondonia,2003,1,62
+Rondonia,2004,1,30
+Rondonia,2005,1,99
+Rondonia,2006,1,16
+Rondonia,2007,1,33
+Rondonia,2008,1,4
+Rondonia,2009,1,17
+Rondonia,2010,1,18
+Rondonia,2011,1,1
+Rondonia,2012,1,2
+Rondonia,2013,1,7
+Rondonia,2014,1,12
+Rondonia,2015,1,30
+Rondonia,2016,1,93
+Rondonia,2017,1,44
+Rondonia,1998,2,0
+Rondonia,1999,2,1
+Rondonia,2000,2,6
+Rondonia,2001,2,2
+Rondonia,2002,2,8
+Rondonia,2003,2,10
+Rondonia,2004,2,12
+Rondonia,2005,2,42
+Rondonia,2006,2,17
+Rondonia,2007,2,8
+Rondonia,2008,2,7
+Rondonia,2009,2,1
+Rondonia,2010,2,9
+Rondonia,2011,2,2
+Rondonia,2012,2,9
+Rondonia,2013,2,8
+Rondonia,2014,2,5
+Rondonia,2015,2,22
+Rondonia,2016,2,88
+Rondonia,2017,2,10
+Rondonia,1998,3,0
+Rondonia,1999,3,8
+Rondonia,2000,3,9
+Rondonia,2001,3,0
+Rondonia,2002,3,1
+Rondonia,2003,3,13
+Rondonia,2004,3,20
+Rondonia,2005,3,17
+Rondonia,2006,3,15
+Rondonia,2007,3,20
+Rondonia,2008,3,2
+Rondonia,2009,3,12
+Rondonia,2010,3,11
+Rondonia,2011,3,6
+Rondonia,2012,3,6
+Rondonia,2013,3,23
+Rondonia,2014,3,13
+Rondonia,2015,3,15
+Rondonia,2016,3,25
+Rondonia,2017,3,21
+Rondonia,1998,4,0
+Rondonia,1999,4,3
+Rondonia,2000,4,0
+Rondonia,2001,4,0
+Rondonia,2002,4,3
+Rondonia,2003,4,10
+Rondonia,2004,4,14
+Rondonia,2005,4,7
+Rondonia,2006,4,0
+Rondonia,2007,4,0
+Rondonia,2008,4,8
+Rondonia,2009,4,3
+Rondonia,2010,4,19
+Rondonia,2011,4,8
+Rondonia,2012,4,12
+Rondonia,2013,4,9
+Rondonia,2014,4,15
+Rondonia,2015,4,15
+Rondonia,2016,4,59
+Rondonia,2017,4,19
+Rondonia,1998,5,0
+Rondonia,1999,5,3
+Rondonia,2000,5,13
+Rondonia,2001,5,5
+Rondonia,2002,5,10
+Rondonia,2003,5,21
+Rondonia,2004,5,9
+Rondonia,2005,5,38
+Rondonia,2006,5,7
+Rondonia,2007,5,4
+Rondonia,2008,5,1
+Rondonia,2009,5,6
+Rondonia,2010,5,41
+Rondonia,2011,5,54
+Rondonia,2012,5,22
+Rondonia,2013,5,9
+Rondonia,2014,5,28
+Rondonia,2015,5,13
+Rondonia,2016,5,44
+Rondonia,2017,5,31
+Rondonia,1998,6,26
+Rondonia,1999,6,10
+Rondonia,2000,6,54
+Rondonia,2001,6,31
+Rondonia,2002,6,141
+Rondonia,2003,6,74
+Rondonia,2004,6,151
+Rondonia,2005,6,153
+Rondonia,2006,6,40
+Rondonia,2007,6,71
+Rondonia,2008,6,11
+Rondonia,2009,6,13
+Rondonia,2010,6,44
+Rondonia,2011,6,130
+Rondonia,2012,6,32
+Rondonia,2013,6,22
+Rondonia,2014,6,92
+Rondonia,2015,6,119
+Rondonia,2016,6,170
+Rondonia,2017,6,192
+Rondonia,1998,7,365
+Rondonia,1999,7,135
+Rondonia,2000,7,117
+Rondonia,2001,7,74
+Rondonia,2002,7,539
+Rondonia,2003,7,516
+Rondonia,2004,7,1.233
+Rondonia,2005,7,798
+Rondonia,2006,7,314
+Rondonia,2007,7,187
+Rondonia,2008,7,138
+Rondonia,2009,7,110
+Rondonia,2010,7,747
+Rondonia,2011,7,293
+Rondonia,2012,7,205
+Rondonia,2013,7,117
+Rondonia,2014,7,192
+Rondonia,2015,7,423
+Rondonia,2016,7,969
+Rondonia,2017,7,1.28
+Rondonia,1998,8,2.254
+Rondonia,1999,8,1.976
+Rondonia,2000,8,2.197
+Rondonia,2001,8,2.132
+Rondonia,2002,8,3.465
+Rondonia,2003,8,7.06
+Rondonia,2004,8,6.893
+Rondonia,2005,8,6.672
+Rondonia,2006,8,3.124
+Rondonia,2007,8,4.786
+Rondonia,2008,8,1.251
+Rondonia,2009,8,484
+Rondonia,2010,8,4.388
+Rondonia,2011,8,1.161
+Rondonia,2012,8,2.209
+Rondonia,2013,8,885
+Rondonia,2014,8,3.038
+Rondonia,2015,8,3.762
+Rondonia,2016,8,3.675
+Rondonia,2017,8,4.287
+Rondonia,1998,9,3.753
+Rondonia,1999,9,3.062
+Rondonia,2000,9,2.438
+Rondonia,2001,9,1.927
+Rondonia,2002,9,7.067
+Rondonia,2003,9,6.89
+Rondonia,2004,9,13.05
+Rondonia,2005,9,13.972
+Rondonia,2006,9,9.92
+Rondonia,2007,9,6.832
+Rondonia,2008,9,3.726
+Rondonia,2009,9,1.869
+Rondonia,2010,9,4.893
+Rondonia,2011,9,1.782
+Rondonia,2012,9,2.471
+Rondonia,2013,9,1.776
+Rondonia,2014,9,2.8
+Rondonia,2015,9,6.129
+Rondonia,2016,9,4.208
+Rondonia,2017,9,5.638
+Rondonia,1998,10,483
+Rondonia,1999,10,1.884
+Rondonia,2000,10,644
+Rondonia,2001,10,796
+Rondonia,2002,10,3.554
+Rondonia,2003,10,4.962
+Rondonia,2004,10,3.094
+Rondonia,2005,10,2.559
+Rondonia,2006,10,1.148
+Rondonia,2007,10,2.023
+Rondonia,2008,10,1.482
+Rondonia,2009,10,1.444
+Rondonia,2010,10,1.307
+Rondonia,2011,10,822
+Rondonia,2012,10,1.229
+Rondonia,2013,10,555
+Rondonia,2014,10,1.063
+Rondonia,2015,10,2.598
+Rondonia,2016,10,1.844
+Rondonia,2017,10,2.19
+Rondonia,1998,11,3
+Rondonia,1999,11,41
+Rondonia,2000,11,13
+Rondonia,2001,11,91
+Rondonia,2002,11,639
+Rondonia,2003,11,526
+Rondonia,2004,11,452
+Rondonia,2005,11,465
+Rondonia,2006,11,253
+Rondonia,2007,11,53
+Rondonia,2008,11,78
+Rondonia,2009,11,128
+Rondonia,2010,11,238
+Rondonia,2011,11,245
+Rondonia,2012,11,174
+Rondonia,2013,11,108
+Rondonia,2014,11,202
+Rondonia,2015,11,1.002
+Rondonia,2016,11,401
+Rondonia,2017,11,372
+Rondonia,1998,12,33
+Rondonia,1999,12,0
+Rondonia,2000,12,7
+Rondonia,2001,12,1
+Rondonia,2002,12,91
+Rondonia,2003,12,214
+Rondonia,2004,12,208
+Rondonia,2005,12,36
+Rondonia,2006,12,4
+Rondonia,2007,12,6
+Rondonia,2008,12,2
+Rondonia,2009,12,9
+Rondonia,2010,12,158
+Rondonia,2011,12,37
+Rondonia,2012,12,50
+Rondonia,2013,12,143
+Rondonia,2014,12,144
+Rondonia,2015,12,282
+Rondonia,2016,12,148
+Roraima,1998,1,0
+Roraima,1999,1,15
+Roraima,2000,1,18
+Roraima,2001,1,101
+Roraima,2002,1,302
+Roraima,2003,1,547
+Roraima,2004,1,355
+Roraima,2005,1,106
+Roraima,2006,1,70
+Roraima,2007,1,194
+Roraima,2008,1,245
+Roraima,2009,1,45
+Roraima,2010,1,351
+Roraima,2011,1,225
+Roraima,2012,1,217
+Roraima,2013,1,397
+Roraima,2014,1,355
+Roraima,2015,1,330
+Roraima,2016,1,1.754
+Roraima,2017,1,108
+Roraima,1998,2,0
+Roraima,1999,2,20
+Roraima,2000,2,57
+Roraima,2001,2,646
+Roraima,2002,2,476
+Roraima,2003,2,767
+Roraima,2004,2,259
+Roraima,2005,2,105
+Roraima,2006,2,283
+Roraima,2007,2,796
+Roraima,2008,2,138
+Roraima,2009,2,153
+Roraima,2010,2,470
+Roraima,2011,2,112
+Roraima,2012,2,130
+Roraima,2013,2,62
+Roraima,2014,2,226
+Roraima,2015,2,418
+Roraima,2016,2,171
+Roraima,2017,2,129
+Roraima,1998,3,0
+Roraima,1999,3,98
+Roraima,2000,3,125
+Roraima,2001,3,1.108
+Roraima,2002,3,820
+Roraima,2003,3,1.131
+Roraima,2004,3,276
+Roraima,2005,3,244
+Roraima,2006,3,385
+Roraima,2007,3,665
+Roraima,2008,3,422
+Roraima,2009,3,176
+Roraima,2010,3,417
+Roraima,2011,3,91
+Roraima,2012,3,99
+Roraima,2013,3,179
+Roraima,2014,3,494
+Roraima,2015,3,163
+Roraima,2016,3,1.081
+Roraima,2017,3,216
+Roraima,1998,4,0
+Roraima,1999,4,16
+Roraima,2000,4,0
+Roraima,2001,4,380
+Roraima,2002,4,41
+Roraima,2003,4,268
+Roraima,2004,4,182
+Roraima,2005,4,22
+Roraima,2006,4,201
+Roraima,2007,4,58
+Roraima,2008,4,175
+Roraima,2009,4,115
+Roraima,2010,4,15
+Roraima,2011,4,108
+Roraima,2012,4,25
+Roraima,2013,4,87
+Roraima,2014,4,162
+Roraima,2015,4,278
+Roraima,2016,4,126
+Roraima,2017,4,51
+Roraima,1998,5,0
+Roraima,1999,5,0
+Roraima,2000,5,7
+Roraima,2001,5,9
+Roraima,2002,5,0
+Roraima,2003,5,0
+Roraima,2004,5,2
+Roraima,2005,5,1
+Roraima,2006,5,0
+Roraima,2007,5,0
+Roraima,2008,5,8
+Roraima,2009,5,219
+Roraima,2010,5,3
+Roraima,2011,5,4
+Roraima,2012,5,18
+Roraima,2013,5,4
+Roraima,2014,5,58
+Roraima,2015,5,12
+Roraima,2016,5,22
+Roraima,2017,5,29
+Roraima,1998,6,0
+Roraima,1999,6,3
+Roraima,2000,6,0
+Roraima,2001,6,1
+Roraima,2002,6,0
+Roraima,2003,6,0
+Roraima,2004,6,6
+Roraima,2005,6,5
+Roraima,2006,6,0
+Roraima,2007,6,1
+Roraima,2008,6,0
+Roraima,2009,6,16
+Roraima,2010,6,0
+Roraima,2011,6,6
+Roraima,2012,6,22
+Roraima,2013,6,6
+Roraima,2014,6,4
+Roraima,2015,6,3
+Roraima,2016,6,7
+Roraima,2017,6,4
+Roraima,1998,7,1
+Roraima,1999,7,4
+Roraima,2000,7,0
+Roraima,2001,7,1
+Roraima,2002,7,7
+Roraima,2003,7,0
+Roraima,2004,7,2
+Roraima,2005,7,2
+Roraima,2006,7,0
+Roraima,2007,7,3
+Roraima,2008,7,0
+Roraima,2009,7,18
+Roraima,2010,7,1
+Roraima,2011,7,9
+Roraima,2012,7,2
+Roraima,2013,7,4
+Roraima,2014,7,9
+Roraima,2015,7,5
+Roraima,2016,7,0
+Roraima,2017,7,3
+Roraima,1998,8,0
+Roraima,1999,8,1
+Roraima,2000,8,9
+Roraima,2001,8,4
+Roraima,2002,8,7
+Roraima,2003,8,2
+Roraima,2004,8,18
+Roraima,2005,8,9
+Roraima,2006,8,4
+Roraima,2007,8,2
+Roraima,2008,8,4
+Roraima,2009,8,29
+Roraima,2010,8,3
+Roraima,2011,8,39
+Roraima,2012,8,4
+Roraima,2013,8,3
+Roraima,2014,8,12
+Roraima,2015,8,11
+Roraima,2016,8,11
+Roraima,2017,8,35
+Roraima,1998,9,2
+Roraima,1999,9,3
+Roraima,2000,9,12
+Roraima,2001,9,1
+Roraima,2002,9,48
+Roraima,2003,9,6
+Roraima,2004,9,9
+Roraima,2005,9,72
+Roraima,2006,9,40
+Roraima,2007,9,9
+Roraima,2008,9,17
+Roraima,2009,9,117
+Roraima,2010,9,18
+Roraima,2011,9,53
+Roraima,2012,9,67
+Roraima,2013,9,18
+Roraima,2014,9,67
+Roraima,2015,9,77
+Roraima,2016,9,19
+Roraima,2017,9,43
+Roraima,1998,10,1
+Roraima,1999,10,10
+Roraima,2000,10,25
+Roraima,2001,10,13
+Roraima,2002,10,191
+Roraima,2003,10,14
+Roraima,2004,10,53
+Roraima,2005,10,88
+Roraima,2006,10,135
+Roraima,2007,10,15
+Roraima,2008,10,78
+Roraima,2009,10,197
+Roraima,2010,10,64
+Roraima,2011,10,65
+Roraima,2012,10,152
+Roraima,2013,10,63
+Roraima,2014,10,61
+Roraima,2015,10,181
+Roraima,2016,10,101
+Roraima,2017,10,156
+Roraima,1998,11,1
+Roraima,1999,11,15
+Roraima,2000,11,32
+Roraima,2001,11,76
+Roraima,2002,11,133
+Roraima,2003,11,27
+Roraima,2004,11,135
+Roraima,2005,11,135
+Roraima,2006,11,26
+Roraima,2007,11,112
+Roraima,2008,11,39
+Roraima,2009,11,312
+Roraima,2010,11,27
+Roraima,2011,11,121
+Roraima,2012,11,187
+Roraima,2013,11,106
+Roraima,2014,11,143
+Roraima,2015,11,280
+Roraima,2016,11,71
+Roraima,2017,11,327
+Roraima,1998,12,16
+Roraima,1999,12,35
+Roraima,2000,12,77
+Roraima,2001,12,76
+Roraima,2002,12,199
+Roraima,2003,12,157
+Roraima,2004,12,160
+Roraima,2005,12,71
+Roraima,2006,12,101
+Roraima,2007,12,8
+Roraima,2008,12,5
+Roraima,2009,12,290
+Roraima,2010,12,73
+Roraima,2011,12,249
+Roraima,2012,12,78
+Roraima,2013,12,65
+Roraima,2014,12,277
+Roraima,2015,12,304
+Roraima,2016,12,136
+Santa Catarina,1998,1,0
+Santa Catarina,1999,1,11
+Santa Catarina,2000,1,14
+Santa Catarina,2001,1,11
+Santa Catarina,2002,1,22
+Santa Catarina,2003,1,45
+Santa Catarina,2004,1,37
+Santa Catarina,2005,1,46
+Santa Catarina,2006,1,41
+Santa Catarina,2007,1,9
+Santa Catarina,2008,1,25
+Santa Catarina,2009,1,21
+Santa Catarina,2010,1,2
+Santa Catarina,2011,1,9
+Santa Catarina,2012,1,14
+Santa Catarina,2013,1,18
+Santa Catarina,2014,1,58
+Santa Catarina,2015,1,28
+Santa Catarina,2016,1,53
+Santa Catarina,2017,1,46
+Santa Catarina,1998,2,0
+Santa Catarina,1999,2,2
+Santa Catarina,2000,2,8
+Santa Catarina,2001,2,0
+Santa Catarina,2002,2,5
+Santa Catarina,2003,2,43
+Santa Catarina,2004,2,29
+Santa Catarina,2005,2,46
+Santa Catarina,2006,2,18
+Santa Catarina,2007,2,14
+Santa Catarina,2008,2,29
+Santa Catarina,2009,2,7
+Santa Catarina,2010,2,15
+Santa Catarina,2011,2,1
+Santa Catarina,2012,2,13
+Santa Catarina,2013,2,12
+Santa Catarina,2014,2,27
+Santa Catarina,2015,2,23
+Santa Catarina,2016,2,10
+Santa Catarina,2017,2,31
+Santa Catarina,1998,3,0
+Santa Catarina,1999,3,7
+Santa Catarina,2000,3,46
+Santa Catarina,2001,3,1
+Santa Catarina,2002,3,12
+Santa Catarina,2003,3,58
+Santa Catarina,2004,3,73
+Santa Catarina,2005,3,92
+Santa Catarina,2006,3,48
+Santa Catarina,2007,3,23
+Santa Catarina,2008,3,14
+Santa Catarina,2009,3,33
+Santa Catarina,2010,3,9
+Santa Catarina,2011,3,8
+Santa Catarina,2012,3,65
+Santa Catarina,2013,3,14
+Santa Catarina,2014,3,15
+Santa Catarina,2015,3,37
+Santa Catarina,2016,3,21
+Santa Catarina,2017,3,12
+Santa Catarina,1998,4,0
+Santa Catarina,1999,4,0
+Santa Catarina,2000,4,7
+Santa Catarina,2001,4,1
+Santa Catarina,2002,4,7
+Santa Catarina,2003,4,120
+Santa Catarina,2004,4,59
+Santa Catarina,2005,4,25
+Santa Catarina,2006,4,30
+Santa Catarina,2007,4,2
+Santa Catarina,2008,4,31
+Santa Catarina,2009,4,57
+Santa Catarina,2010,4,19
+Santa Catarina,2011,4,5
+Santa Catarina,2012,4,40
+Santa Catarina,2013,4,46
+Santa Catarina,2014,4,34
+Santa Catarina,2015,4,32
+Santa Catarina,2016,4,36
+Santa Catarina,2017,4,26
+Santa Catarina,1998,5,0
+Santa Catarina,1999,5,1
+Santa Catarina,2000,5,0
+Santa Catarina,2001,5,2
+Santa Catarina,2002,5,3
+Santa Catarina,2003,5,84
+Santa Catarina,2004,5,2
+Santa Catarina,2005,5,21
+Santa Catarina,2006,5,33
+Santa Catarina,2007,5,2
+Santa Catarina,2008,5,15
+Santa Catarina,2009,5,33
+Santa Catarina,2010,5,1
+Santa Catarina,2011,5,16
+Santa Catarina,2012,5,60
+Santa Catarina,2013,5,52
+Santa Catarina,2014,5,42
+Santa Catarina,2015,5,70
+Santa Catarina,2016,5,26
+Santa Catarina,2017,5,36
+Santa Catarina,1998,6,2
+Santa Catarina,1999,6,0
+Santa Catarina,2000,6,2
+Santa Catarina,2001,6,1
+Santa Catarina,2002,6,0
+Santa Catarina,2003,6,68
+Santa Catarina,2004,6,127
+Santa Catarina,2005,6,58
+Santa Catarina,2006,6,32
+Santa Catarina,2007,6,11
+Santa Catarina,2008,6,2
+Santa Catarina,2009,6,14
+Santa Catarina,2010,6,1
+Santa Catarina,2011,6,26
+Santa Catarina,2012,6,42
+Santa Catarina,2013,6,31
+Santa Catarina,2014,6,3
+Santa Catarina,2015,6,104
+Santa Catarina,2016,6,79
+Santa Catarina,2017,6,70
+Santa Catarina,1998,7,0
+Santa Catarina,1999,7,2
+Santa Catarina,2000,7,21
+Santa Catarina,2001,7,5
+Santa Catarina,2002,7,82
+Santa Catarina,2003,7,43
+Santa Catarina,2004,7,94
+Santa Catarina,2005,7,90
+Santa Catarina,2006,7,74
+Santa Catarina,2007,7,12
+Santa Catarina,2008,7,46
+Santa Catarina,2009,7,26
+Santa Catarina,2010,7,31
+Santa Catarina,2011,7,31
+Santa Catarina,2012,7,42
+Santa Catarina,2013,7,69
+Santa Catarina,2014,7,82
+Santa Catarina,2015,7,45
+Santa Catarina,2016,7,480
+Santa Catarina,2017,7,591
+Santa Catarina,1998,8,0
+Santa Catarina,1999,8,51
+Santa Catarina,2000,8,69
+Santa Catarina,2001,8,24
+Santa Catarina,2002,8,702
+Santa Catarina,2003,8,1.513
+Santa Catarina,2004,8,728
+Santa Catarina,2005,8,391
+Santa Catarina,2006,8,728
+Santa Catarina,2007,8,462
+Santa Catarina,2008,8,51
+Santa Catarina,2009,8,759
+Santa Catarina,2010,8,511
+Santa Catarina,2011,8,175
+Santa Catarina,2012,8,398
+Santa Catarina,2013,8,236
+Santa Catarina,2014,8,459
+Santa Catarina,2015,8,379
+Santa Catarina,2016,8,765
+Santa Catarina,2017,8,713
+Santa Catarina,1998,9,6
+Santa Catarina,1999,9,101
+Santa Catarina,2000,9,36
+Santa Catarina,2001,9,18
+Santa Catarina,2002,9,416
+Santa Catarina,2003,9,1.339
+Santa Catarina,2004,9,755
+Santa Catarina,2005,9,116
+Santa Catarina,2006,9,530
+Santa Catarina,2007,9,617
+Santa Catarina,2008,9,233
+Santa Catarina,2009,9,47
+Santa Catarina,2010,9,198
+Santa Catarina,2011,9,450
+Santa Catarina,2012,9,188
+Santa Catarina,2013,9,303
+Santa Catarina,2014,9,208
+Santa Catarina,2015,9,156
+Santa Catarina,2016,9,644
+Santa Catarina,2017,9,626
+Santa Catarina,1998,10,4
+Santa Catarina,1999,10,16
+Santa Catarina,2000,10,55
+Santa Catarina,2001,10,26
+Santa Catarina,2002,10,42
+Santa Catarina,2003,10,669
+Santa Catarina,2004,10,704
+Santa Catarina,2005,10,197
+Santa Catarina,2006,10,269
+Santa Catarina,2007,10,35
+Santa Catarina,2008,10,56
+Santa Catarina,2009,10,252
+Santa Catarina,2010,10,76
+Santa Catarina,2011,10,102
+Santa Catarina,2012,10,34
+Santa Catarina,2013,10,107
+Santa Catarina,2014,10,122
+Santa Catarina,2015,10,21
+Santa Catarina,2016,10,56
+Santa Catarina,2017,10,51
+Santa Catarina,1998,11,21
+Santa Catarina,1999,11,84
+Santa Catarina,2000,11,19
+Santa Catarina,2001,11,66
+Santa Catarina,2002,11,348
+Santa Catarina,2003,11,347
+Santa Catarina,2004,11,279
+Santa Catarina,2005,11,384
+Santa Catarina,2006,11,45
+Santa Catarina,2007,11,26
+Santa Catarina,2008,11,16
+Santa Catarina,2009,11,61
+Santa Catarina,2010,11,88
+Santa Catarina,2011,11,79
+Santa Catarina,2012,11,72
+Santa Catarina,2013,11,84
+Santa Catarina,2014,11,43
+Santa Catarina,2015,11,9
+Santa Catarina,2016,11,156
+Santa Catarina,2017,11,152
+Santa Catarina,1998,12,26
+Santa Catarina,1999,12,89
+Santa Catarina,2000,12,29
+Santa Catarina,2001,12,45
+Santa Catarina,2002,12,76
+Santa Catarina,2003,12,129
+Santa Catarina,2004,12,68
+Santa Catarina,2005,12,17
+Santa Catarina,2006,12,7
+Santa Catarina,2007,12,17
+Santa Catarina,2008,12,29
+Santa Catarina,2009,12,20
+Santa Catarina,2010,12,23
+Santa Catarina,2011,12,24
+Santa Catarina,2012,12,32
+Santa Catarina,2013,12,74
+Santa Catarina,2014,12,45
+Santa Catarina,2015,12,19
+Santa Catarina,2016,12,20
+Sao Paulo,1998,1,0
+Sao Paulo,1999,1,7
+Sao Paulo,2000,1,36
+Sao Paulo,2001,1,26
+Sao Paulo,2002,1,19
+Sao Paulo,2003,1,59
+Sao Paulo,2004,1,37
+Sao Paulo,2005,1,26
+Sao Paulo,2006,1,76
+Sao Paulo,2007,1,14
+Sao Paulo,2008,1,34
+Sao Paulo,2009,1,12
+Sao Paulo,2010,1,45
+Sao Paulo,2011,1,75
+Sao Paulo,2012,1,38
+Sao Paulo,2013,1,36
+Sao Paulo,2014,1,99
+Sao Paulo,2015,1,120
+Sao Paulo,2016,1,85
+Sao Paulo,2017,1,28
+Sao Paulo,1998,2,0
+Sao Paulo,1999,2,47
+Sao Paulo,2000,2,25
+Sao Paulo,2001,2,25
+Sao Paulo,2002,2,19
+Sao Paulo,2003,2,137
+Sao Paulo,2004,2,41
+Sao Paulo,2005,2,78
+Sao Paulo,2006,2,59
+Sao Paulo,2007,2,96
+Sao Paulo,2008,2,30
+Sao Paulo,2009,2,65
+Sao Paulo,2010,2,152
+Sao Paulo,2011,2,73
+Sao Paulo,2012,2,81
+Sao Paulo,2013,2,100
+Sao Paulo,2014,2,112
+Sao Paulo,2015,2,69
+Sao Paulo,2016,2,188
+Sao Paulo,2017,2,107
+Sao Paulo,1998,3,0
+Sao Paulo,1999,3,78
+Sao Paulo,2000,3,26
+Sao Paulo,2001,3,35
+Sao Paulo,2002,3,111
+Sao Paulo,2003,3,86
+Sao Paulo,2004,3,73
+Sao Paulo,2005,3,73
+Sao Paulo,2006,3,106
+Sao Paulo,2007,3,152
+Sao Paulo,2008,3,72
+Sao Paulo,2009,3,55
+Sao Paulo,2010,3,111
+Sao Paulo,2011,3,45
+Sao Paulo,2012,3,99
+Sao Paulo,2013,3,57
+Sao Paulo,2014,3,75
+Sao Paulo,2015,3,68
+Sao Paulo,2016,3,82
+Sao Paulo,2017,3,103
+Sao Paulo,1998,4,0
+Sao Paulo,1999,4,291
+Sao Paulo,2000,4,102
+Sao Paulo,2001,4,61
+Sao Paulo,2002,4,178
+Sao Paulo,2003,4,106
+Sao Paulo,2004,4,36
+Sao Paulo,2005,4,62
+Sao Paulo,2006,4,63
+Sao Paulo,2007,4,44
+Sao Paulo,2008,4,84
+Sao Paulo,2009,4,67
+Sao Paulo,2010,4,91
+Sao Paulo,2011,4,52
+Sao Paulo,2012,4,82
+Sao Paulo,2013,4,103
+Sao Paulo,2014,4,103
+Sao Paulo,2015,4,76
+Sao Paulo,2016,4,307
+Sao Paulo,2017,4,41
+Sao Paulo,1998,5,0
+Sao Paulo,1999,5,500
+Sao Paulo,2000,5,300
+Sao Paulo,2001,5,211
+Sao Paulo,2002,5,319
+Sao Paulo,2003,5,69
+Sao Paulo,2004,5,60
+Sao Paulo,2005,5,212
+Sao Paulo,2006,5,88
+Sao Paulo,2007,5,69
+Sao Paulo,2008,5,40
+Sao Paulo,2009,5,142
+Sao Paulo,2010,5,150
+Sao Paulo,2011,5,136
+Sao Paulo,2012,5,82
+Sao Paulo,2013,5,118
+Sao Paulo,2014,5,181
+Sao Paulo,2015,5,65
+Sao Paulo,2016,5,139
+Sao Paulo,2017,5,43
+Sao Paulo,1998,6,451
+Sao Paulo,1999,6,522
+Sao Paulo,2000,6,606
+Sao Paulo,2001,6,346
+Sao Paulo,2002,6,562
+Sao Paulo,2003,6,132
+Sao Paulo,2004,6,231
+Sao Paulo,2005,6,236
+Sao Paulo,2006,6,97
+Sao Paulo,2007,6,91
+Sao Paulo,2008,6,25
+Sao Paulo,2009,6,125
+Sao Paulo,2010,6,143
+Sao Paulo,2011,6,210
+Sao Paulo,2012,6,30
+Sao Paulo,2013,6,47
+Sao Paulo,2014,6,331
+Sao Paulo,2015,6,147
+Sao Paulo,2016,6,197
+Sao Paulo,2017,6,217
+Sao Paulo,1998,7,596
+Sao Paulo,1999,7,684
+Sao Paulo,2000,7,770
+Sao Paulo,2001,7,538
+Sao Paulo,2002,7,448
+Sao Paulo,2003,7,171
+Sao Paulo,2004,7,342
+Sao Paulo,2005,7,284
+Sao Paulo,2006,7,245
+Sao Paulo,2007,7,94
+Sao Paulo,2008,7,126
+Sao Paulo,2009,7,110
+Sao Paulo,2010,7,600
+Sao Paulo,2011,7,479
+Sao Paulo,2012,7,179
+Sao Paulo,2013,7,181
+Sao Paulo,2014,7,476
+Sao Paulo,2015,7,149
+Sao Paulo,2016,7,687
+Sao Paulo,2017,7,802
+Sao Paulo,1998,8,581
+Sao Paulo,1999,8,1.211
+Sao Paulo,2000,8,915
+Sao Paulo,2001,8,595
+Sao Paulo,2002,8,719
+Sao Paulo,2003,8,934
+Sao Paulo,2004,8,794
+Sao Paulo,2005,8,522
+Sao Paulo,2006,8,572
+Sao Paulo,2007,8,470
+Sao Paulo,2008,8,153
+Sao Paulo,2009,8,289
+Sao Paulo,2010,8,1.809
+Sao Paulo,2011,8,1.067
+Sao Paulo,2012,8,435
+Sao Paulo,2013,8,497
+Sao Paulo,2014,8,1.458
+Sao Paulo,2015,8,643
+Sao Paulo,2016,8,797
+Sao Paulo,2017,8,981
+Sao Paulo,1998,9,525
+Sao Paulo,1999,9,911
+Sao Paulo,2000,9,582
+Sao Paulo,2001,9,425
+Sao Paulo,2002,9,302
+Sao Paulo,2003,9,977
+Sao Paulo,2004,9,809
+Sao Paulo,2005,9,231
+Sao Paulo,2006,9,694
+Sao Paulo,2007,9,495
+Sao Paulo,2008,9,486
+Sao Paulo,2009,9,116
+Sao Paulo,2010,9,1.677
+Sao Paulo,2011,9,1.108
+Sao Paulo,2012,9,813
+Sao Paulo,2013,9,560
+Sao Paulo,2014,9,882
+Sao Paulo,2015,9,368
+Sao Paulo,2016,9,490
+Sao Paulo,2017,9,2.868
+Sao Paulo,1998,10,434
+Sao Paulo,1999,10,763
+Sao Paulo,2000,10,647
+Sao Paulo,2001,10,444
+Sao Paulo,2002,10,733
+Sao Paulo,2003,10,422
+Sao Paulo,2004,10,195
+Sao Paulo,2005,10,221
+Sao Paulo,2006,10,153
+Sao Paulo,2007,10,281
+Sao Paulo,2008,10,87
+Sao Paulo,2009,10,64
+Sao Paulo,2010,10,260
+Sao Paulo,2011,10,188
+Sao Paulo,2012,10,206
+Sao Paulo,2013,10,127
+Sao Paulo,2014,10,887
+Sao Paulo,2015,10,213
+Sao Paulo,2016,10,177
+Sao Paulo,2017,10,179
+Sao Paulo,1998,11,488
+Sao Paulo,1999,11,398
+Sao Paulo,2000,11,96
+Sao Paulo,2001,11,168
+Sao Paulo,2002,11,72
+Sao Paulo,2003,11,155
+Sao Paulo,2004,11,144
+Sao Paulo,2005,11,163
+Sao Paulo,2006,11,43
+Sao Paulo,2007,11,50
+Sao Paulo,2008,11,20
+Sao Paulo,2009,11,83
+Sao Paulo,2010,11,104
+Sao Paulo,2011,11,87
+Sao Paulo,2012,11,50
+Sao Paulo,2013,11,120
+Sao Paulo,2014,11,56
+Sao Paulo,2015,11,21
+Sao Paulo,2016,11,39
+Sao Paulo,2017,11,37
+Sao Paulo,1998,12,121
+Sao Paulo,1999,12,47
+Sao Paulo,2000,12,23
+Sao Paulo,2001,12,52
+Sao Paulo,2002,12,57
+Sao Paulo,2003,12,58
+Sao Paulo,2004,12,102
+Sao Paulo,2005,12,15
+Sao Paulo,2006,12,13
+Sao Paulo,2007,12,21
+Sao Paulo,2008,12,36
+Sao Paulo,2009,12,37
+Sao Paulo,2010,12,52
+Sao Paulo,2011,12,53
+Sao Paulo,2012,12,64
+Sao Paulo,2013,12,109
+Sao Paulo,2014,12,57
+Sao Paulo,2015,12,45
+Sao Paulo,2016,12,47
+Sergipe,1998,1,0
+Sergipe,1999,1,36
+Sergipe,2000,1,1
+Sergipe,2001,1,2
+Sergipe,2002,1,1
+Sergipe,2003,1,198
+Sergipe,2004,1,16
+Sergipe,2005,1,80
+Sergipe,2006,1,36
+Sergipe,2007,1,56
+Sergipe,2008,1,100
+Sergipe,2009,1,60
+Sergipe,2010,1,29
+Sergipe,2011,1,36
+Sergipe,2012,1,39
+Sergipe,2013,1,34
+Sergipe,2014,1,20
+Sergipe,2015,1,44
+Sergipe,2016,1,9
+Sergipe,2017,1,31
+Sergipe,1998,2,0
+Sergipe,1999,2,25
+Sergipe,2000,2,6
+Sergipe,2001,2,2
+Sergipe,2002,2,6
+Sergipe,2003,2,50
+Sergipe,2004,2,10
+Sergipe,2005,2,19
+Sergipe,2006,2,36
+Sergipe,2007,2,22
+Sergipe,2008,2,67
+Sergipe,2009,2,64
+Sergipe,2010,2,33
+Sergipe,2011,2,31
+Sergipe,2012,2,34
+Sergipe,2013,2,47
+Sergipe,2014,2,18
+Sergipe,2015,2,40
+Sergipe,2016,2,22
+Sergipe,2017,2,18
+Sergipe,1998,3,0
+Sergipe,1999,3,18
+Sergipe,2000,3,6
+Sergipe,2001,3,1
+Sergipe,2002,3,7
+Sergipe,2003,3,62
+Sergipe,2004,3,36
+Sergipe,2005,3,28
+Sergipe,2006,3,41
+Sergipe,2007,3,2
+Sergipe,2008,3,43
+Sergipe,2009,3,29
+Sergipe,2010,3,44
+Sergipe,2011,3,47
+Sergipe,2012,3,71
+Sergipe,2013,3,67
+Sergipe,2014,3,33
+Sergipe,2015,3,49
+Sergipe,2016,3,26
+Sergipe,2017,3,16
+Sergipe,1998,4,0
+Sergipe,1999,4,6
+Sergipe,2000,4,1
+Sergipe,2001,4,0
+Sergipe,2002,4,12
+Sergipe,2003,4,48
+Sergipe,2004,4,13
+Sergipe,2005,4,8
+Sergipe,2006,4,9
+Sergipe,2007,4,1
+Sergipe,2008,4,2
+Sergipe,2009,4,19
+Sergipe,2010,4,1
+Sergipe,2011,4,12
+Sergipe,2012,4,40
+Sergipe,2013,4,15
+Sergipe,2014,4,7
+Sergipe,2015,4,35
+Sergipe,2016,4,14
+Sergipe,2017,4,8
+Sergipe,1998,5,0
+Sergipe,1999,5,0
+Sergipe,2000,5,0
+Sergipe,2001,5,3
+Sergipe,2002,5,0
+Sergipe,2003,5,2
+Sergipe,2004,5,5
+Sergipe,2005,5,0
+Sergipe,2006,5,0
+Sergipe,2007,5,0
+Sergipe,2008,5,0
+Sergipe,2009,5,0
+Sergipe,2010,5,0
+Sergipe,2011,5,0
+Sergipe,2012,5,17
+Sergipe,2013,5,1
+Sergipe,2014,5,1
+Sergipe,2015,5,11
+Sergipe,2016,5,9
+Sergipe,2017,5,1
+Sergipe,1998,6,0
+Sergipe,1999,6,0
+Sergipe,2000,6,0
+Sergipe,2001,6,0
+Sergipe,2002,6,0
+Sergipe,2003,6,0
+Sergipe,2004,6,0
+Sergipe,2005,6,0
+Sergipe,2006,6,0
+Sergipe,2007,6,0
+Sergipe,2008,6,0
+Sergipe,2009,6,2
+Sergipe,2010,6,0
+Sergipe,2011,6,1
+Sergipe,2012,6,3
+Sergipe,2013,6,1
+Sergipe,2014,6,0
+Sergipe,2015,6,3
+Sergipe,2016,6,1
+Sergipe,2017,6,0
+Sergipe,1998,7,0
+Sergipe,1999,7,0
+Sergipe,2000,7,0
+Sergipe,2001,7,0
+Sergipe,2002,7,0
+Sergipe,2003,7,0
+Sergipe,2004,7,0
+Sergipe,2005,7,0
+Sergipe,2006,7,0
+Sergipe,2007,7,0
+Sergipe,2008,7,0
+Sergipe,2009,7,0
+Sergipe,2010,7,0
+Sergipe,2011,7,0
+Sergipe,2012,7,1
+Sergipe,2013,7,0
+Sergipe,2014,7,0
+Sergipe,2015,7,0
+Sergipe,2016,7,0
+Sergipe,2017,7,0
+Sergipe,1998,8,0
+Sergipe,1999,8,0
+Sergipe,2000,8,0
+Sergipe,2001,8,0
+Sergipe,2002,8,2
+Sergipe,2003,8,0
+Sergipe,2004,8,0
+Sergipe,2005,8,0
+Sergipe,2006,8,0
+Sergipe,2007,8,0
+Sergipe,2008,8,0
+Sergipe,2009,8,0
+Sergipe,2010,8,0
+Sergipe,2011,8,1
+Sergipe,2012,8,0
+Sergipe,2013,8,0
+Sergipe,2014,8,0
+Sergipe,2015,8,0
+Sergipe,2016,8,6
+Sergipe,2017,8,0
+Sergipe,1998,9,0
+Sergipe,1999,9,0
+Sergipe,2000,9,0
+Sergipe,2001,9,1
+Sergipe,2002,9,0
+Sergipe,2003,9,3
+Sergipe,2004,9,0
+Sergipe,2005,9,2
+Sergipe,2006,9,0
+Sergipe,2007,9,0
+Sergipe,2008,9,0
+Sergipe,2009,9,1
+Sergipe,2010,9,0
+Sergipe,2011,9,0
+Sergipe,2012,9,1
+Sergipe,2013,9,1
+Sergipe,2014,9,4
+Sergipe,2015,9,1
+Sergipe,2016,9,2
+Sergipe,2017,9,0
+Sergipe,1998,10,0
+Sergipe,1999,10,0
+Sergipe,2000,10,3
+Sergipe,2001,10,5
+Sergipe,2002,10,20
+Sergipe,2003,10,2
+Sergipe,2004,10,3
+Sergipe,2005,10,11
+Sergipe,2006,10,3
+Sergipe,2007,10,3
+Sergipe,2008,10,0
+Sergipe,2009,10,1
+Sergipe,2010,10,1
+Sergipe,2011,10,5
+Sergipe,2012,10,1
+Sergipe,2013,10,3
+Sergipe,2014,10,3
+Sergipe,2015,10,6
+Sergipe,2016,10,10
+Sergipe,2017,10,0
+Sergipe,1998,11,12
+Sergipe,1999,11,3
+Sergipe,2000,11,0
+Sergipe,2001,11,5
+Sergipe,2002,11,57
+Sergipe,2003,11,2
+Sergipe,2004,11,41
+Sergipe,2005,11,23
+Sergipe,2006,11,5
+Sergipe,2007,11,7
+Sergipe,2008,11,17
+Sergipe,2009,11,9
+Sergipe,2010,11,16
+Sergipe,2011,11,4
+Sergipe,2012,11,6
+Sergipe,2013,11,7
+Sergipe,2014,11,9
+Sergipe,2015,11,47
+Sergipe,2016,11,17
+Sergipe,2017,11,1
+Sergipe,1998,12,8
+Sergipe,1999,12,5
+Sergipe,2000,12,0
+Sergipe,2001,12,5
+Sergipe,2002,12,103
+Sergipe,2003,12,36
+Sergipe,2004,12,66
+Sergipe,2005,12,29
+Sergipe,2006,12,17
+Sergipe,2007,12,33
+Sergipe,2008,12,14
+Sergipe,2009,12,21
+Sergipe,2010,12,19
+Sergipe,2011,12,36
+Sergipe,2012,12,18
+Sergipe,2013,12,9
+Sergipe,2014,12,9
+Sergipe,2015,12,63
+Sergipe,2016,12,36
+Tocantins,1998,1,0
+Tocantins,1999,1,36
+Tocantins,2000,1,15
+Tocantins,2001,1,19
+Tocantins,2002,1,35
+Tocantins,2003,1,35
+Tocantins,2004,1,40
+Tocantins,2005,1,66
+Tocantins,2006,1,91
+Tocantins,2007,1,34
+Tocantins,2008,1,28
+Tocantins,2009,1,43
+Tocantins,2010,1,79
+Tocantins,2011,1,14
+Tocantins,2012,1,12
+Tocantins,2013,1,50
+Tocantins,2014,1,89
+Tocantins,2015,1,186
+Tocantins,2016,1,42
+Tocantins,2017,1,61
+Tocantins,1998,2,0
+Tocantins,1999,2,1
+Tocantins,2000,2,6
+Tocantins,2001,2,6
+Tocantins,2002,2,48
+Tocantins,2003,2,15
+Tocantins,2004,2,7
+Tocantins,2005,2,27
+Tocantins,2006,2,14
+Tocantins,2007,2,8
+Tocantins,2008,2,6
+Tocantins,2009,2,21
+Tocantins,2010,2,32
+Tocantins,2011,2,13
+Tocantins,2012,2,45
+Tocantins,2013,2,37
+Tocantins,2014,2,73
+Tocantins,2015,2,65
+Tocantins,2016,2,383
+Tocantins,2017,2,25
+Tocantins,1998,3,0
+Tocantins,1999,3,1
+Tocantins,2000,3,4
+Tocantins,2001,3,0
+Tocantins,2002,3,33
+Tocantins,2003,3,19
+Tocantins,2004,3,23
+Tocantins,2005,3,13
+Tocantins,2006,3,11
+Tocantins,2007,3,99
+Tocantins,2008,3,4
+Tocantins,2009,3,23
+Tocantins,2010,3,120
+Tocantins,2011,3,16
+Tocantins,2012,3,80
+Tocantins,2013,3,60
+Tocantins,2014,3,58
+Tocantins,2015,3,85
+Tocantins,2016,3,165
+Tocantins,2017,3,98
+Tocantins,1998,4,0
+Tocantins,1999,4,9
+Tocantins,2000,4,0
+Tocantins,2001,4,19
+Tocantins,2002,4,37
+Tocantins,2003,4,64
+Tocantins,2004,4,52
+Tocantins,2005,4,52
+Tocantins,2006,4,4
+Tocantins,2007,4,22
+Tocantins,2008,4,46
+Tocantins,2009,4,5
+Tocantins,2010,4,419
+Tocantins,2011,4,106
+Tocantins,2012,4,226
+Tocantins,2013,4,130
+Tocantins,2014,4,187
+Tocantins,2015,4,88
+Tocantins,2016,4,369
+Tocantins,2017,4,164
+Tocantins,1998,5,0
+Tocantins,1999,5,24
+Tocantins,2000,5,69
+Tocantins,2001,5,48
+Tocantins,2002,5,138
+Tocantins,2003,5,96
+Tocantins,2004,5,350
+Tocantins,2005,5,236
+Tocantins,2006,5,35
+Tocantins,2007,5,250
+Tocantins,2008,5,81
+Tocantins,2009,5,91
+Tocantins,2010,5,580
+Tocantins,2011,5,354
+Tocantins,2012,5,467
+Tocantins,2013,5,373
+Tocantins,2014,5,618
+Tocantins,2015,5,512
+Tocantins,2016,5,778
+Tocantins,2017,5,576
+Tocantins,1998,6,252
+Tocantins,1999,6,113
+Tocantins,2000,6,278
+Tocantins,2001,6,305
+Tocantins,2002,6,396
+Tocantins,2003,6,329
+Tocantins,2004,6,1.079
+Tocantins,2005,6,669
+Tocantins,2006,6,289
+Tocantins,2007,6,591
+Tocantins,2008,6,282
+Tocantins,2009,6,421
+Tocantins,2010,6,767
+Tocantins,2011,6,717
+Tocantins,2012,6,922
+Tocantins,2013,6,873
+Tocantins,2014,6,1.372
+Tocantins,2015,6,1.15
+Tocantins,2016,6,1.148
+Tocantins,2017,6,1.32
+Tocantins,1998,7,640
+Tocantins,1999,7,373
+Tocantins,2000,7,500
+Tocantins,2001,7,830
+Tocantins,2002,7,976
+Tocantins,2003,7,762
+Tocantins,2004,7,1.389
+Tocantins,2005,7,1.082
+Tocantins,2006,7,430
+Tocantins,2007,7,982
+Tocantins,2008,7,441
+Tocantins,2009,7,989
+Tocantins,2010,7,2.408
+Tocantins,2011,7,1.001
+Tocantins,2012,7,1.693
+Tocantins,2013,7,1.393
+Tocantins,2014,7,1.404
+Tocantins,2015,7,1.217
+Tocantins,2016,7,2.737
+Tocantins,2017,7,2.397
+Tocantins,1998,8,3.747
+Tocantins,1999,8,1.284
+Tocantins,2000,8,1.949
+Tocantins,2001,8,2.242
+Tocantins,2002,8,3.027
+Tocantins,2003,8,1.339
+Tocantins,2004,8,1.776
+Tocantins,2005,8,1.84
+Tocantins,2006,8,1.277
+Tocantins,2007,8,4.747
+Tocantins,2008,8,845
+Tocantins,2009,8,1.124
+Tocantins,2010,8,7.865
+Tocantins,2011,8,1.668
+Tocantins,2012,8,4.28
+Tocantins,2013,8,1.81
+Tocantins,2014,8,2.917
+Tocantins,2015,8,2.54
+Tocantins,2016,8,3.213
+Tocantins,2017,8,3.536
+Tocantins,1998,9,5.149
+Tocantins,1999,9,3.415
+Tocantins,2000,9,2.552
+Tocantins,2001,9,4.839
+Tocantins,2002,9,5.314
+Tocantins,2003,9,4.637
+Tocantins,2004,9,5.308
+Tocantins,2005,9,5.319
+Tocantins,2006,9,2.979
+Tocantins,2007,9,6.829
+Tocantins,2008,9,2.39
+Tocantins,2009,9,2.017
+Tocantins,2010,9,10.172
+Tocantins,2011,9,4.658
+Tocantins,2012,9,7.46
+Tocantins,2013,9,2.445
+Tocantins,2014,9,3.52
+Tocantins,2015,9,5.51
+Tocantins,2016,9,3.245
+Tocantins,2017,9,10.737
+Tocantins,1998,10,1.738
+Tocantins,1999,10,1.378
+Tocantins,2000,10,1.053
+Tocantins,2001,10,684
+Tocantins,2002,10,1.537
+Tocantins,2003,10,1.339
+Tocantins,2004,10,1.658
+Tocantins,2005,10,2.913
+Tocantins,2006,10,1.176
+Tocantins,2007,10,2.252
+Tocantins,2008,10,2.832
+Tocantins,2009,10,718
+Tocantins,2010,10,2.272
+Tocantins,2011,10,1.591
+Tocantins,2012,10,3.68
+Tocantins,2013,10,2.155
+Tocantins,2014,10,4
+Tocantins,2015,10,4.844
+Tocantins,2016,10,2.032
+Tocantins,2017,10,2.969
+Tocantins,1998,11,1
+Tocantins,1999,11,29
+Tocantins,2000,11,96
+Tocantins,2001,11,100
+Tocantins,2002,11,207
+Tocantins,2003,11,146
+Tocantins,2004,11,424
+Tocantins,2005,11,271
+Tocantins,2006,11,108
+Tocantins,2007,11,147
+Tocantins,2008,11,104
+Tocantins,2009,11,251
+Tocantins,2010,11,283
+Tocantins,2011,11,144
+Tocantins,2012,11,179
+Tocantins,2013,11,345
+Tocantins,2014,11,451
+Tocantins,2015,11,833
+Tocantins,2016,11,623
+Tocantins,2017,11,434
+Tocantins,1998,12,9
+Tocantins,1999,12,16
+Tocantins,2000,12,20
+Tocantins,2001,12,21
+Tocantins,2002,12,39
+Tocantins,2003,12,109
+Tocantins,2004,12,96
+Tocantins,2005,12,53
+Tocantins,2006,12,15
+Tocantins,2007,12,13
+Tocantins,2008,12,7
+Tocantins,2009,12,46
+Tocantins,2010,12,72
+Tocantins,2011,12,105
+Tocantins,2012,12,128
+Tocantins,2013,12,85
+Tocantins,2014,12,223
+Tocantins,2015,12,373
+Tocantins,2016,12,119
